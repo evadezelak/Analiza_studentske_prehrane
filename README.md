@@ -6,7 +6,7 @@ Podatke bom zajela iz spletne strani https://www.studentska-prehrana.si/sl/resta
 
 &nbsp;
 
-Od vsake izmed restavracij bom pridobila naslednje podatke: 
+## Od vsake izmed restavracij bom pridobila naslednje podatke: 
 - ime restavracije
 - ocena restavracije
 - lokacija restavracije
@@ -20,7 +20,7 @@ Od vsake izmed restavracij bom pridobila naslednje podatke:
 
 &nbsp;
 
-Analizirala bom:
+## Analizirala bom:
 - v katerem mestu so najbolje ocenjene restavracije
 - kako je ocena restavracije povezana s ceno obroka
 - v katerem mestu je največ vegetarijanskih restavracij
