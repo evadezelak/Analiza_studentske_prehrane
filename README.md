@@ -1,8 +1,6 @@
 # Analiza_studentske_prehrane
 
 Ta repozitorij vsebuje projekt pri Programiranju 1 - zajem in analiza podakov.
-
-
 Podatke bom zajela iz spletne strani https://www.studentska-prehrana.si/sl/restaurant 
 &nbsp;
 
