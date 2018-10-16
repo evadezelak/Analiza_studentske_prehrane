@@ -5,6 +5,7 @@ Podatke bom zajela iz spletne strani https://www.studentska-prehrana.si/sl/resta
 
 
 
+
 Od vsake izmed restavracij bom pridobila naslednje podatke: 
 - ime restavracije
 - ocena restavracije
@@ -15,6 +16,7 @@ Od vsake izmed restavracij bom pridobila naslednje podatke:
 - ali ima restavracija tudi možnost dostave
 - ali je restavracija odprta ob vikendih
 - ali gre za novo restavracijo v ponudbi studentske prehrane
+
 
 
 
