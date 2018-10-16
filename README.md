@@ -1,7 +1,11 @@
 # Analiza_studentske_prehrane
 
 Ta repozitorij vsebuje projekt pri Programiranju 1 - zajem in analiza podakov.
+
+
 Podatke bom zajela iz spletne strani https://www.studentska-prehrana.si/sl/restaurant 
+&nbsp;
+&nbsp;
 
 Od vsake izmed restavracij bom pridobila naslednje podatke: 
 - ime restavracije
@@ -13,6 +17,8 @@ Od vsake izmed restavracij bom pridobila naslednje podatke:
 - ali ima restavracija tudi možnost dostave
 - ali je restavracija odprta ob vikendih
 - ali gre za novo restavracijo v ponudbi studentske prehrane
+&nbsp;
+&nbsp;
 
 Analizirala bom:
 - v katerem mestu so najbolje ocenjene restavracije
