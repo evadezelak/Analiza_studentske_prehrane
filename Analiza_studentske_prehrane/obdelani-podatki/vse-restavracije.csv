@@ -4,7 +4,9 @@ ABI FALAFEL,LJUBLJANA,service-1 service-3 service-20 service-21
 AGA KEBAPČI,LJUBLJANA,service-3 service-9 service-20 service-22
 AMBIENT,LJUBLJANA,service-1 service-8 service-20 service-21
 ANTARO,LJUBLJANA,service-1 service-3 service-7 service-21
-APAČI,LJUBLJANA,service-1 service-3 service-20 service-21
+APAČI,SLOVENJ GRADEC,service-1 service-3 service-20 service-21
+APAČI - DOSTAVA,SLOVENJ GRADEC,service-1 service-5 service-20 service-21
+"AROMA, RESTAVRACIJA IN PIZZERIJA",LJUBLJANA,service-1 service-20 service-21
 AZIJSKA RESTAVRACIJA HAN,LJUBLJANA,service-1 service-20 service-21
 AZIJSKA RESTAVRACIJA TLOFT,LJUBLJANA,service-1 service-20 service-21
 B2 RESTAVRACIJA,LJUBLJANA,service-1 service-3 service-21
@@ -19,7 +21,11 @@ BIOTEHNIŠKI IZOBRAŽEVALNI CENTER LJUBLJANA,LJUBLJANA,service-1 service-8 servi
 BIOTEHNIŠKI IZOBRAŽEVALNI CENTER LJUBLJANA,LJUBLJANA,service-1 service-8 service-21
 BISTRO ARTY+,MARIBOR,service-1 service-21 service-69
 BISTRO ŠUMI,LJUBLJANA,service-1 service-3 service-7 service-21
-BISTRO TANJA- DOSTAVA,MARIBOR,service-1 service-5 service-20 service-21
+BISTRO TANJA- DOSTAVA,MURSKA SOBOTA,service-1 service-5 service-20 service-21
+BISTRO VILLADOMUS,KOPER/CAPODISTRIA,service-1 service-3 service-21
+BOHOR,ROGAŠKA SLATINA,service-1 service-3 service-20 service-21
+BON CAFE LUCIJA,PORTOROŽ/PORTOROSE,service-1 service-3 service-20 service-21
+BOWLING CENTER STRIKE,MARIBOR,service-1 service-8 service-20 service-21
 BRATJE EREN TAHIRI,LJUBLJANA,service-1 service-3 service-20 service-21
 BRUC BAR,MARIBOR,service-3 service-22 service-69
 BUF KRANJ,KRANJ,service-3 service-7 service-20 service-21
@@ -31,17 +37,25 @@ CANTINA MEXICANA RUDNIK,LJUBLJANA,service-1 service-3 service-7 service-20 servi
 CENTRALNA POSTAJA,LJUBLJANA,service-20 service-21
 CITY GRILL,MARIBOR,service-3 service-20 service-22
 CITY GRILL - DOSTAVA,MARIBOR,service-5 service-20 service-22
-CITY PIZZA EXPRESS - DOSTAVA,LJUBLJANA,service-1 service-5 service-9 service-20 service-21
-ČEVABDŽINICA SARAJEVO 84,LJUBLJANA,service-1 service-3 service-20 service-21
+CITY PIZZA EXPRESS - DOSTAVA,KOPER/CAPODISTRIA,service-1 service-5 service-9 service-20 service-21
+CITYBURGER,KOPER/CAPODISTRIA,service-1 service-3 service-9 service-20 service-21
+CUTTY FOOD CORNER,LJUBLJANA,service-3 service-20 service-22
+ČEVABDŽINICA SARAJEVO 84,KOPER/CAPODISTRIA,service-1 service-3 service-20 service-21
+ČEVABDŽINICA SARAJEVO 84,KOPER/CAPODISTRIA,service-1 service-3 service-20 service-21
+ČEVABDŽINICA SARAJEVO 84 - DOSTAVA,KOPER/CAPODISTRIA,service-1 service-5 service-20 service-21
+"DA BU DA, AZIJSKA RESTAVRACIJA",LJUBLJANA,service-1 service-7 service-20 service-21
 DIFOOD-EAT GOOD,LJUBLJANA,service-3 service-21
 DIJAŠKI DOM IVANA CANKARJA,LJUBLJANA,service-1 service-7 service-21
 DIJAŠKI DOM LIZIKE JANČAR,MARIBOR,service-1 service-7 service-8 service-21
 DIJAŠKI DOM MARIBOR,MARIBOR,service-1 service-7 service-9 service-21
 DIJAŠKI DOM POLJANE,LJUBLJANA,service-1 service-7 service-8 service-21
-DIJAŠKI DOM PORTOROŽ,LJUBLJANA,service-1 service-22 service-69
+DIJAŠKI DOM PORTOROŽ,PORTOROŽ/PORTOROSE,service-1 service-22 service-69
+DIJAŠKI DOM TABOR,LJUBLJANA,service-1 service-7 service-21
 DIJAŠKI DOM VIČ,LJUBLJANA,service-1 service-3 service-7 service-21
-DIJAŠKI IN ŠTUDENTSKI DOM KOPER,KRANJ,service-1 service-3 service-7 service-21
-DIJAŠKI IN ŠTUDENTSKI DOM NOVO MESTO,LJUBLJANA,service-1 service-7 service-8 service-21
+DIJAŠKI IN ŠTUDENTSKI DOM KOPER,KOPER/CAPODISTRIA,service-1 service-3 service-7 service-21
+DIJAŠKI IN ŠTUDENTSKI DOM KRANJ,KRANJ,service-1 service-3 service-21
+DIJAŠKI IN ŠTUDENTSKI DOM NOVO MESTO,NOVO MESTO,service-1 service-7 service-8 service-21
+DOBROTE VZHODA,LJUBLJANA,service-1 service-20 service-21
 DOMAČA PEKARNA,LJUBLJANA,service-3 service-21
 DUNYA DONER,LJUBLJANA,service-1 service-3 service-20 service-21
 EAT SMART,MARIBOR,service-1 service-21
@@ -54,25 +68,32 @@ FAJN FUUD PIZZA,LJUBLJANA,service-1 service-22
 "FAKULTETA ZA ELEKTROTEHNIKO, MENZA FE",LJUBLJANA,service-1 service-8 service-21
 FARI&#39;S DELICE,LJUBLJANA,service-1 service-20 service-21
 FAST FOOD FRESCO IN SLAST,LJUBLJANA,service-3 service-20 service-23
-FAST FOOD MAGIC,LJUBLJANA,service-3 service-20 service-21
+FAST FOOD MAGIC,KOPER/CAPODISTRIA,service-3 service-20 service-21
+FAST FOOD PUB POD SKALCO,LJUBLJANA,service-1 service-3 service-21
 FASTFOOD AJDA,LJUBLJANA,service-3 service-20 service-21
 FORUM,LJUBLJANA,service-1 service-7 service-21
 FRESH 4 LIFE VETRINJSKA,MARIBOR,service-1 service-3 service-21 service-69
 FUŽINSKI MERAK,LJUBLJANA,service-1 service-3 service-21
 FUŽINSKI MERAK - DOSTAVA,LJUBLJANA,service-1 service-5 service-21
-GARAČ - RESTAVRACIJA &quot;M&quot;,MARIBOR,service-1 service-3 service-21
+GARAČ - RESTAVRACIJA &quot;M&quot;,ŠKOFJA LOKA,service-1 service-3 service-21
+GOSPOSVETSKA,MARIBOR,service-3 service-9 service-21
 GOSTILNA ČARDA,LJUBLJANA,service-1 service-3 service-21
 GOSTILNA ČAS,ŽALEC,service-1 service-20 service-21
 GOSTILNA IN GALERIJA MAJOLKA,KAMNIK,service-1 service-3 service-21
-GOSTILNA IN MINI RESTAVRACIJA RAJH,LJUBLJANA,service-3 service-20 service-21
-GOSTILNA IN PIZZERIA KORTINA,CELJE,service-1 service-3 service-20 service-21
+GOSTILNA IN MINI RESTAVRACIJA RAJH,MURSKA SOBOTA,service-3 service-20 service-21
+GOSTILNA IN PICERIJA PAVON,LJUBLJANA,service-1 service-8 service-9 service-20 service-21
+GOSTILNA IN PIZZERIA KORTINA,KOPER/CAPODISTRIA,service-1 service-3 service-20 service-21
+GOSTILNA IN PIZZERIA MAESTRO,CELJE,service-8 service-10 service-20 service-21
 GOSTILNA IN PIZZERIJA BREZA,LJUBLJANA,service-1 service-3 service-20 service-21
 GOSTILNA JAKA,LJUBLJANA,service-1 service-20 service-21
 GOSTILNA JELEN,LJUBLJANA,service-1 service-3 service-20 service-21
 GOSTILNA KERŠIČ,LJUBLJANA,service-1 service-20 service-21
-GOSTILNA LEČNIK,PTUJ,service-1 service-3 service-20 service-21
+GOSTILNA LEČNIK,RAVNE NA KOROŠKEM,service-1 service-3 service-20 service-21
+GOSTILNA LUŽNIK,PTUJ,service-1 service-3 service-20 service-21
 GOSTILNA POD LIPO,LJUBLJANA,service-1 service-3 service-20 service-21
-GOSTILNA POD ŠKALCAMI,PTUJ,service-3 service-9 service-21
+GOSTILNA POD ŠKALCAMI,SLOVENSKE KONJICE,service-3 service-9 service-21
+GOSTILNA POD ŠKALCAMI - DOSTAVA,SLOVENSKE KONJICE,service-5 service-9 service-21
+GOSTILNA PRI POŠTI,PTUJ,service-1 service-3 service-7 service-21 service-69
 GOSTILNA PRI VIKTORJU,KRANJ,service-1 service-20 service-21
 GOSTILNA RACMAN,BREŽICE,service-1 service-3 service-9 service-20 service-21
 GOSTILNA STARI TIŠLER,LJUBLJANA,service-1 service-3 service-7 service-9 service-20 service-21
@@ -81,10 +102,15 @@ GOSTILNA ŠTORKLJA,LJUBLJANA,service-1 service-20 service-21
 GOSTILNA ZLATI LEV,MARIBOR,service-1 service-3 service-20 service-21
 GOSTILNA ZLATI LEV - DOSTAVA,MARIBOR,service-1 service-5 service-21
 GOSTILNICA &amp; PICERIJA POBREŠKI HRAM,MARIBOR,service-1 service-3 service-7 service-20 service-21
-GOSTILNICA GUŠT,LJUBLJANA,service-1 service-3 service-21 service-69
+GOSTILNICA GUŠT,IZOLA/ISOLA,service-1 service-3 service-21 service-69
+GOSTILNICA IN PIVNICA KATRCA,LJUBLJANA,service-1 service-3 service-21
 GOSTILNICA IN PIZZERIJA KRATOCHWILL,LJUBLJANA,service-1 service-8 service-20 service-21
 GOSTILNICA IN PIZZERIJA KRATOCHWILL,LJUBLJANA,service-1 service-8 service-20 service-21
-GOSTILNICA NAMANOVA,LJUBLJANA,service-1 service-7 service-8 service-21
+GOSTILNICA NAMANOVA,SLOVENJ GRADEC,service-1 service-7 service-8 service-21
+GOSTIŠČE KUM,ZAGORJE OB SAVI,service-1 service-3 service-20 service-21
+GOSTIŠČE LOKA,NOVO MESTO,service-1 service-3 service-7 service-20 service-21
+GOSTIŠČE NA TRGU - HIŠA KULINARIKE,NOVO MESTO,service-1 service-7 service-8 service-20 service-21
+GREENY EF,LJUBLJANA,service-1 service-21 service-69
 GREENY FŠ,LJUBLJANA,service-1 service-21 service-69
 GURMANSKI HRAM,MARIBOR,service-1 service-3 service-7 service-9 service-21
 GURMANSKI HRAM - DOSTAVA,MARIBOR,service-1 service-5 service-21
@@ -97,14 +123,17 @@ HALO PINKI - DOSTAVA,LJUBLJANA,service-1 service-5 service-20 service-21
 HALO RDEČE JABOLKO - DOSTAVA,LJUBLJANA,service-1 service-5 service-20 service-21
 HALO SHAOLIN - DOSTAVA,LJUBLJANA,service-1 service-5 service-20 service-21
 HIŠA POD GRADOM,LJUBLJANA,service-1 service-9 service-20 service-21
-HITRA HRANA MARTINA KRPANA,LJUBLJANA,service-21
+HITRA HRANA MARTINA KRPANA,NOVO MESTO,service-21
+HONG XIANG,LJUBLJANA,service-1 service-3 service-21 service-69
 HONG XIANG - DOSTAVA,LJUBLJANA,service-5 service-21 service-69
-HOSTEL SITULA,LJUBLJANA,service-1 service-3 service-7 service-21
+HOSTEL SITULA,NOVO MESTO,service-1 service-3 service-7 service-21
+HOT HORSE - BTC,LJUBLJANA,service-1 service-3 service-9 service-20 service-21
 HOT HORSE - TIVOLI,LJUBLJANA,service-1 service-3 service-9 service-20 service-21
 HOTEL CELEIA,CELJE,service-1 service-3 service-7 service-9 service-20 service-21
 HOTEL OPARA,TREBNJE,service-1 service-8 service-20 service-21
 HOTEL PAKA,VELENJE,service-7 service-8 service-20 service-21
-HOTEL SLOVENJ GRADEC,LJUBLJANA,service-1 service-7 service-8 service-20 service-21
+HOTEL SLOVENJ GRADEC,SLOVENJ GRADEC,service-1 service-7 service-8 service-20 service-21
+HOTSPOT BAR&amp;BISTRO,LJUBLJANA,service-1 service-7 service-9 service-21 service-69
 HOTSPOT CENTER BAR&amp;BISTRO,LJUBLJANA,service-9 service-21
 HUANG&#180;S KITAJSKA RESTAVRACIJA,LJUBLJANA,service-1 service-3 service-20 service-21
 ITALIJANSKA RESTAVRACIJA MIRJE,LJUBLJANA,service-1 service-3 service-20 service-21
@@ -117,7 +146,8 @@ KANAPE,MARIBOR,service-1 service-3 service-9 service-21
 KAPITAL,LJUBLJANA,service-1 service-8 service-21 service-69
 KARANTANIJA,KRANJ,service-1 service-3 service-20 service-21
 KAVARNA FILOZOF,LJUBLJANA,service-1 service-22 service-69
-KAVARNA IN RESTAVRACIJA NOVA GORICA,MARIBOR,service-1 service-3 service-7 service-20 service-21
+KAVARNA IN RESTAVRACIJA NOVA GORICA,NOVA GORICA,service-1 service-3 service-7 service-20 service-21
+KAVARNA IN SENDVIČARNA FERI,MARIBOR,service-3 service-9 service-21
 KAVARNA IN SLAŠČIČARNA CARNIOLA,KRANJ,service-1 service-3 service-20 service-21
 KAVARNA IN SLAŠČIČARNA RENDEZ - VOUS,KRANJ,service-1 service-20 service-21
 KAVARNA NUK,LJUBLJANA,service-7 service-8 service-20 service-21
@@ -128,17 +158,21 @@ KITAJSKA RESTAVRACIJA AZIJA,MARIBOR,service-1 service-3 service-7 service-20 ser
 KITAJSKA RESTAVRACIJA AZIJA,KRANJ,service-1 service-20 service-21
 KITAJSKA RESTAVRACIJA BELI LABOD,LJUBLJANA,service-1 service-7 service-20 service-21
 KITAJSKA RESTAVRACIJA BELI LABOD - DOSTAVA,LJUBLJANA,service-1 service-5 service-20 service-21
-KITAJSKA RESTAVRACIJA CESARSKA HIŠA,CELJE,service-1 service-3 service-20 service-21
+KITAJSKA RESTAVRACIJA CESARSKA HIŠA,KOPER/CAPODISTRIA,service-1 service-3 service-20 service-21
+KITAJSKA RESTAVRACIJA CHANG,KOPER/CAPODISTRIA,service-1 service-3 service-21
+KITAJSKA RESTAVRACIJA DVA ZMAJA,CELJE,service-1 service-3 service-7 service-20 service-21
 KITAJSKA RESTAVRACIJA HAN,LJUBLJANA,service-1 service-8 service-20 service-21
 KITAJSKA RESTAVRACIJA KITAJSKI ZMAJ,LJUBLJANA,service-1 service-20 service-21
-KITAJSKA RESTAVRACIJA NANKING,LJUBLJANA,service-1 service-3 service-20 service-21
+KITAJSKA RESTAVRACIJA NANKING,NOVO MESTO,service-1 service-3 service-20 service-21
+KITAJSKA RESTAVRACIJA NOVI ŠANGHAI,LJUBLJANA,service-1 service-3 service-20 service-21
 KITAJSKA RESTAVRACIJA PEKING,BLED,service-1 service-20 service-21
 KITAJSKA RESTAVRACIJA ŠANG HAI,JESENICE,service-1 service-3 service-20 service-21
 KITAJSKA RESTAVRACIJA ZHONGHUA,LJUBLJANA,service-1 service-21
 KITAJSKA RESTAVRACIJA ZLATA SRNA,MARIBOR,service-1 service-3 service-20 service-21
 KITAJSKA RESTAVRACIJA ZLATA SRNA - DOSTAVA,MARIBOR,service-1 service-5 service-20 service-21
 KITAJSKA RESTAVRACIJA ZVEZDA,MARIBOR,service-1 service-20 service-21
-KITAJSKA RESTAVRACJA CESARSKA HIŠA-DOSTAVA,CELJE,service-1 service-5 service-20 service-21
+KITAJSKA RESTAVRACJA CESARSKA HIŠA-DOSTAVA,KOPER/CAPODISTRIA,service-1 service-5 service-20 service-21
+KITAJSKI DVOR,CELJE,service-1 service-3 service-9 service-20 service-21
 KITAJSKI DVOR,LJUBLJANA,service-1 service-9 service-20 service-21
 KITAJSKI DVOR - DOSTAVA,LJUBLJANA,service-1 service-5 service-9 service-20 service-21
 KITAJSKI DVOR - DOSTAVA,CELJE,service-1 service-5 service-9 service-20 service-21
@@ -147,10 +181,12 @@ KITAJSKO MESTO - DOSTAVA,DOMŽALE,service-1 service-5 service-20 service-21
 KLINIKA BAR,LJUBLJANA,service-3 service-20 service-22
 KLOPČIČ,LJUBLJANA,service-1 service-7 service-9 service-21
 KLOPČIČ - DOM LITOSTROJ,LJUBLJANA,service-1 service-7 service-9 service-21
-KRATOCHWILL,LJUBLJANA,service-1 service-8 service-9 service-20 service-21
+KRATOCHWILL,MURSKA SOBOTA,service-1 service-8 service-9 service-20 service-21
+KURJI TAT,LJUBLJANA,service-1 service-3 service-21
 LA CANTINA,RADOVLJICA,service-3 service-20 service-21
 LA PIZZETA OKREPČEVALNICA,HOČE,service-1 service-7 service-8 service-20 service-21
-LABIRINT,LJUBLJANA,service-1 service-3 service-9 service-20 service-21
+LABIRINT,KOPER/CAPODISTRIA,service-1 service-3 service-9 service-20 service-21
+LETEČA ZVEZDA,LJUBLJANA,service-1 service-21
 LIPCA - INDEKS,LJUBLJANA,service-1 service-20 service-22
 LONDON STREET FOOD,MARIBOR,service-1 service-3 service-21
 LOVING HUT,MARIBOR,service-1 service-3 service-21
@@ -162,7 +198,8 @@ MANGO SNACKS,MARIBOR,service-1 service-3 service-9 service-10 service-21
 MAŠ ZA MAL&#39;CO,VELENJE,service-1 service-3 service-21
 MAXI RESTAVRACIJA ROMANSA 1971,LJUBLJANA,service-1 service-3 service-20 service-21
 MC PANDA,MARIBOR,service-1 service-21
-MC PATRIOT,MARIBOR,service-3 service-20 service-22
+MC PATRIOT,SLOVENSKE KONJICE,service-3 service-20 service-22
+MCDONALD&#180;S RESTAVRACIJA - SWATY,MARIBOR,service-1 service-8 service-20 service-21
 MCDONALD&#180;S RESTAVRACIJA EUROPARK,MARIBOR,service-1 service-8 service-20 service-21
 MCDONALD&#180;S RESTAVRACIJA PTUJSKA,MARIBOR,service-1 service-8 service-20 service-21
 MCDONALD&#180;S RESTAVRACIJA VELENJE,VELENJE,service-1 service-8 service-20 service-21
@@ -170,7 +207,9 @@ MCDONALD&#39;S MCDRIVE DOMŽALE,DOMŽALE,service-1 service-8 service-20 service-
 MCDONALD&#39;S RESTAVRACIJA - CELJE DRIVE,CELJE,service-8 service-21
 MCDONALD&#39;S RESTAVRACIJA - CELOVŠKA,LJUBLJANA,service-1 service-8 service-20 service-21
 MCDONALD&#39;S RESTAVRACIJA - KRANJ DRIVE,KRANJ,service-1 service-8 service-21
-MCDONALD&#39;S RESTAVRACIJA KOPER,MARIBOR,service-1 service-8 service-20 service-21
+MCDONALD&#39;S RESTAVRACIJA KOPER,KOPER/CAPODISTRIA,service-1 service-8 service-20 service-21
+MCDONALD&#39;S RESTAVRACIJA NOVA GORICA,NOVA GORICA,service-1 service-8 service-21
+ME GUSTA,MARIBOR,service-21
 MEDITERRANEO,LJUBLJANA,service-1 service-20 service-21
 MEHIŠKA RESTAVRACIJA CANTINA MARIA,KRANJ,service-1 service-3 service-7 service-20 service-21
 MEHIŠKA RESTAVRACIJA IMPERIO - DOSTAVA,LJUBLJANA,service-1 service-5 service-20 service-21
@@ -180,9 +219,12 @@ MENZA FS,LJUBLJANA,service-1 service-3 service-21 service-69
 META IN BAZILIKA,LJUBLJANA,service-1 service-7 service-21 service-69
 MLEČNA RESTAVRACIJA,KRANJ,service-1 service-21 service-69
 MLEČNA RESTAVRACIJA - DOSTAVA,KRANJ,service-1 service-5 service-21 service-69
-MORNARČEK RIBJA KANTINA - RESTAVRACIJA,LJUBLJANA,service-20 service-21
-NEWS CAFE,MARIBOR,service-1 service-3 service-20 service-21
-OKREPČEVALNICA - BISTRO TANJA,LJUBLJANA,service-1 service-20 service-21
+MORNARČEK RIBJA KANTINA - RESTAVRACIJA,KOPER/CAPODISTRIA,service-20 service-21
+NAMASTE INDIAN EXPRESS,LJUBLJANA,service-1 service-21
+NEWS CAFE,PORTOROŽ/PORTOROSE,service-1 service-3 service-20 service-21
+NOOMM,MARIBOR,service-8 service-20 service-22
+OKREPČEVALNICA - BISTRO TANJA,MURSKA SOBOTA,service-1 service-20 service-21
+OKREPČEVALNICA - DINER KINO GLEDALIŠČE BEŽIGRAD,LJUBLJANA,service-1 service-3 service-20 service-21
 OKREPČEVALNICA - PIZZERIJA MAKS,LJUBLJANA,service-1 service-3 service-20 service-21
 OKREPČEVALNICA &quot;BUREK 1&quot;,LJUBLJANA,service-3 service-20 service-22
 OKREPČEVALNICA &quot;BUREK&quot;,LJUBLJANA,service-3 service-20 service-22
@@ -192,15 +234,20 @@ OKREPČEVALNICA AZZURRO,LJUBLJANA,service-20 service-22
 OKREPČEVALNICA BADOVINAC,LJUBLJANA,service-1 service-3 service-9 service-21
 OKREPČEVALNICA BOBER (PARIŠKE KOMUNE),MARIBOR,service-1 service-3 service-21
 OKREPČEVALNICA BOBER (PARTIZANSKA),MARIBOR,service-1 service-8 service-20 service-21
-OKREPČEVALNICA ĆEVABDŽINICA MALI GAZDA,TREBNJE,service-1 service-3 service-20 service-21
+OKREPČEVALNICA ĆEVABDŽINICA MALI GAZDA,PORTOROŽ/PORTOROSE,service-1 service-3 service-20 service-21
+OKREPČEVALNICA FRESH (PRODAJNO MESTO PETROL),TREBNJE,service-1 service-3 service-21
 OKREPČEVALNICA FRESH (PRODAJNO MESTO PETROL),TRZIN,service-1 service-3 service-21
 OKREPČEVALNICA FRESH (PRODAJNO MESTO PETROL),SEŽANA,service-1 service-3 service-21
 OKREPČEVALNICA HAMBURGER HILL ZAGREBŠKA,MARIBOR,service-3 service-9 service-20 service-21
 OKREPČEVALNICA IZUM,MARIBOR,service-1 service-21
 OKREPČEVALNICA KEMIJSKI INŠTITUT,LJUBLJANA,service-1 service-7 service-21
-OKREPČEVALNICA LAGUNA,HOČE,service-7 service-20 service-21
-OKREPČEVALNICA MINUTKA,MARIBOR,service-3 service-7 service-20 service-21
-OKREPČEVALNICA NOVAK,LJUBLJANA,service-3 service-7 service-20 service-21
+OKREPČEVALNICA LAGUNA,MURSKA SOBOTA,service-7 service-20 service-21
+OKREPČEVALNICA LAGUNA - DOSTAVA,MURSKA SOBOTA,service-5 service-20 service-21
+OKREPČEVALNICA MAJ,HOČE,service-1 service-8 service-21
+OKREPČEVALNICA MINUTKA,SLOVENJ GRADEC,service-3 service-7 service-20 service-21
+OKREPČEVALNICA MM PANDA,MARIBOR,service-3 service-7 service-20 service-22
+OKREPČEVALNICA NOVAK,NOVO MESTO,service-3 service-7 service-20 service-21
+OKREPČEVALNICA PEKARNA DOBROT,LJUBLJANA,service-1 service-3 service-21
 OKREPČEVALNICA PIVNICA ALF,MARIBOR,service-1 service-9 service-21
 OKREPČEVALNICA PIVNICA ALF - DOSTAVA,MARIBOR,service-1 service-5 service-9 service-21
 OKREPČEVALNICA PODHOD,LJUBLJANA,service-3 service-20 service-22
@@ -210,7 +257,8 @@ OKREPČEVALNICA SARAJEVO,MARIBOR,service-1 service-3 service-20 service-21
 OKREPČEVALNICA STARI GRIL,MARIBOR,service-1 service-3 service-7 service-9 service-20 service-21
 OKREPČEVALNICA ŠIŠ,MARIBOR,service-1 service-3 service-20 service-21
 OKREPČEVALNICA ŠUMI,LJUBLJANA,service-3 service-23
-OKREPČEVALNICA VIDA,PTUJ,service-1 service-8 service-21
+OKREPČEVALNICA VIDA,RAVNE NA KOROŠKEM,service-1 service-8 service-21
+OKREPČEVALNICA VILLA MONDE,PTUJ,service-3 service-20 service-21
 OKREPČEVANICA FRESH (PRODAJNO MESTO PETROL),SEŽANA,service-1 service-3 service-21
 OŠTARIJA PIZZERIA DA NOI,MARIBOR,service-8 service-20 service-21
 OŠTARIJA PIZZERIA DA NOI - DOSTAVA,MARIBOR,service-5 service-20 service-21
@@ -218,28 +266,37 @@ OŠTARIJA PRI OLJKI,LJUBLJANA,service-1 service-8 service-20 service-21
 P.E. FAKULTETA ZA GRADBENIŠTVO IN GEODEZIJO,LJUBLJANA,service-1 service-3 service-7 service-9 service-21
 PAPAGAYO,MARIBOR,service-1 service-3 service-21
 PE DIJAŠKI DOM CELJE,CELJE,service-21
-PE KAVA BAR IN OKREPČEVALNICA FANTOM,LJUBLJANA,service-20 service-21
+PE KAVA BAR IN OKREPČEVALNICA FANTOM,SLOVENJ GRADEC,service-20 service-21
+PE MARJETICA,LJUBLJANA,service-1 service-7 service-21
 PE OŠTARIJA CITY CENTER,CELJE,service-7 service-8 service-20 service-21
 PEK MATJAŽ TOMŠIČEVA,VELENJE,service-22
 PERLA,LJUBLJANA,service-1 service-21
 PETROL OKREPČEVALNICA FRESH,LJUBLJANA,service-1 service-8 service-20 service-21
 PETROL OKREPČEVALNICA FRESH,LJUBLJANA,service-1 service-8 service-20 service-21
-PETROL OKREPČEVANICA FRESH,LJUBLJANA,service-1 service-8 service-20 service-21
-PICERIJA ALAN FORD,LJUBLJANA,service-1 service-3 service-9 service-20 service-21
+PETROL OKREPČEVANICA FRESH,KOPER/CAPODISTRIA,service-1 service-8 service-20 service-21
+PIAZZA DEL PAPA,LJUBLJANA,service-1 service-7 service-8 service-20 service-21
+PICERIJA ALAN FORD,KOPER/CAPODISTRIA,service-1 service-3 service-9 service-20 service-21
+PICERIJA BARJAN,LJUBLJANA,service-1 service-8 service-21
 PICERIJA BONITAS,ŽALEC,service-1 service-7 service-20 service-21
 PICERIJA BONITAS - DOSTAVA,ŽALEC,service-5 service-20 service-21
-PICERIJA ERA,KRANJ,service-1 service-3 service-20 service-21
+PICERIJA ERA,NOVO MESTO,service-1 service-3 service-20 service-21
+PICERIJA IN RESTAVRACIJA TONAČ,KRANJ,service-1 service-3 service-20 service-21
 PICERIJA NA PLACU,VIPAVA,service-1 service-3 service-21
 PICERIJA SILVESTER,KRANJ,service-1 service-3 service-20 service-21
-PICERIJA ŠTANGELJ,KRANJ,service-1 service-20 service-21
+PICERIJA ŠTANGELJ,NOVO MESTO,service-1 service-20 service-21
+PICERIJA TONAČ - DOSTAVA,KRANJ,service-1 service-5 service-20 service-21
 PICERIJA VERONA,CELJE,service-1 service-3 service-7 service-9 service-20 service-21
 PICERIJA VERONA - DOSTAVA,CELJE,service-1 service-5 service-9 service-20 service-21
 PICESTAVRACIJA BOCCACCIO,LJUBLJANA,service-3 service-20 service-21
 PIVNICA ADAM RAVBAR,DOMŽALE,service-1 service-3 service-21
-PIVNICA EMONEC,LJUBLJANA,service-1 service-8 service-20 service-21
+PIVNICA EMONEC,KOPER/CAPODISTRIA,service-1 service-8 service-20 service-21
+PIVOVARNA IN PIVNICA KRATOCHWILL,LJUBLJANA,service-1 service-3 service-20 service-21
 PIZZERIA BRIKSEN,BLED,service-1 service-8 service-20 service-22
-PIZZERIA CHIANTI,MARIBOR,service-3 service-20 service-21
-PIZZERIA DI ANTONIO,LJUBLJANA,service-22
+PIZZERIA CHIANTI,NOVO MESTO,service-3 service-20 service-21
+PIZZERIA DA NOI FAST FOOD,MARIBOR,service-8 service-20 service-22
+PIZZERIA DI ANTONIO,SLOVENJ GRADEC,service-22
+PIZZERIA DI ANTONIO - DOSTAVA,SLOVENJ GRADEC,service-5 service-22
+PIZZERIA FOCULUS,LJUBLJANA,service-3 service-9 service-20 service-22
 PIZZERIA FONTANA,KRŠKO,service-1 service-3 service-7 service-20 service-21
 PIZZERIA GALLUS,BLED,service-1 service-3 service-20 service-22
 PIZZERIA GREGORINO,LJUBLJANA,service-1 service-7 service-10 service-20 service-21
@@ -248,18 +305,25 @@ PIZZERIA HITRI GONZALES - DOSTAVA,MARIBOR,service-1 service-5 service-20 service
 PIZZERIA IN ŠPAGETARIJA OLIVA,LJUBLJANA,service-1 service-3 service-20 service-21
 PIZZERIA IN ŠPAGETERIA AL CAPONE,MARIBOR,service-8 service-9 service-20 service-21
 PIZZERIA IN ŠPAGETERIJA AL CAPONE,LJUBLJANA,service-1 service-8 service-20 service-21
-PIZZERIA IN ŠPAGETTERIA CUBUS,TRBOVLJE,service-1 service-3 service-20 service-21
+PIZZERIA IN ŠPAGETTERIA CUBUS,NOVO MESTO,service-1 service-3 service-20 service-21
+PIZZERIA KUKUCA,TRBOVLJE,service-3 service-20 service-22
 PIZZERIA LATERNA,LJUBLJANA,service-1 service-3 service-20 service-21
-PIZZERIA MIA FORTUNA,CELJE,service-1 service-8 service-20 service-21
+PIZZERIA MIA FORTUNA,NOVO MESTO,service-1 service-8 service-20 service-21
+PIZZERIA OLIVA,CELJE,service-1 service-3 service-20 service-21
 PIZZERIA OLIVA - DOSTAVA,CELJE,service-1 service-5 service-20 service-21
 PIZZERIA OSMICA,LJUBLJANA,service-1 service-20 service-22
 PIZZERIA PARMA,LJUBLJANA,service-9 service-20 service-22
 PIZZERIA PRONTO,MARIBOR,service-1 service-3 service-20 service-22
 PIZZERIA PRONTO - DOSTAVA,MARIBOR,service-1 service-5 service-20 service-22
 PIZZERIA ŠESTINKA,LJUBLJANA,service-20 service-22
-PIZZERIA TOTALKA,MARIBOR,service-3 service-20 service-22
+PIZZERIA TOTALKA,NOVO MESTO,service-3 service-20 service-22
+PIZZERIA TOTTAPIZZA,MARIBOR,service-8 service-20 service-22
 PIZZERIA TUNNEL,LJUBLJANA,service-1 service-3 service-7 service-20 service-21
-PIZZERIA VILA RAINERI,TRBOVLJE,service-1 service-3 service-7 service-20 service-21
+PIZZERIA VILA RAINERI,IZOLA/ISOLA,service-1 service-3 service-7 service-20 service-21
+PIZZERIJA AŠIČ,ZAGORJE OB SAVI,service-1 service-3 service-21
+PIZZERIJA AŠIČ - DOSTAVA,ZAGORJE OB SAVI,service-1 service-5 service-21
+PIZZERIJA ATRIJ,KOPER/CAPODISTRIA,service-1 service-3 service-7 service-20 service-21
+PIZZERIJA DIMNIK,TRBOVLJE,service-1 service-3 service-20 service-21
 PIZZERIJA DIMNIK - DOSTAVA,TRBOVLJE,service-1 service-5 service-20 service-21
 PIZZERIJA ETNA - ITALIJANSKA KUHINJA,LJUBLJANA,service-1 service-3 service-7 service-20 service-21
 PIZZERIJA GORENC,KRANJ,service-3 service-7 service-21
@@ -271,11 +335,14 @@ PIZZERIJA VIVALDI,MARIBOR,service-3 service-22
 PIZZERIJA VIVALDI - DOSTAVA,MARIBOR,service-5 service-22
 POBREŠKI HRAM - DOSTAVA,MARIBOR,service-1 service-5 service-20 service-21
 PODMORNICA,LJUBLJANA,service-1 service-3 service-7 service-21
-POMORŠČAK,MARIBOR,service-22 service-69
+POMORŠČAK,PORTOROŽ/PORTOROSE,service-22 service-69
+PORTOFINO,MARIBOR,service-1 service-21 service-69
 PORTOFINO - DOSTAVA,MARIBOR,service-1 service-5 service-21 service-69
 PRAVNA FAKULTETA,LJUBLJANA,service-1 service-8 service-21
 PREHRANA PALAČA SMELT,LJUBLJANA,service-1 service-3 service-7 service-21
-PRIMAVERA IZOLA,MARIBOR,service-1 service-7 service-20 service-21
+PRIMAVERA IZOLA,IZOLA/ISOLA,service-1 service-7 service-20 service-21
+PRIMAVERA IZOLA-DOSTAVA,IZOLA/ISOLA,service-1 service-5 service-20 service-21
+PROMETNA ŠOLA MARIBOR,MARIBOR,service-1 service-7 service-8 service-21
 PUCCINI ŠPAGETERIJA IN PIZZERIJA,LJUBLJANA,service-1 service-7 service-8 service-20 service-21
 Q SLOVENSKA,MARIBOR,service-1 service-3 service-20 service-21
 Q TABOR,MARIBOR,service-1 service-8 service-20 service-21
@@ -287,10 +354,12 @@ RESTAVRACIJA 123 DSU,LJUBLJANA,service-1 service-7 service-9 service-21
 RESTAVRACIJA 123 FRI IN FKKT,LJUBLJANA,service-1 service-3 service-7 service-21
 RESTAVRACIJA 123 MC LJUBJANA,LJUBLJANA,service-1 service-7 service-8 service-9 service-20 service-21
 RESTAVRACIJA 123 MC MARIBOR,MARIBOR,service-1 service-7 service-8 service-9 service-20 service-21
-RESTAVRACIJA 123 MC NOVA GORICA,LJUBLJANA,service-1 service-7 service-8 service-9 service-20 service-21
+RESTAVRACIJA 123 MC NOVA GORICA,NOVA GORICA,service-1 service-7 service-8 service-9 service-20 service-21
+RESTAVRACIJA 123 MEGA CENTER 2,LJUBLJANA,service-1 service-7 service-9 service-21
 RESTAVRACIJA 123 MERCATOR DUNAJSKA,LJUBLJANA,service-1 service-7 service-9 service-21
 RESTAVRACIJA 123 PEDAGOŠKA,LJUBLJANA,service-1 service-7 service-21
-RESTAVRACIJA 123 PRISTAN,LJUBLJANA,service-1 service-7 service-9 service-21
+RESTAVRACIJA 123 PRISTAN,KOPER/CAPODISTRIA,service-1 service-7 service-9 service-21
+RESTAVRACIJA 2000,LJUBLJANA,service-1 service-3 service-7 service-20 service-21
 RESTAVRACIJA ALLEGRIA,LJUBLJANA,service-1 service-3 service-9 service-20 service-21
 RESTAVRACIJA ANCORA,MARIBOR,service-1 service-8 service-20 service-21
 RESTAVRACIJA BAR AMFORA,PTUJ,service-1 service-3 service-21
@@ -304,12 +373,17 @@ RESTAVRACIJA GIG,LJUBLJANA,service-1 service-3 service-21
 RESTAVRACIJA GLAŽUTA,LJUBLJANA,service-1 service-3 service-7 service-21
 RESTAVRACIJA IN KAVA BAR PARADIŽ,LJUBLJANA,service-1 service-3 service-7 service-20 service-21
 RESTAVRACIJA IN KAVARNA FOODIE,LJUBLJANA,service-1 service-3 service-7 service-21 service-69
-RESTAVRACIJA IN PIVNICA ZVEZDA,CELJE,service-1 service-7 service-8 service-21
+RESTAVRACIJA IN PIVNICA ZVEZDA,MURSKA SOBOTA,service-1 service-7 service-8 service-21
+RESTAVRACIJA IN PIZZERIJA PEPERONČINO,KOPER/CAPODISTRIA,service-1 service-8 service-21
+RESTAVRACIJA INTERSPAR CELJE,CELJE,service-1 service-7 service-8 service-9 service-20 service-21
 RESTAVRACIJA INTERSPAR CITYPARK,LJUBLJANA,service-1 service-7 service-8 service-9 service-20 service-21
-RESTAVRACIJA INTERSPAR KOPER,KRANJ,service-1 service-3 service-7 service-8 service-9 service-20 service-21
+RESTAVRACIJA INTERSPAR KOPER,KOPER/CAPODISTRIA,service-1 service-3 service-7 service-8 service-9 service-20 service-21
+RESTAVRACIJA INTERSPAR KRANJ,KRANJ,service-1 service-7 service-8 service-9 service-20 service-21
 RESTAVRACIJA INTERSPAR MARIBOR EUROPARK,MARIBOR,service-1 service-7 service-8 service-9 service-20 service-21
 RESTAVRACIJA INTERSPAR MARIBOR QLANDIA,MARIBOR,service-1 service-7 service-8 service-9 service-20 service-21
-RESTAVRACIJA INTERSPAR MURSKA SOBOTA,LJUBLJANA,service-1 service-7 service-8 service-9 service-20 service-21
+RESTAVRACIJA INTERSPAR MURSKA SOBOTA,MURSKA SOBOTA,service-1 service-7 service-8 service-9 service-20 service-21
+RESTAVRACIJA INTERSPAR NOVA GORICA,NOVA GORICA,service-1 service-3 service-7 service-8 service-9 service-20 service-21
+RESTAVRACIJA INTERSPAR VIČ,LJUBLJANA,service-1 service-7 service-8 service-9 service-20 service-21
 RESTAVRACIJA KAVARNA PIZZERIA HOMBRE,LJUBLJANA,service-1 service-3 service-20 service-21
 RESTAVRACIJA KAZINA,JESENICE,service-1 service-8 service-21
 RESTAVRACIJA KAZINA - DOSTAVA,JESENICE,service-1 service-5 service-21
@@ -318,19 +392,22 @@ RESTAVRACIJA KITAJSKA ZVEZDA,LJUBLJANA,service-1 service-3 service-20 service-21
 RESTAVRACIJA KITAJSKI VRT,PTUJ,service-1 service-8 service-20 service-21
 RESTAVRACIJA KLUB CANKARJEVEGA DOMA,LJUBLJANA,service-1 service-7 service-8 service-21
 RESTAVRACIJA KOLODVORSKA,VELENJE,service-1 service-7 service-8 service-20 service-21
-RESTAVRACIJA KOMPLIMENT,LJUBLJANA,service-1 service-7 service-8 service-21
+RESTAVRACIJA KOMPLIMENT,ŠKOFJA LOKA,service-1 service-7 service-8 service-21
+RESTAVRACIJA KOTNIKOVA,LJUBLJANA,service-1 service-3 service-21 service-69
 RESTAVRACIJA MANGO,MARIBOR,service-1 service-3 service-20 service-21
 RESTAVRACIJA MCDONALDS - CITYCENTER,CELJE,service-1 service-3 service-20 service-21
 RESTAVRACIJA MCDONALDS - PTUJ,PTUJ,service-1 service-8 service-20 service-21
 RESTAVRACIJA MCDONALD&#39;S ČOPOVA,LJUBLJANA,service-20 service-21
 RESTAVRACIJA MCDONALD&#39;S KOLOSEJ,LJUBLJANA,service-8 service-20 service-21
-RESTAVRACIJA MCDONALD&#39;S NOVO MESTO,LJUBLJANA,service-8 service-20 service-21
+RESTAVRACIJA MCDONALD&#39;S NOVO MESTO,NOVO MESTO,service-8 service-20 service-21
+RESTAVRACIJA MCDONALD&#39;S RUDNIK,LJUBLJANA,service-8 service-20 service-21
 RESTAVRACIJA MCDONALD&#39;S -ŽELEZNIŠKA,LJUBLJANA,service-8 service-20 service-21
 RESTAVRACIJA MCDONALD&#39;S ŽITO,LJUBLJANA,service-8 service-20 service-21
 RESTAVRACIJA MODRI KVADRAT,LJUBLJANA,service-1 service-7 service-8 service-21
 RESTAVRACIJA MOZART,LJUBLJANA,service-1 service-3 service-21
 RESTAVRACIJA MR. FALAFEL,MARIBOR,service-1 service-3 service-20 service-21
-RESTAVRACIJA NA KLANCU,MARIBOR,service-1 service-20 service-21
+RESTAVRACIJA NA KLANCU,SLOVENJ GRADEC,service-1 service-20 service-21
+RESTAVRACIJA ORIENT,MARIBOR,service-1 service-20 service-21
 RESTAVRACIJA PIANO,MARIBOR,service-1 service-7 service-21
 RESTAVRACIJA PIZZERIA SAN MARTINO,LJUBLJANA,service-1 service-8 service-21
 RESTAVRACIJA PLEČNIKOV HRAM,LJUBLJANA,service-1 service-3 service-20 service-21
@@ -338,14 +415,16 @@ RESTAVRACIJA PLEČNIKOV HRAM,LJUBLJANA,service-1 service-3 service-20 service-21
 RESTAVRACIJA PRI STAREM MOSTU (HOTEL LENT),MARIBOR,service-1 service-3 service-8 service-20 service-21
 RESTAVRACIJA RDEČE JABOLKO,LJUBLJANA,service-1 service-3 service-20 service-21
 RESTAVRACIJA RODIŠKA KUH&#39;NA,DOMŽALE,service-1 service-7 service-21
-RESTAVRACIJA SARAJEVSKIH JEDI VALTER - ŠKOFJA LOKA,JESENICE,service-1 service-20 service-21
+RESTAVRACIJA SARAJEVSKIH JEDI VALTER - ŠKOFJA LOKA,ŠKOFJA LOKA,service-1 service-20 service-21
+RESTAVRACIJA SARAJEVSKIH JEDI VALTER JESENICE,JESENICE,service-1 service-21
 RESTAVRACIJA SARAJEVSKIH JEDI VALTER KRANJ,KRANJ,service-1 service-20 service-21
 RESTAVRACIJA SARAJEVSKIH JEDI VALTER LJUBLJANA,LJUBLJANA,service-1 service-3 service-20 service-21
 RESTAVRACIJA SARAJEVSKIJ JEDI VALTER RADOVLJICA,RADOVLJICA,service-1 service-20 service-21
 RESTAVRACIJA SHAOLIN,LJUBLJANA,service-1 service-20 service-21
 RESTAVRACIJA SKRITI KOT,LJUBLJANA,service-1 service-3 service-7 service-21
 RESTAVRACIJA SLOREST VIČAVA,PTUJ,service-1 service-21 service-69
-RESTAVRACIJA SPLOŠNE BOLNIŠNICE NOVO MESTO,LJUBLJANA,service-1 service-21
+RESTAVRACIJA SPLOŠNE BOLNIŠNICE NOVO MESTO,NOVO MESTO,service-1 service-21
+RESTAVRACIJA ŠEF LA,LJUBLJANA,service-1 service-7 service-21
 RESTAVRACIJA ŠEF LA - DOSTAVA,LJUBLJANA,service-1 service-5 service-21
 RESTAVRACIJA ŠOLSKI CENTER AŠKERČEVA,LJUBLJANA,service-1 service-3 service-21
 RESTAVRACIJA TARTUF &quot;CENTER&quot;,LJUBLJANA,service-1 service-3 service-7 service-21 service-69
@@ -367,8 +446,10 @@ SLAŠČIČARNA IN KAVARNA LEONARD,LJUBLJANA,service-3 service-20 service-22
 SLAŠČIČARNA IN OKREPČEVALNICA &quot;JAGODA&quot;,LJUBLJANA,service-1 service-21
 SLAŠČIČARNA IN PICERIJA AJDOVŠČINA,AJDOVŠČINA,service-3 service-20 service-21
 SLAŠČIČARNA IN PICERIJA AJDOVŠČINA - HALO ERIK-DOSTAVA,AJDOVŠČINA,service-1 service-5 service-20 service-21
-SPLOŠNA BOLNIŠNICA IZOLA,POSTOJNA,service-1 service-7 service-8 service-10 service-21
-SREDNJA ŠOLA IZOLA - SCUOLA MEDIA ISOLA,KRŠKO,service-1 service-7 service-8 service-21
+SPLOŠNA BOLNIŠNICA IZOLA,IZOLA/ISOLA,service-1 service-7 service-8 service-10 service-21
+SREDNJA GOZDARSKA IN LESARSKA ŠOLA POSTOJNA,POSTOJNA,service-7 service-21
+SREDNJA ŠOLA IZOLA - SCUOLA MEDIA ISOLA,IZOLA/ISOLA,service-1 service-7 service-8 service-21
+STARA KRŠKA PIZZERIJA,KRŠKO,service-1 service-7 service-20 service-21
 STARA KRŠKA PIZZERIJA - DOSTAVA,KRŠKO,service-1 service-5 service-20 service-21
 SUBWAY,LJUBLJANA,service-1 service-3 service-20 service-21
 SUBWAY,LJUBLJANA,service-1 service-3 service-20 service-21
@@ -383,7 +464,8 @@ TAKOS LENT,MARIBOR,service-1 service-20 service-21
 TANDOORI CAFE,LJUBLJANA,service-1 service-3 service-20 service-21
 TANDOORI CAFE - DOSTAVA,LJUBLJANA,service-1 service-5 service-20 service-21
 TASTY SNACKS,MARIBOR,service-1 service-9 service-21
-"TAVERNA HUBER, RESTAVRACIJA IN SLASČIČARNA",MARIBOR,service-3 service-21
+"TAVERNA HUBER, RESTAVRACIJA IN SLASČIČARNA",MURSKA SOBOTA,service-3 service-21
+TAVERNA SICILIA,MARIBOR,service-1 service-3 service-20 service-21
 TAVERNA SICILIA - DOSTAVA,MARIBOR,service-1 service-5 service-20 service-21
 THE WOK,LJUBLJANA,service-1 service-20 service-21
 TRATTORIA PADRINO,MARIBOR,service-3 service-20 service-21
@@ -406,3 +488,4 @@ ZLATI KROŽNIK - DOSTAVA,DOMŽALE,service-1 service-5 service-20 service-21
 ŽITO LJUBLANA ŽELEZNIŠKA (KOLODVOR),LJUBLJANA,service-20 service-22
 ŽITO LJUBLJANA BAVARSKI DVOR,LJUBLJANA,service-20 service-22
 ŽITO LJUBLJANA VODNIK,LJUBLJANA,service-20 service-22
+ŽITO TRŽNICA KOPER,KOPER/CAPODISTRIA,service-1 service-3 service-20 service-22

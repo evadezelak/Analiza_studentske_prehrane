@@ -64,7 +64,7 @@ vzorec = re.compile(
     r'<div class="row restaurant-row (?P<ugodnosti>.*?)".*?'
     #r'.*? data-doplacilo="(?P<doplacilo>.*?)".*?'
     r'data-lokal="(?P<ime>.*?)".*?'
-    r'data-city="(?P<kraj>\w*?)"',
+    r'data-city="(?P<kraj>.*?)"',
     #r'<small><i>(?P<naslov>.*?)</i>.*?',
     re.DOTALL
 )

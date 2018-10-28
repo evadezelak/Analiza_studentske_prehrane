@@ -27,6 +27,16 @@
     {
         "ugodnosti": "service-1 service-3 service-20 service-21",
         "ime": "APAČI",
+        "kraj": "SLOVENJ GRADEC"
+    },
+    {
+        "ugodnosti": "service-1 service-5 service-20 service-21",
+        "ime": "APAČI - DOSTAVA",
+        "kraj": "SLOVENJ GRADEC"
+    },
+    {
+        "ugodnosti": "service-1 service-20 service-21",
+        "ime": "AROMA, RESTAVRACIJA IN PIZZERIJA",
         "kraj": "LJUBLJANA"
     },
     {
@@ -102,6 +112,26 @@
     {
         "ugodnosti": "service-1 service-5 service-20 service-21",
         "ime": "BISTRO TANJA- DOSTAVA",
+        "kraj": "MURSKA SOBOTA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-21",
+        "ime": "BISTRO VILLADOMUS",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-20 service-21",
+        "ime": "BOHOR",
+        "kraj": "ROGAŠKA SLATINA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-20 service-21",
+        "ime": "BON CAFE LUCIJA",
+        "kraj": "PORTOROŽ/PORTOROSE"
+    },
+    {
+        "ugodnosti": "service-1 service-8 service-20 service-21",
+        "ime": "BOWLING CENTER STRIKE",
         "kraj": "MARIBOR"
     },
     {
@@ -162,11 +192,36 @@
     {
         "ugodnosti": "service-1 service-5 service-9 service-20 service-21",
         "ime": "CITY PIZZA EXPRESS - DOSTAVA",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-9 service-20 service-21",
+        "ime": "CITYBURGER",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-3 service-20 service-22",
+        "ime": "CUTTY FOOD CORNER",
         "kraj": "LJUBLJANA"
     },
     {
         "ugodnosti": "service-1 service-3 service-20 service-21",
         "ime": "ČEVABDŽINICA SARAJEVO 84",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-20 service-21",
+        "ime": "ČEVABDŽINICA SARAJEVO 84",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-5 service-20 service-21",
+        "ime": "ČEVABDŽINICA SARAJEVO 84 - DOSTAVA",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-7 service-20 service-21",
+        "ime": "DA BU DA, AZIJSKA RESTAVRACIJA",
         "kraj": "LJUBLJANA"
     },
     {
@@ -197,6 +252,11 @@
     {
         "ugodnosti": "service-1 service-22 service-69",
         "ime": "DIJAŠKI DOM PORTOROŽ",
+        "kraj": "PORTOROŽ/PORTOROSE"
+    },
+    {
+        "ugodnosti": "service-1 service-7 service-21",
+        "ime": "DIJAŠKI DOM TABOR",
         "kraj": "LJUBLJANA"
     },
     {
@@ -207,11 +267,21 @@
     {
         "ugodnosti": "service-1 service-3 service-7 service-21",
         "ime": "DIJAŠKI IN ŠTUDENTSKI DOM KOPER",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-21",
+        "ime": "DIJAŠKI IN ŠTUDENTSKI DOM KRANJ",
         "kraj": "KRANJ"
     },
     {
         "ugodnosti": "service-1 service-7 service-8 service-21",
         "ime": "DIJAŠKI IN ŠTUDENTSKI DOM NOVO MESTO",
+        "kraj": "NOVO MESTO"
+    },
+    {
+        "ugodnosti": "service-1 service-20 service-21",
+        "ime": "DOBROTE VZHODA",
         "kraj": "LJUBLJANA"
     },
     {
@@ -277,6 +347,11 @@
     {
         "ugodnosti": "service-3 service-20 service-21",
         "ime": "FAST FOOD MAGIC",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-21",
+        "ime": "FAST FOOD PUB POD SKALCO",
         "kraj": "LJUBLJANA"
     },
     {
@@ -307,6 +382,11 @@
     {
         "ugodnosti": "service-1 service-3 service-21",
         "ime": "GARAČ - RESTAVRACIJA &quot;M&quot;",
+        "kraj": "ŠKOFJA LOKA"
+    },
+    {
+        "ugodnosti": "service-3 service-9 service-21",
+        "ime": "GOSPOSVETSKA",
         "kraj": "MARIBOR"
     },
     {
@@ -327,11 +407,21 @@
     {
         "ugodnosti": "service-3 service-20 service-21",
         "ime": "GOSTILNA IN MINI RESTAVRACIJA RAJH",
+        "kraj": "MURSKA SOBOTA"
+    },
+    {
+        "ugodnosti": "service-1 service-8 service-9 service-20 service-21",
+        "ime": "GOSTILNA IN PICERIJA PAVON",
         "kraj": "LJUBLJANA"
     },
     {
         "ugodnosti": "service-1 service-3 service-20 service-21",
         "ime": "GOSTILNA IN PIZZERIA KORTINA",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-8 service-10 service-20 service-21",
+        "ime": "GOSTILNA IN PIZZERIA MAESTRO",
         "kraj": "CELJE"
     },
     {
@@ -357,6 +447,11 @@
     {
         "ugodnosti": "service-1 service-3 service-20 service-21",
         "ime": "GOSTILNA LEČNIK",
+        "kraj": "RAVNE NA KOROŠKEM"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-20 service-21",
+        "ime": "GOSTILNA LUŽNIK",
         "kraj": "PTUJ"
     },
     {
@@ -367,6 +462,16 @@
     {
         "ugodnosti": "service-3 service-9 service-21",
         "ime": "GOSTILNA POD ŠKALCAMI",
+        "kraj": "SLOVENSKE KONJICE"
+    },
+    {
+        "ugodnosti": "service-5 service-9 service-21",
+        "ime": "GOSTILNA POD ŠKALCAMI - DOSTAVA",
+        "kraj": "SLOVENSKE KONJICE"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-7 service-21 service-69",
+        "ime": "GOSTILNA PRI POŠTI",
         "kraj": "PTUJ"
     },
     {
@@ -412,6 +517,11 @@
     {
         "ugodnosti": "service-1 service-3 service-21 service-69",
         "ime": "GOSTILNICA GUŠT",
+        "kraj": "IZOLA/ISOLA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-21",
+        "ime": "GOSTILNICA IN PIVNICA KATRCA",
         "kraj": "LJUBLJANA"
     },
     {
@@ -427,6 +537,26 @@
     {
         "ugodnosti": "service-1 service-7 service-8 service-21",
         "ime": "GOSTILNICA NAMANOVA",
+        "kraj": "SLOVENJ GRADEC"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-20 service-21",
+        "ime": "GOSTIŠČE KUM",
+        "kraj": "ZAGORJE OB SAVI"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-7 service-20 service-21",
+        "ime": "GOSTIŠČE LOKA",
+        "kraj": "NOVO MESTO"
+    },
+    {
+        "ugodnosti": "service-1 service-7 service-8 service-20 service-21",
+        "ime": "GOSTIŠČE NA TRGU - HIŠA KULINARIKE",
+        "kraj": "NOVO MESTO"
+    },
+    {
+        "ugodnosti": "service-1 service-21 service-69",
+        "ime": "GREENY EF",
         "kraj": "LJUBLJANA"
     },
     {
@@ -492,6 +622,11 @@
     {
         "ugodnosti": "service-21",
         "ime": "HITRA HRANA MARTINA KRPANA",
+        "kraj": "NOVO MESTO"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-21 service-69",
+        "ime": "HONG XIANG",
         "kraj": "LJUBLJANA"
     },
     {
@@ -502,6 +637,11 @@
     {
         "ugodnosti": "service-1 service-3 service-7 service-21",
         "ime": "HOSTEL SITULA",
+        "kraj": "NOVO MESTO"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-9 service-20 service-21",
+        "ime": "HOT HORSE - BTC",
         "kraj": "LJUBLJANA"
     },
     {
@@ -527,6 +667,11 @@
     {
         "ugodnosti": "service-1 service-7 service-8 service-20 service-21",
         "ime": "HOTEL SLOVENJ GRADEC",
+        "kraj": "SLOVENJ GRADEC"
+    },
+    {
+        "ugodnosti": "service-1 service-7 service-9 service-21 service-69",
+        "ime": "HOTSPOT BAR&amp;BISTRO",
         "kraj": "LJUBLJANA"
     },
     {
@@ -592,6 +737,11 @@
     {
         "ugodnosti": "service-1 service-3 service-7 service-20 service-21",
         "ime": "KAVARNA IN RESTAVRACIJA NOVA GORICA",
+        "kraj": "NOVA GORICA"
+    },
+    {
+        "ugodnosti": "service-3 service-9 service-21",
+        "ime": "KAVARNA IN SENDVIČARNA FERI",
         "kraj": "MARIBOR"
     },
     {
@@ -647,6 +797,16 @@
     {
         "ugodnosti": "service-1 service-3 service-20 service-21",
         "ime": "KITAJSKA RESTAVRACIJA CESARSKA HIŠA",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-21",
+        "ime": "KITAJSKA RESTAVRACIJA CHANG",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-7 service-20 service-21",
+        "ime": "KITAJSKA RESTAVRACIJA DVA ZMAJA",
         "kraj": "CELJE"
     },
     {
@@ -662,6 +822,11 @@
     {
         "ugodnosti": "service-1 service-3 service-20 service-21",
         "ime": "KITAJSKA RESTAVRACIJA NANKING",
+        "kraj": "NOVO MESTO"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-20 service-21",
+        "ime": "KITAJSKA RESTAVRACIJA NOVI ŠANGHAI",
         "kraj": "LJUBLJANA"
     },
     {
@@ -697,6 +862,11 @@
     {
         "ugodnosti": "service-1 service-5 service-20 service-21",
         "ime": "KITAJSKA RESTAVRACJA CESARSKA HIŠA-DOSTAVA",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-9 service-20 service-21",
+        "ime": "KITAJSKI DVOR",
         "kraj": "CELJE"
     },
     {
@@ -742,6 +912,11 @@
     {
         "ugodnosti": "service-1 service-8 service-9 service-20 service-21",
         "ime": "KRATOCHWILL",
+        "kraj": "MURSKA SOBOTA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-21",
+        "ime": "KURJI TAT",
         "kraj": "LJUBLJANA"
     },
     {
@@ -757,6 +932,11 @@
     {
         "ugodnosti": "service-1 service-3 service-9 service-20 service-21",
         "ime": "LABIRINT",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-21",
+        "ime": "LETEČA ZVEZDA",
         "kraj": "LJUBLJANA"
     },
     {
@@ -817,6 +997,11 @@
     {
         "ugodnosti": "service-3 service-20 service-22",
         "ime": "MC PATRIOT",
+        "kraj": "SLOVENSKE KONJICE"
+    },
+    {
+        "ugodnosti": "service-1 service-8 service-20 service-21",
+        "ime": "MCDONALD&#180;S RESTAVRACIJA - SWATY",
         "kraj": "MARIBOR"
     },
     {
@@ -857,6 +1042,16 @@
     {
         "ugodnosti": "service-1 service-8 service-20 service-21",
         "ime": "MCDONALD&#39;S RESTAVRACIJA KOPER",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-8 service-21",
+        "ime": "MCDONALD&#39;S RESTAVRACIJA NOVA GORICA",
+        "kraj": "NOVA GORICA"
+    },
+    {
+        "ugodnosti": "service-21",
+        "ime": "ME GUSTA",
         "kraj": "MARIBOR"
     },
     {
@@ -907,16 +1102,31 @@
     {
         "ugodnosti": "service-20 service-21",
         "ime": "MORNARČEK RIBJA KANTINA - RESTAVRACIJA",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-21",
+        "ime": "NAMASTE INDIAN EXPRESS",
         "kraj": "LJUBLJANA"
     },
     {
         "ugodnosti": "service-1 service-3 service-20 service-21",
         "ime": "NEWS CAFE",
+        "kraj": "PORTOROŽ/PORTOROSE"
+    },
+    {
+        "ugodnosti": "service-8 service-20 service-22",
+        "ime": "NOOMM",
         "kraj": "MARIBOR"
     },
     {
         "ugodnosti": "service-1 service-20 service-21",
         "ime": "OKREPČEVALNICA - BISTRO TANJA",
+        "kraj": "MURSKA SOBOTA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-20 service-21",
+        "ime": "OKREPČEVALNICA - DINER KINO GLEDALIŠČE BEŽIGRAD",
         "kraj": "LJUBLJANA"
     },
     {
@@ -967,6 +1177,11 @@
     {
         "ugodnosti": "service-1 service-3 service-20 service-21",
         "ime": "OKREPČEVALNICA ĆEVABDŽINICA MALI GAZDA",
+        "kraj": "PORTOROŽ/PORTOROSE"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-21",
+        "ime": "OKREPČEVALNICA FRESH (PRODAJNO MESTO PETROL)",
         "kraj": "TREBNJE"
     },
     {
@@ -997,16 +1212,36 @@
     {
         "ugodnosti": "service-7 service-20 service-21",
         "ime": "OKREPČEVALNICA LAGUNA",
+        "kraj": "MURSKA SOBOTA"
+    },
+    {
+        "ugodnosti": "service-5 service-20 service-21",
+        "ime": "OKREPČEVALNICA LAGUNA - DOSTAVA",
+        "kraj": "MURSKA SOBOTA"
+    },
+    {
+        "ugodnosti": "service-1 service-8 service-21",
+        "ime": "OKREPČEVALNICA MAJ",
         "kraj": "HOČE"
     },
     {
         "ugodnosti": "service-3 service-7 service-20 service-21",
         "ime": "OKREPČEVALNICA MINUTKA",
+        "kraj": "SLOVENJ GRADEC"
+    },
+    {
+        "ugodnosti": "service-3 service-7 service-20 service-22",
+        "ime": "OKREPČEVALNICA MM PANDA",
         "kraj": "MARIBOR"
     },
     {
         "ugodnosti": "service-3 service-7 service-20 service-21",
         "ime": "OKREPČEVALNICA NOVAK",
+        "kraj": "NOVO MESTO"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-21",
+        "ime": "OKREPČEVALNICA PEKARNA DOBROT",
         "kraj": "LJUBLJANA"
     },
     {
@@ -1057,6 +1292,11 @@
     {
         "ugodnosti": "service-1 service-8 service-21",
         "ime": "OKREPČEVALNICA VIDA",
+        "kraj": "RAVNE NA KOROŠKEM"
+    },
+    {
+        "ugodnosti": "service-3 service-20 service-21",
+        "ime": "OKREPČEVALNICA VILLA MONDE",
         "kraj": "PTUJ"
     },
     {
@@ -1097,6 +1337,11 @@
     {
         "ugodnosti": "service-20 service-21",
         "ime": "PE KAVA BAR IN OKREPČEVALNICA FANTOM",
+        "kraj": "SLOVENJ GRADEC"
+    },
+    {
+        "ugodnosti": "service-1 service-7 service-21",
+        "ime": "PE MARJETICA",
         "kraj": "LJUBLJANA"
     },
     {
@@ -1127,11 +1372,21 @@
     {
         "ugodnosti": "service-1 service-8 service-20 service-21",
         "ime": "PETROL OKREPČEVANICA FRESH",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-7 service-8 service-20 service-21",
+        "ime": "PIAZZA DEL PAPA",
         "kraj": "LJUBLJANA"
     },
     {
         "ugodnosti": "service-1 service-3 service-9 service-20 service-21",
         "ime": "PICERIJA ALAN FORD",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-8 service-21",
+        "ime": "PICERIJA BARJAN",
         "kraj": "LJUBLJANA"
     },
     {
@@ -1147,6 +1402,11 @@
     {
         "ugodnosti": "service-1 service-3 service-20 service-21",
         "ime": "PICERIJA ERA",
+        "kraj": "NOVO MESTO"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-20 service-21",
+        "ime": "PICERIJA IN RESTAVRACIJA TONAČ",
         "kraj": "KRANJ"
     },
     {
@@ -1162,6 +1422,11 @@
     {
         "ugodnosti": "service-1 service-20 service-21",
         "ime": "PICERIJA ŠTANGELJ",
+        "kraj": "NOVO MESTO"
+    },
+    {
+        "ugodnosti": "service-1 service-5 service-20 service-21",
+        "ime": "PICERIJA TONAČ - DOSTAVA",
         "kraj": "KRANJ"
     },
     {
@@ -1187,6 +1452,11 @@
     {
         "ugodnosti": "service-1 service-8 service-20 service-21",
         "ime": "PIVNICA EMONEC",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-20 service-21",
+        "ime": "PIVOVARNA IN PIVNICA KRATOCHWILL",
         "kraj": "LJUBLJANA"
     },
     {
@@ -1197,11 +1467,26 @@
     {
         "ugodnosti": "service-3 service-20 service-21",
         "ime": "PIZZERIA CHIANTI",
+        "kraj": "NOVO MESTO"
+    },
+    {
+        "ugodnosti": "service-8 service-20 service-22",
+        "ime": "PIZZERIA DA NOI FAST FOOD",
         "kraj": "MARIBOR"
     },
     {
         "ugodnosti": "service-22",
         "ime": "PIZZERIA DI ANTONIO",
+        "kraj": "SLOVENJ GRADEC"
+    },
+    {
+        "ugodnosti": "service-5 service-22",
+        "ime": "PIZZERIA DI ANTONIO - DOSTAVA",
+        "kraj": "SLOVENJ GRADEC"
+    },
+    {
+        "ugodnosti": "service-3 service-9 service-20 service-22",
+        "ime": "PIZZERIA FOCULUS",
         "kraj": "LJUBLJANA"
     },
     {
@@ -1247,6 +1532,11 @@
     {
         "ugodnosti": "service-1 service-3 service-20 service-21",
         "ime": "PIZZERIA IN ŠPAGETTERIA CUBUS",
+        "kraj": "NOVO MESTO"
+    },
+    {
+        "ugodnosti": "service-3 service-20 service-22",
+        "ime": "PIZZERIA KUKUCA",
         "kraj": "TRBOVLJE"
     },
     {
@@ -1257,6 +1547,11 @@
     {
         "ugodnosti": "service-1 service-8 service-20 service-21",
         "ime": "PIZZERIA MIA FORTUNA",
+        "kraj": "NOVO MESTO"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-20 service-21",
+        "ime": "PIZZERIA OLIVA",
         "kraj": "CELJE"
     },
     {
@@ -1292,6 +1587,11 @@
     {
         "ugodnosti": "service-3 service-20 service-22",
         "ime": "PIZZERIA TOTALKA",
+        "kraj": "NOVO MESTO"
+    },
+    {
+        "ugodnosti": "service-8 service-20 service-22",
+        "ime": "PIZZERIA TOTTAPIZZA",
         "kraj": "MARIBOR"
     },
     {
@@ -1302,6 +1602,26 @@
     {
         "ugodnosti": "service-1 service-3 service-7 service-20 service-21",
         "ime": "PIZZERIA VILA RAINERI",
+        "kraj": "IZOLA/ISOLA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-21",
+        "ime": "PIZZERIJA AŠIČ",
+        "kraj": "ZAGORJE OB SAVI"
+    },
+    {
+        "ugodnosti": "service-1 service-5 service-21",
+        "ime": "PIZZERIJA AŠIČ - DOSTAVA",
+        "kraj": "ZAGORJE OB SAVI"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-7 service-20 service-21",
+        "ime": "PIZZERIJA ATRIJ",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-20 service-21",
+        "ime": "PIZZERIJA DIMNIK",
         "kraj": "TRBOVLJE"
     },
     {
@@ -1362,6 +1682,11 @@
     {
         "ugodnosti": "service-22 service-69",
         "ime": "POMORŠČAK",
+        "kraj": "PORTOROŽ/PORTOROSE"
+    },
+    {
+        "ugodnosti": "service-1 service-21 service-69",
+        "ime": "PORTOFINO",
         "kraj": "MARIBOR"
     },
     {
@@ -1382,6 +1707,16 @@
     {
         "ugodnosti": "service-1 service-7 service-20 service-21",
         "ime": "PRIMAVERA IZOLA",
+        "kraj": "IZOLA/ISOLA"
+    },
+    {
+        "ugodnosti": "service-1 service-5 service-20 service-21",
+        "ime": "PRIMAVERA IZOLA-DOSTAVA",
+        "kraj": "IZOLA/ISOLA"
+    },
+    {
+        "ugodnosti": "service-1 service-7 service-8 service-21",
+        "ime": "PROMETNA ŠOLA MARIBOR",
         "kraj": "MARIBOR"
     },
     {
@@ -1442,6 +1777,11 @@
     {
         "ugodnosti": "service-1 service-7 service-8 service-9 service-20 service-21",
         "ime": "RESTAVRACIJA 123 MC NOVA GORICA",
+        "kraj": "NOVA GORICA"
+    },
+    {
+        "ugodnosti": "service-1 service-7 service-9 service-21",
+        "ime": "RESTAVRACIJA 123 MEGA CENTER 2",
         "kraj": "LJUBLJANA"
     },
     {
@@ -1457,6 +1797,11 @@
     {
         "ugodnosti": "service-1 service-7 service-9 service-21",
         "ime": "RESTAVRACIJA 123 PRISTAN",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-7 service-20 service-21",
+        "ime": "RESTAVRACIJA 2000",
         "kraj": "LJUBLJANA"
     },
     {
@@ -1527,6 +1872,16 @@
     {
         "ugodnosti": "service-1 service-7 service-8 service-21",
         "ime": "RESTAVRACIJA IN PIVNICA ZVEZDA",
+        "kraj": "MURSKA SOBOTA"
+    },
+    {
+        "ugodnosti": "service-1 service-8 service-21",
+        "ime": "RESTAVRACIJA IN PIZZERIJA PEPERONČINO",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-7 service-8 service-9 service-20 service-21",
+        "ime": "RESTAVRACIJA INTERSPAR CELJE",
         "kraj": "CELJE"
     },
     {
@@ -1537,6 +1892,11 @@
     {
         "ugodnosti": "service-1 service-3 service-7 service-8 service-9 service-20 service-21",
         "ime": "RESTAVRACIJA INTERSPAR KOPER",
+        "kraj": "KOPER/CAPODISTRIA"
+    },
+    {
+        "ugodnosti": "service-1 service-7 service-8 service-9 service-20 service-21",
+        "ime": "RESTAVRACIJA INTERSPAR KRANJ",
         "kraj": "KRANJ"
     },
     {
@@ -1552,6 +1912,16 @@
     {
         "ugodnosti": "service-1 service-7 service-8 service-9 service-20 service-21",
         "ime": "RESTAVRACIJA INTERSPAR MURSKA SOBOTA",
+        "kraj": "MURSKA SOBOTA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-7 service-8 service-9 service-20 service-21",
+        "ime": "RESTAVRACIJA INTERSPAR NOVA GORICA",
+        "kraj": "NOVA GORICA"
+    },
+    {
+        "ugodnosti": "service-1 service-7 service-8 service-9 service-20 service-21",
+        "ime": "RESTAVRACIJA INTERSPAR VIČ",
         "kraj": "LJUBLJANA"
     },
     {
@@ -1597,6 +1967,11 @@
     {
         "ugodnosti": "service-1 service-7 service-8 service-21",
         "ime": "RESTAVRACIJA KOMPLIMENT",
+        "kraj": "ŠKOFJA LOKA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-21 service-69",
+        "ime": "RESTAVRACIJA KOTNIKOVA",
         "kraj": "LJUBLJANA"
     },
     {
@@ -1627,6 +2002,11 @@
     {
         "ugodnosti": "service-8 service-20 service-21",
         "ime": "RESTAVRACIJA MCDONALD&#39;S NOVO MESTO",
+        "kraj": "NOVO MESTO"
+    },
+    {
+        "ugodnosti": "service-8 service-20 service-21",
+        "ime": "RESTAVRACIJA MCDONALD&#39;S RUDNIK",
         "kraj": "LJUBLJANA"
     },
     {
@@ -1657,6 +2037,11 @@
     {
         "ugodnosti": "service-1 service-20 service-21",
         "ime": "RESTAVRACIJA NA KLANCU",
+        "kraj": "SLOVENJ GRADEC"
+    },
+    {
+        "ugodnosti": "service-1 service-20 service-21",
+        "ime": "RESTAVRACIJA ORIENT",
         "kraj": "MARIBOR"
     },
     {
@@ -1697,6 +2082,11 @@
     {
         "ugodnosti": "service-1 service-20 service-21",
         "ime": "RESTAVRACIJA SARAJEVSKIH JEDI VALTER - ŠKOFJA LOKA",
+        "kraj": "ŠKOFJA LOKA"
+    },
+    {
+        "ugodnosti": "service-1 service-21",
+        "ime": "RESTAVRACIJA SARAJEVSKIH JEDI VALTER JESENICE",
         "kraj": "JESENICE"
     },
     {
@@ -1732,6 +2122,11 @@
     {
         "ugodnosti": "service-1 service-21",
         "ime": "RESTAVRACIJA SPLOŠNE BOLNIŠNICE NOVO MESTO",
+        "kraj": "NOVO MESTO"
+    },
+    {
+        "ugodnosti": "service-1 service-7 service-21",
+        "ime": "RESTAVRACIJA ŠEF LA",
         "kraj": "LJUBLJANA"
     },
     {
@@ -1842,11 +2237,21 @@
     {
         "ugodnosti": "service-1 service-7 service-8 service-10 service-21",
         "ime": "SPLOŠNA BOLNIŠNICA IZOLA",
+        "kraj": "IZOLA/ISOLA"
+    },
+    {
+        "ugodnosti": "service-7 service-21",
+        "ime": "SREDNJA GOZDARSKA IN LESARSKA ŠOLA POSTOJNA",
         "kraj": "POSTOJNA"
     },
     {
         "ugodnosti": "service-1 service-7 service-8 service-21",
         "ime": "SREDNJA ŠOLA IZOLA - SCUOLA MEDIA ISOLA",
+        "kraj": "IZOLA/ISOLA"
+    },
+    {
+        "ugodnosti": "service-1 service-7 service-20 service-21",
+        "ime": "STARA KRŠKA PIZZERIJA",
         "kraj": "KRŠKO"
     },
     {
@@ -1922,6 +2327,11 @@
     {
         "ugodnosti": "service-3 service-21",
         "ime": "TAVERNA HUBER, RESTAVRACIJA IN SLASČIČARNA",
+        "kraj": "MURSKA SOBOTA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-20 service-21",
+        "ime": "TAVERNA SICILIA",
         "kraj": "MARIBOR"
     },
     {
@@ -2033,5 +2443,10 @@
         "ugodnosti": "service-20 service-22",
         "ime": "ŽITO LJUBLJANA VODNIK",
         "kraj": "LJUBLJANA"
+    },
+    {
+        "ugodnosti": "service-1 service-3 service-20 service-22",
+        "ime": "ŽITO TRŽNICA KOPER",
+        "kraj": "KOPER/CAPODISTRIA"
     }
 ]
