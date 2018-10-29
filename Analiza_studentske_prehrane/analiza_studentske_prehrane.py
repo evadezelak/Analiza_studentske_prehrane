@@ -61,8 +61,9 @@ def zapisi_json(objekt, ime_datoteke):
 
 
 vzorec = re.compile(
-    r'<div class="row restaurant-row (?P<ugodnosti>.*?)".*?'
-    #r'.*? data-doplacilo="(?P<doplacilo>.*?)".*?'
+    r'<div class="row restaurant-row (?P<vegetarijansko>service-1)? ?(?P<dostop_za_invalide>service-3)? ?(?P<dostava>service-5)? ?(?P<odprto_ob_vikendih>service-20)? ?(?P<nov_lokal>service-69)?.*?"(?:\s|\n)*data.*?'
+    r'.*? data-doplacilo="(?P<doplacilo>.*?)".*?'
+    r'<input checked="checked".*?value="(?P<ocena>\d+)".*?></label>.*?' #Kaj pa če ocene ni?
     r'data-lokal="(?P<ime>.*?)".*?'
     r'data-city="(?P<kraj>.*?)"',
     #r'<small><i>(?P<naslov>.*?)</i>.*?',
@@ -72,20 +73,22 @@ vzorec = re.compile(
 
 def izloci_podatke(ujemanje):
     podatki_restavracije = ujemanje.groupdict()
-    podatki_restavracije['ugodnosti'] = podatki_restavracije['ugodnosti'].strip()
-    #podatki_restavracije['doplacilo'] = (podatki_restavracije['doplacilo']).replace(',', '.')
-    #podatki_restavracije['doplacilo'] = float(podatki_restavracije['doplacilo'])
+    #podatki_restavracije['vegetarijansko'] = podatki_restavracije['vegetarijansko'].replace('Null', 'NE')
+    podatki_restavracije['doplacilo'] = (podatki_restavracije['doplacilo']).replace(',', '.')
+    podatki_restavracije['doplacilo'] = float(podatki_restavracije['doplacilo'])
+    podatki_restavracije['ocena'] = int(podatki_restavracije['ocena'])
     podatki_restavracije['ime'] = podatki_restavracije['ime'].strip()
+    podatki_restavracije['ime'] = podatki_restavracije['ime'].replace('&quot;', '"')
     #podatki_restavracije['naslov'] = podatki_restavracije['naslov'].strip()
     podatki_restavracije['kraj'] = podatki_restavracije['kraj'].strip()
     return podatki_restavracije
 
 podatki_restavracije = []
-stevec = 0
 vsebina = vsebina_datoteke('imenik_restavracij/frontpage.html')
 for ujemanje in vzorec.finditer(vsebina):
-    stevec += 1
-    print(stevec)
+    print('Računam')
     podatki_restavracije.append(izloci_podatke(ujemanje))
 zapisi_json(podatki_restavracije, 'obdelani-podatki/vse-restavracije.json')
-zapisi_csv(podatki_restavracije, ["ime", "kraj", "ugodnosti"], 'obdelani-podatki/vse-restavracije.csv')
+zapisi_csv(podatki_restavracije, ["ime", "kraj", "ocena", "doplacilo", "vegetarijansko", "dostava", "dostop_za_invalide", "odprto_ob_vikendih", "nov_lokal"], 'obdelani-podatki/vse-restavracije.csv')
+
+print(len(podatki_restavracije))
