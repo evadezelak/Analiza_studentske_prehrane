@@ -64,7 +64,7 @@ vzorec = re.compile(
     r'<div class="row restaurant-row (?P<vegetarijansko>service-1)? ?(?P<dostop_za_invalide>service-3)? ?(?P<dostava>service-5)? ?(?P<odprto_ob_vikendih>service-20)? ?(?P<nov_lokal>service-69)?.*?"(?:\s|\n)*data.*?'
     #r'<div class="row restaurant-row .*?(?P<nov_lokal>service-69)?"(?:\s|\n)*data.*?'
     r'.*? data-doplacilo="(?P<doplacilo>.*?)".*?'
-    #r'<input checked="checked".*?value="(?P<ocena>\d+)".*?></label>.*?' #Kaj pa če ocene ni?
+    #r'<input checked="checked".*?value="(?P<ocena>\d+)?".*?></label>.*?' #Kaj pa če ocene ni?
     r'data-lokal="(?P<ime>.*?)".*?'
     r'data-city="(?P<kraj>.*?)"',
     #r'<small><i>(?P<naslov>.*?)</i>.*?',
@@ -99,13 +99,14 @@ def izloci_podatke(ujemanje):
     else:
         podatki_restavracije['nov_lokal'] = 'NE'
         
-    #podatki_restavracije['vegetarijansko'] = podatki_restavracije['vegetarijansko'].replace('Null', 'NE')
     podatki_restavracije['doplacilo'] = (podatki_restavracije['doplacilo']).replace(',', '.')
-    #podatki_restavracije['doplacilo'] = float(podatki_restavracije['doplacilo'])
-    podatki_restavracije['doplacilo'] = (podatki_restavracije['doplacilo']) + '€'
+    podatki_restavracije['doplacilo'] = float(podatki_restavracije['doplacilo'])
     #podatki_restavracije['ocena'] = int(podatki_restavracije['ocena'])
     podatki_restavracije['ime'] = podatki_restavracije['ime'].strip()
     podatki_restavracije['ime'] = podatki_restavracije['ime'].replace('&quot;', '"')
+    podatki_restavracije['ime'] = podatki_restavracije['ime'].replace('&amp;', '&')
+    podatki_restavracije['ime'] = podatki_restavracije['ime'].replace('&#39;', "'")
+    podatki_restavracije['ime'] = podatki_restavracije['ime'].replace('&#180;', "'")
     #podatki_restavracije['naslov'] = podatki_restavracije['naslov'].strip()
     podatki_restavracije['kraj'] = podatki_restavracije['kraj'].strip()
     return podatki_restavracije

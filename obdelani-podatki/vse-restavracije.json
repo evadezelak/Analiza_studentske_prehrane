@@ -5,7 +5,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.87€",
+        "doplacilo": 2.87,
         "ime": "\"SOLE\" OKREPČEVALNICA, PIZZERIJA, SLAŠČIČARNA IN CATERING",
         "kraj": "LJUBLJANA"
     },
@@ -15,7 +15,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.90€",
+        "doplacilo": 3.9,
         "ime": "ABI FALAFEL",
         "kraj": "LJUBLJANA"
     },
@@ -25,7 +25,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.00€",
+        "doplacilo": 1.0,
         "ime": "AGA KEBAPČI",
         "kraj": "LJUBLJANA"
     },
@@ -35,7 +35,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.70€",
+        "doplacilo": 2.7,
         "ime": "AMBIENT",
         "kraj": "LJUBLJANA"
     },
@@ -45,7 +45,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "ANTARO",
         "kraj": "LJUBLJANA"
     },
@@ -55,7 +55,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.90€",
+        "doplacilo": 3.9,
         "ime": "APAČI",
         "kraj": "SLOVENJ GRADEC"
     },
@@ -65,7 +65,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.90€",
+        "doplacilo": 3.9,
         "ime": "APAČI - DOSTAVA",
         "kraj": "SLOVENJ GRADEC"
     },
@@ -75,7 +75,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "AROMA, RESTAVRACIJA IN PIZZERIJA",
         "kraj": "LJUBLJANA"
     },
@@ -85,7 +85,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.67€",
+        "doplacilo": 3.67,
         "ime": "AZIJSKA RESTAVRACIJA HAN",
         "kraj": "LJUBLJANA"
     },
@@ -95,7 +95,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.17€",
+        "doplacilo": 3.17,
         "ime": "AZIJSKA RESTAVRACIJA TLOFT",
         "kraj": "LJUBLJANA"
     },
@@ -105,7 +105,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "B2 RESTAVRACIJA",
         "kraj": "LJUBLJANA"
     },
@@ -115,7 +115,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "B2 RESTAVRACIJA-DOSTAVA",
         "kraj": "LJUBLJANA"
     },
@@ -125,7 +125,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "BABICA",
         "kraj": "LJUBLJANA"
     },
@@ -135,7 +135,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.87€",
+        "doplacilo": 1.87,
         "ime": "BACK WERK",
         "kraj": "LJUBLJANA"
     },
@@ -145,7 +145,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.67€",
+        "doplacilo": 3.67,
         "ime": "BALKAN EXPRESS",
         "kraj": "LJUBLJANA"
     },
@@ -155,7 +155,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.00€",
+        "doplacilo": 1.0,
         "ime": "BAR ENKA",
         "kraj": "LJUBLJANA"
     },
@@ -165,7 +165,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.40€",
+        "doplacilo": 3.4,
         "ime": "BARBADO",
         "kraj": "LJUBLJANA"
     },
@@ -175,7 +175,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.57€",
+        "doplacilo": 2.57,
         "ime": "BIOTEHNIŠKA FAKULTETA, MENZA BF",
         "kraj": "LJUBLJANA"
     },
@@ -185,7 +185,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.67€",
+        "doplacilo": 2.67,
         "ime": "BIOTEHNIŠKI IZOBRAŽEVALNI CENTER LJUBLJANA",
         "kraj": "LJUBLJANA"
     },
@@ -195,7 +195,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.67€",
+        "doplacilo": 2.67,
         "ime": "BIOTEHNIŠKI IZOBRAŽEVALNI CENTER LJUBLJANA",
         "kraj": "LJUBLJANA"
     },
@@ -205,7 +205,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.97€",
+        "doplacilo": 3.97,
         "ime": "BISTRO ARTY+",
         "kraj": "MARIBOR"
     },
@@ -215,7 +215,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "BISTRO ŠUMI",
         "kraj": "LJUBLJANA"
     },
@@ -225,7 +225,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "BISTRO TANJA- DOSTAVA",
         "kraj": "MURSKA SOBOTA"
     },
@@ -235,7 +235,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.10€",
+        "doplacilo": 3.1,
         "ime": "BISTRO VILLADOMUS",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -245,7 +245,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "BOHOR",
         "kraj": "ROGAŠKA SLATINA"
     },
@@ -255,7 +255,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "BON CAFE LUCIJA",
         "kraj": "PORTOROŽ/PORTOROSE"
     },
@@ -265,7 +265,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.87€",
+        "doplacilo": 2.87,
         "ime": "BOWLING CENTER STRIKE",
         "kraj": "MARIBOR"
     },
@@ -275,7 +275,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.37€",
+        "doplacilo": 2.37,
         "ime": "BRATJE EREN TAHIRI",
         "kraj": "LJUBLJANA"
     },
@@ -285,7 +285,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.50€",
+        "doplacilo": 1.5,
         "ime": "BRUC BAR",
         "kraj": "MARIBOR"
     },
@@ -295,7 +295,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.57€",
+        "doplacilo": 3.57,
         "ime": "BUF KRANJ",
         "kraj": "KRANJ"
     },
@@ -305,7 +305,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.98€",
+        "doplacilo": 2.98,
         "ime": "BURGERMAISTER",
         "kraj": "MARIBOR"
     },
@@ -315,7 +315,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.07€",
+        "doplacilo": 3.07,
         "ime": "CANTANTE CAFE TABOR",
         "kraj": "MARIBOR"
     },
@@ -325,7 +325,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.57€",
+        "doplacilo": 3.57,
         "ime": "CANTANTE CAFE TABOR - DOSTAVA",
         "kraj": "MARIBOR"
     },
@@ -335,7 +335,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "CANTINA MEXICANA KNAFELJ",
         "kraj": "LJUBLJANA"
     },
@@ -345,7 +345,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.77€",
+        "doplacilo": 3.77,
         "ime": "CANTINA MEXICANA RUDNIK",
         "kraj": "LJUBLJANA"
     },
@@ -355,7 +355,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.37€",
+        "doplacilo": 2.37,
         "ime": "CENTRALNA POSTAJA",
         "kraj": "LJUBLJANA"
     },
@@ -365,7 +365,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.30€",
+        "doplacilo": 2.3,
         "ime": "CITY GRILL",
         "kraj": "MARIBOR"
     },
@@ -375,7 +375,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.50€",
+        "doplacilo": 2.5,
         "ime": "CITY GRILL - DOSTAVA",
         "kraj": "MARIBOR"
     },
@@ -385,7 +385,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.30€",
+        "doplacilo": 4.3,
         "ime": "CITY PIZZA EXPRESS - DOSTAVA",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -395,7 +395,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.90€",
+        "doplacilo": 3.9,
         "ime": "CITYBURGER",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -405,7 +405,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "1.47€",
+        "doplacilo": 1.47,
         "ime": "CUTTY FOOD CORNER",
         "kraj": "LJUBLJANA"
     },
@@ -415,7 +415,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "ČEVABDŽINICA SARAJEVO 84",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -425,7 +425,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "ČEVABDŽINICA SARAJEVO 84",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -435,7 +435,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.07€",
+        "doplacilo": 4.07,
         "ime": "ČEVABDŽINICA SARAJEVO 84 - DOSTAVA",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -445,7 +445,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "DA BU DA, AZIJSKA RESTAVRACIJA",
         "kraj": "LJUBLJANA"
     },
@@ -455,7 +455,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.70€",
+        "doplacilo": 1.7,
         "ime": "DIFOOD-EAT GOOD",
         "kraj": "LJUBLJANA"
     },
@@ -465,7 +465,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.40€",
+        "doplacilo": 2.4,
         "ime": "DIJAŠKI DOM IVANA CANKARJA",
         "kraj": "LJUBLJANA"
     },
@@ -475,7 +475,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
+        "doplacilo": 2.07,
         "ime": "DIJAŠKI DOM LIZIKE JANČAR",
         "kraj": "MARIBOR"
     },
@@ -485,7 +485,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.37€",
+        "doplacilo": 2.37,
         "ime": "DIJAŠKI DOM MARIBOR",
         "kraj": "MARIBOR"
     },
@@ -495,7 +495,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.20€",
+        "doplacilo": 2.2,
         "ime": "DIJAŠKI DOM POLJANE",
         "kraj": "LJUBLJANA"
     },
@@ -505,7 +505,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "DIJAŠKI DOM PORTOROŽ",
         "kraj": "PORTOROŽ/PORTOROSE"
     },
@@ -515,7 +515,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.40€",
+        "doplacilo": 2.4,
         "ime": "DIJAŠKI DOM TABOR",
         "kraj": "LJUBLJANA"
     },
@@ -525,7 +525,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.40€",
+        "doplacilo": 2.4,
         "ime": "DIJAŠKI DOM VIČ",
         "kraj": "LJUBLJANA"
     },
@@ -535,7 +535,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.90€",
+        "doplacilo": 1.9,
         "ime": "DIJAŠKI IN ŠTUDENTSKI DOM KOPER",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -545,7 +545,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.87€",
+        "doplacilo": 1.87,
         "ime": "DIJAŠKI IN ŠTUDENTSKI DOM KRANJ",
         "kraj": "KRANJ"
     },
@@ -555,7 +555,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.50€",
+        "doplacilo": 2.5,
         "ime": "DIJAŠKI IN ŠTUDENTSKI DOM NOVO MESTO",
         "kraj": "NOVO MESTO"
     },
@@ -565,7 +565,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.60€",
+        "doplacilo": 3.6,
         "ime": "DOBROTE VZHODA",
         "kraj": "LJUBLJANA"
     },
@@ -575,7 +575,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.50€",
+        "doplacilo": 0.5,
         "ime": "DOMAČA PEKARNA",
         "kraj": "LJUBLJANA"
     },
@@ -585,7 +585,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.30€",
+        "doplacilo": 3.3,
         "ime": "DUNYA DONER",
         "kraj": "LJUBLJANA"
     },
@@ -595,7 +595,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "EAT SMART",
         "kraj": "MARIBOR"
     },
@@ -605,7 +605,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.50€",
+        "doplacilo": 2.5,
         "ime": "EAT SMART FERI",
         "kraj": "MARIBOR"
     },
@@ -615,7 +615,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "EJGA - RESTAVRACIJA - KAVARNA - PUB - CATERING",
         "kraj": "JESENICE"
     },
@@ -625,8 +625,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.30€",
-        "ime": "EKSPERIMENT RESTAVRACIJA &amp; BAR",
+        "doplacilo": 4.3,
+        "ime": "EKSPERIMENT RESTAVRACIJA & BAR",
         "kraj": "LJUBLJANA"
     },
     {
@@ -635,7 +635,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.50€",
+        "doplacilo": 3.5,
         "ime": "EMONSKA KLET",
         "kraj": "LJUBLJANA"
     },
@@ -645,7 +645,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.80€",
+        "doplacilo": 2.8,
         "ime": "FAJN FUUD",
         "kraj": "LJUBLJANA"
     },
@@ -655,7 +655,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "FAJN FUUD PIZZA",
         "kraj": "LJUBLJANA"
     },
@@ -665,7 +665,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.57€",
+        "doplacilo": 2.57,
         "ime": "FAKULTETA ZA ELEKTROTEHNIKO, MENZA FE",
         "kraj": "LJUBLJANA"
     },
@@ -675,8 +675,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.87€",
-        "ime": "FARI&#39;S DELICE",
+        "doplacilo": 2.87,
+        "ime": "FARI'S DELICE",
         "kraj": "LJUBLJANA"
     },
     {
@@ -685,7 +685,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "1.50€",
+        "doplacilo": 1.5,
         "ime": "FAST FOOD FRESCO IN SLAST",
         "kraj": "LJUBLJANA"
     },
@@ -695,7 +695,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.00€",
+        "doplacilo": 2.0,
         "ime": "FAST FOOD MAGIC",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -705,7 +705,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.17€",
+        "doplacilo": 3.17,
         "ime": "FAST FOOD PUB POD SKALCO",
         "kraj": "LJUBLJANA"
     },
@@ -715,7 +715,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.10€",
+        "doplacilo": 2.1,
         "ime": "FASTFOOD AJDA",
         "kraj": "LJUBLJANA"
     },
@@ -725,7 +725,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "FORUM",
         "kraj": "LJUBLJANA"
     },
@@ -735,7 +735,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "FRESH 4 LIFE VETRINJSKA",
         "kraj": "MARIBOR"
     },
@@ -745,7 +745,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.60€",
+        "doplacilo": 2.6,
         "ime": "FUŽINSKI MERAK",
         "kraj": "LJUBLJANA"
     },
@@ -755,7 +755,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.40€",
+        "doplacilo": 3.4,
         "ime": "FUŽINSKI MERAK - DOSTAVA",
         "kraj": "LJUBLJANA"
     },
@@ -765,7 +765,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.70€",
+        "doplacilo": 2.7,
         "ime": "GARAČ - RESTAVRACIJA \"M\"",
         "kraj": "ŠKOFJA LOKA"
     },
@@ -775,7 +775,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "GOSPOSVETSKA",
         "kraj": "MARIBOR"
     },
@@ -785,7 +785,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "GOSTILNA ČARDA",
         "kraj": "LJUBLJANA"
     },
@@ -795,7 +795,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.27€",
+        "doplacilo": 3.27,
         "ime": "GOSTILNA ČAS",
         "kraj": "ŽALEC"
     },
@@ -805,7 +805,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.80€",
+        "doplacilo": 3.8,
         "ime": "GOSTILNA IN GALERIJA MAJOLKA",
         "kraj": "KAMNIK"
     },
@@ -815,7 +815,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.50€",
+        "doplacilo": 3.5,
         "ime": "GOSTILNA IN MINI RESTAVRACIJA RAJH",
         "kraj": "MURSKA SOBOTA"
     },
@@ -825,7 +825,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "GOSTILNA IN PICERIJA PAVON",
         "kraj": "LJUBLJANA"
     },
@@ -835,7 +835,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "GOSTILNA IN PIZZERIA KORTINA",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -845,7 +845,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "GOSTILNA IN PIZZERIA MAESTRO",
         "kraj": "CELJE"
     },
@@ -855,7 +855,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.17€",
+        "doplacilo": 4.17,
         "ime": "GOSTILNA IN PIZZERIJA BREZA",
         "kraj": "LJUBLJANA"
     },
@@ -865,7 +865,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "GOSTILNA JAKA",
         "kraj": "LJUBLJANA"
     },
@@ -875,7 +875,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.50€",
+        "doplacilo": 3.5,
         "ime": "GOSTILNA JELEN",
         "kraj": "LJUBLJANA"
     },
@@ -885,7 +885,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "GOSTILNA KERŠIČ",
         "kraj": "LJUBLJANA"
     },
@@ -895,7 +895,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.07€",
+        "doplacilo": 3.07,
         "ime": "GOSTILNA LEČNIK",
         "kraj": "RAVNE NA KOROŠKEM"
     },
@@ -905,7 +905,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.30€",
+        "doplacilo": 2.3,
         "ime": "GOSTILNA LUŽNIK",
         "kraj": "PTUJ"
     },
@@ -915,7 +915,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.70€",
+        "doplacilo": 3.7,
         "ime": "GOSTILNA POD LIPO",
         "kraj": "LJUBLJANA"
     },
@@ -925,7 +925,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.00€",
+        "doplacilo": 1.0,
         "ime": "GOSTILNA POD ŠKALCAMI",
         "kraj": "SLOVENSKE KONJICE"
     },
@@ -935,7 +935,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.00€",
+        "doplacilo": 1.0,
         "ime": "GOSTILNA POD ŠKALCAMI - DOSTAVA",
         "kraj": "SLOVENSKE KONJICE"
     },
@@ -945,7 +945,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.17€",
+        "doplacilo": 3.17,
         "ime": "GOSTILNA PRI POŠTI",
         "kraj": "PTUJ"
     },
@@ -955,7 +955,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.87€",
+        "doplacilo": 2.87,
         "ime": "GOSTILNA PRI VIKTORJU",
         "kraj": "KRANJ"
     },
@@ -965,7 +965,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.97€",
+        "doplacilo": 2.97,
         "ime": "GOSTILNA RACMAN",
         "kraj": "BREŽICE"
     },
@@ -975,7 +975,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "GOSTILNA STARI TIŠLER",
         "kraj": "LJUBLJANA"
     },
@@ -985,7 +985,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.50€",
+        "doplacilo": 3.5,
         "ime": "GOSTILNA ŠELIGO",
         "kraj": "TREBNJE"
     },
@@ -995,7 +995,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.07€",
+        "doplacilo": 4.07,
         "ime": "GOSTILNA ŠTORKLJA",
         "kraj": "LJUBLJANA"
     },
@@ -1005,7 +1005,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.17€",
+        "doplacilo": 2.17,
         "ime": "GOSTILNA ZLATI LEV",
         "kraj": "MARIBOR"
     },
@@ -1015,7 +1015,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.57€",
+        "doplacilo": 2.57,
         "ime": "GOSTILNA ZLATI LEV - DOSTAVA",
         "kraj": "MARIBOR"
     },
@@ -1025,8 +1025,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.70€",
-        "ime": "GOSTILNICA &amp; PICERIJA POBREŠKI HRAM",
+        "doplacilo": 3.7,
+        "ime": "GOSTILNICA & PICERIJA POBREŠKI HRAM",
         "kraj": "MARIBOR"
     },
     {
@@ -1035,7 +1035,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "GOSTILNICA GUŠT",
         "kraj": "IZOLA/ISOLA"
     },
@@ -1045,7 +1045,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "GOSTILNICA IN PIVNICA KATRCA",
         "kraj": "LJUBLJANA"
     },
@@ -1055,7 +1055,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "GOSTILNICA IN PIZZERIJA KRATOCHWILL",
         "kraj": "LJUBLJANA"
     },
@@ -1065,7 +1065,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "GOSTILNICA IN PIZZERIJA KRATOCHWILL",
         "kraj": "LJUBLJANA"
     },
@@ -1075,7 +1075,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.67€",
+        "doplacilo": 2.67,
         "ime": "GOSTILNICA NAMANOVA",
         "kraj": "SLOVENJ GRADEC"
     },
@@ -1085,7 +1085,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.17€",
+        "doplacilo": 3.17,
         "ime": "GOSTIŠČE KUM",
         "kraj": "ZAGORJE OB SAVI"
     },
@@ -1095,7 +1095,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.50€",
+        "doplacilo": 3.5,
         "ime": "GOSTIŠČE LOKA",
         "kraj": "NOVO MESTO"
     },
@@ -1105,7 +1105,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.77€",
+        "doplacilo": 2.77,
         "ime": "GOSTIŠČE NA TRGU - HIŠA KULINARIKE",
         "kraj": "NOVO MESTO"
     },
@@ -1115,7 +1115,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.50€",
+        "doplacilo": 1.5,
         "ime": "GREENY EF",
         "kraj": "LJUBLJANA"
     },
@@ -1125,7 +1125,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.50€",
+        "doplacilo": 1.5,
         "ime": "GREENY FŠ",
         "kraj": "LJUBLJANA"
     },
@@ -1135,7 +1135,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
+        "doplacilo": 2.07,
         "ime": "GURMANSKI HRAM",
         "kraj": "MARIBOR"
     },
@@ -1145,7 +1145,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
+        "doplacilo": 2.07,
         "ime": "GURMANSKI HRAM - DOSTAVA",
         "kraj": "MARIBOR"
     },
@@ -1155,7 +1155,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.20€",
+        "doplacilo": 4.2,
         "ime": "HALO HONKONG - DOSTAVA",
         "kraj": "LJUBLJANA"
     },
@@ -1165,7 +1165,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.77€",
+        "doplacilo": 3.77,
         "ime": "HALO JANEZ",
         "kraj": "LJUBLJANA"
     },
@@ -1175,7 +1175,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.77€",
+        "doplacilo": 3.77,
         "ime": "HALO JANEZ - DOSTAVA",
         "kraj": "LJUBLJANA"
     },
@@ -1185,7 +1185,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "HALO KATRA",
         "kraj": "LJUBLJANA"
     },
@@ -1195,7 +1195,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.30€",
+        "doplacilo": 3.3,
         "ime": "HALO PINKI",
         "kraj": "LJUBLJANA"
     },
@@ -1205,7 +1205,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.90€",
+        "doplacilo": 3.9,
         "ime": "HALO PINKI - DOSTAVA",
         "kraj": "LJUBLJANA"
     },
@@ -1215,7 +1215,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.20€",
+        "doplacilo": 4.2,
         "ime": "HALO RDEČE JABOLKO - DOSTAVA",
         "kraj": "LJUBLJANA"
     },
@@ -1225,7 +1225,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "HALO SHAOLIN - DOSTAVA",
         "kraj": "LJUBLJANA"
     },
@@ -1235,7 +1235,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.97€",
+        "doplacilo": 3.97,
         "ime": "HIŠA POD GRADOM",
         "kraj": "LJUBLJANA"
     },
@@ -1245,7 +1245,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
+        "doplacilo": 2.07,
         "ime": "HITRA HRANA MARTINA KRPANA",
         "kraj": "NOVO MESTO"
     },
@@ -1255,7 +1255,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.80€",
+        "doplacilo": 2.8,
         "ime": "HONG XIANG",
         "kraj": "LJUBLJANA"
     },
@@ -1265,7 +1265,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "HONG XIANG - DOSTAVA",
         "kraj": "LJUBLJANA"
     },
@@ -1275,7 +1275,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.98€",
+        "doplacilo": 2.98,
         "ime": "HOSTEL SITULA",
         "kraj": "NOVO MESTO"
     },
@@ -1285,7 +1285,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.20€",
+        "doplacilo": 3.2,
         "ime": "HOT HORSE - BTC",
         "kraj": "LJUBLJANA"
     },
@@ -1295,7 +1295,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.20€",
+        "doplacilo": 3.2,
         "ime": "HOT HORSE - TIVOLI",
         "kraj": "LJUBLJANA"
     },
@@ -1305,7 +1305,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.50€",
+        "doplacilo": 3.5,
         "ime": "HOTEL CELEIA",
         "kraj": "CELJE"
     },
@@ -1315,7 +1315,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.50€",
+        "doplacilo": 3.5,
         "ime": "HOTEL OPARA",
         "kraj": "TREBNJE"
     },
@@ -1325,7 +1325,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "HOTEL PAKA",
         "kraj": "VELENJE"
     },
@@ -1335,7 +1335,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.87€",
+        "doplacilo": 1.87,
         "ime": "HOTEL SLOVENJ GRADEC",
         "kraj": "SLOVENJ GRADEC"
     },
@@ -1345,8 +1345,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.07€",
-        "ime": "HOTSPOT BAR&amp;BISTRO",
+        "doplacilo": 3.07,
+        "ime": "HOTSPOT BAR&BISTRO",
         "kraj": "LJUBLJANA"
     },
     {
@@ -1355,8 +1355,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.67€",
-        "ime": "HOTSPOT CENTER BAR&amp;BISTRO",
+        "doplacilo": 3.67,
+        "ime": "HOTSPOT CENTER BAR&BISTRO",
         "kraj": "LJUBLJANA"
     },
     {
@@ -1365,8 +1365,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.17€",
-        "ime": "HUANG&#180;S KITAJSKA RESTAVRACIJA",
+        "doplacilo": 4.17,
+        "ime": "HUANG'S KITAJSKA RESTAVRACIJA",
         "kraj": "LJUBLJANA"
     },
     {
@@ -1375,7 +1375,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "ITALIJANSKA RESTAVRACIJA MIRJE",
         "kraj": "LJUBLJANA"
     },
@@ -1385,7 +1385,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "JAPONSKA RESTAVRACIJA MOYSUSHI",
         "kraj": "LJUBLJANA"
     },
@@ -1395,7 +1395,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.40€",
+        "doplacilo": 3.4,
         "ime": "JET BAR",
         "kraj": "LJUBLJANA"
     },
@@ -1405,8 +1405,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
-        "ime": "JOE PENA&#39;S CANTINA Y BAR",
+        "doplacilo": 4.37,
+        "ime": "JOE PENA'S CANTINA Y BAR",
         "kraj": "LJUBLJANA"
     },
     {
@@ -1415,7 +1415,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "K16",
         "kraj": "LJUBLJANA"
     },
@@ -1425,7 +1425,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.50€",
+        "doplacilo": 2.5,
         "ime": "KAMPUS PIZZA",
         "kraj": "LJUBLJANA"
     },
@@ -1435,7 +1435,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "KANAPE",
         "kraj": "MARIBOR"
     },
@@ -1445,7 +1445,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.70€",
+        "doplacilo": 2.7,
         "ime": "KAPITAL",
         "kraj": "LJUBLJANA"
     },
@@ -1455,7 +1455,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.40€",
+        "doplacilo": 2.4,
         "ime": "KARANTANIJA",
         "kraj": "KRANJ"
     },
@@ -1465,7 +1465,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "KAVARNA FILOZOF",
         "kraj": "LJUBLJANA"
     },
@@ -1475,7 +1475,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "KAVARNA IN RESTAVRACIJA NOVA GORICA",
         "kraj": "NOVA GORICA"
     },
@@ -1485,7 +1485,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "KAVARNA IN SENDVIČARNA FERI",
         "kraj": "MARIBOR"
     },
@@ -1495,7 +1495,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.27€",
+        "doplacilo": 2.27,
         "ime": "KAVARNA IN SLAŠČIČARNA CARNIOLA",
         "kraj": "KRANJ"
     },
@@ -1505,7 +1505,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.27€",
+        "doplacilo": 2.27,
         "ime": "KAVARNA IN SLAŠČIČARNA RENDEZ - VOUS",
         "kraj": "KRANJ"
     },
@@ -1515,7 +1515,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.50€",
+        "doplacilo": 2.5,
         "ime": "KAVARNA NUK",
         "kraj": "LJUBLJANA"
     },
@@ -1525,7 +1525,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "1.17€",
+        "doplacilo": 1.17,
         "ime": "KAVARNA STIL BURGER",
         "kraj": "MARIBOR"
     },
@@ -1535,7 +1535,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.90€",
+        "doplacilo": 1.9,
         "ime": "KAVARNA STRIT",
         "kraj": "LJUBLJANA"
     },
@@ -1545,7 +1545,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.60€",
+        "doplacilo": 3.6,
         "ime": "KITAJSKA PALAČA - DOSTAVA",
         "kraj": "MARIBOR"
     },
@@ -1555,7 +1555,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.50€",
+        "doplacilo": 3.5,
         "ime": "KITAJSKA RESTAVRACIJA AZIJA",
         "kraj": "MARIBOR"
     },
@@ -1565,7 +1565,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.90€",
+        "doplacilo": 2.9,
         "ime": "KITAJSKA RESTAVRACIJA AZIJA",
         "kraj": "KRANJ"
     },
@@ -1575,7 +1575,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.20€",
+        "doplacilo": 3.2,
         "ime": "KITAJSKA RESTAVRACIJA BELI LABOD",
         "kraj": "LJUBLJANA"
     },
@@ -1585,7 +1585,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "KITAJSKA RESTAVRACIJA BELI LABOD - DOSTAVA",
         "kraj": "LJUBLJANA"
     },
@@ -1595,7 +1595,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.20€",
+        "doplacilo": 3.2,
         "ime": "KITAJSKA RESTAVRACIJA CESARSKA HIŠA",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -1605,7 +1605,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.30€",
+        "doplacilo": 4.3,
         "ime": "KITAJSKA RESTAVRACIJA CHANG",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -1615,7 +1615,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.97€",
+        "doplacilo": 2.97,
         "ime": "KITAJSKA RESTAVRACIJA DVA ZMAJA",
         "kraj": "CELJE"
     },
@@ -1625,7 +1625,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.67€",
+        "doplacilo": 3.67,
         "ime": "KITAJSKA RESTAVRACIJA HAN",
         "kraj": "LJUBLJANA"
     },
@@ -1635,7 +1635,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.30€",
+        "doplacilo": 3.3,
         "ime": "KITAJSKA RESTAVRACIJA KITAJSKI ZMAJ",
         "kraj": "LJUBLJANA"
     },
@@ -1645,7 +1645,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "KITAJSKA RESTAVRACIJA NANKING",
         "kraj": "NOVO MESTO"
     },
@@ -1655,7 +1655,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "KITAJSKA RESTAVRACIJA NOVI ŠANGHAI",
         "kraj": "LJUBLJANA"
     },
@@ -1665,7 +1665,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.27€",
+        "doplacilo": 3.27,
         "ime": "KITAJSKA RESTAVRACIJA PEKING",
         "kraj": "BLED"
     },
@@ -1675,7 +1675,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.27€",
+        "doplacilo": 3.27,
         "ime": "KITAJSKA RESTAVRACIJA ŠANG HAI",
         "kraj": "JESENICE"
     },
@@ -1685,7 +1685,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.20€",
+        "doplacilo": 3.2,
         "ime": "KITAJSKA RESTAVRACIJA ZHONGHUA",
         "kraj": "LJUBLJANA"
     },
@@ -1695,7 +1695,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.50€",
+        "doplacilo": 2.5,
         "ime": "KITAJSKA RESTAVRACIJA ZLATA SRNA",
         "kraj": "MARIBOR"
     },
@@ -1705,7 +1705,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.30€",
+        "doplacilo": 3.3,
         "ime": "KITAJSKA RESTAVRACIJA ZLATA SRNA - DOSTAVA",
         "kraj": "MARIBOR"
     },
@@ -1715,7 +1715,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.20€",
+        "doplacilo": 2.2,
         "ime": "KITAJSKA RESTAVRACIJA ZVEZDA",
         "kraj": "MARIBOR"
     },
@@ -1725,7 +1725,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.20€",
+        "doplacilo": 4.2,
         "ime": "KITAJSKA RESTAVRACJA CESARSKA HIŠA-DOSTAVA",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -1735,7 +1735,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.70€",
+        "doplacilo": 2.7,
         "ime": "KITAJSKI DVOR",
         "kraj": "CELJE"
     },
@@ -1745,7 +1745,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.20€",
+        "doplacilo": 3.2,
         "ime": "KITAJSKI DVOR",
         "kraj": "LJUBLJANA"
     },
@@ -1755,7 +1755,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.70€",
+        "doplacilo": 3.7,
         "ime": "KITAJSKI DVOR - DOSTAVA",
         "kraj": "LJUBLJANA"
     },
@@ -1765,7 +1765,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.30€",
+        "doplacilo": 3.3,
         "ime": "KITAJSKI DVOR - DOSTAVA",
         "kraj": "CELJE"
     },
@@ -1775,7 +1775,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.57€",
+        "doplacilo": 2.57,
         "ime": "KITAJSKO MESTO",
         "kraj": "DOMŽALE"
     },
@@ -1785,7 +1785,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "KITAJSKO MESTO - DOSTAVA",
         "kraj": "DOMŽALE"
     },
@@ -1795,7 +1795,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "1.30€",
+        "doplacilo": 1.3,
         "ime": "KLINIKA BAR",
         "kraj": "LJUBLJANA"
     },
@@ -1805,7 +1805,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.57€",
+        "doplacilo": 2.57,
         "ime": "KLOPČIČ",
         "kraj": "LJUBLJANA"
     },
@@ -1815,7 +1815,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.57€",
+        "doplacilo": 2.57,
         "ime": "KLOPČIČ - DOM LITOSTROJ",
         "kraj": "LJUBLJANA"
     },
@@ -1825,7 +1825,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.27€",
+        "doplacilo": 3.27,
         "ime": "KRATOCHWILL",
         "kraj": "MURSKA SOBOTA"
     },
@@ -1835,7 +1835,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.27€",
+        "doplacilo": 3.27,
         "ime": "KURJI TAT",
         "kraj": "LJUBLJANA"
     },
@@ -1845,7 +1845,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "LA CANTINA",
         "kraj": "RADOVLJICA"
     },
@@ -1855,7 +1855,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.00€",
+        "doplacilo": 2.0,
         "ime": "LA PIZZETA OKREPČEVALNICA",
         "kraj": "HOČE"
     },
@@ -1865,7 +1865,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.10€",
+        "doplacilo": 3.1,
         "ime": "LABIRINT",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -1875,7 +1875,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "LETEČA ZVEZDA",
         "kraj": "LJUBLJANA"
     },
@@ -1885,7 +1885,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "LIPCA - INDEKS",
         "kraj": "LJUBLJANA"
     },
@@ -1895,7 +1895,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.97€",
+        "doplacilo": 2.97,
         "ime": "LONDON STREET FOOD",
         "kraj": "MARIBOR"
     },
@@ -1905,7 +1905,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.30€",
+        "doplacilo": 3.3,
         "ime": "LOVING HUT",
         "kraj": "MARIBOR"
     },
@@ -1915,7 +1915,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.50€",
+        "doplacilo": 3.5,
         "ime": "LOVING HUT LJUBJANA CENTER",
         "kraj": "LJUBLJANA"
     },
@@ -1925,7 +1925,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "LUNCH BOX",
         "kraj": "MARIBOR"
     },
@@ -1935,7 +1935,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "MAFIJA",
         "kraj": "LJUBLJANA"
     },
@@ -1945,7 +1945,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "MAHARAJA INDIJSKA RESTAVRACIJA",
         "kraj": "LJUBLJANA"
     },
@@ -1955,7 +1955,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "MANGO SNACKS",
         "kraj": "MARIBOR"
     },
@@ -1965,8 +1965,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.17€",
-        "ime": "MAŠ ZA MAL&#39;CO",
+        "doplacilo": 2.17,
+        "ime": "MAŠ ZA MAL'CO",
         "kraj": "VELENJE"
     },
     {
@@ -1975,7 +1975,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.27€",
+        "doplacilo": 4.27,
         "ime": "MAXI RESTAVRACIJA ROMANSA 1971",
         "kraj": "LJUBLJANA"
     },
@@ -1985,7 +1985,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "MC PANDA",
         "kraj": "MARIBOR"
     },
@@ -1995,7 +1995,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "1.00€",
+        "doplacilo": 1.0,
         "ime": "MC PATRIOT",
         "kraj": "SLOVENSKE KONJICE"
     },
@@ -2005,8 +2005,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "MCDONALD&#180;S RESTAVRACIJA - SWATY",
+        "doplacilo": 2.07,
+        "ime": "MCDONALD'S RESTAVRACIJA - SWATY",
         "kraj": "MARIBOR"
     },
     {
@@ -2015,8 +2015,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "MCDONALD&#180;S RESTAVRACIJA EUROPARK",
+        "doplacilo": 2.07,
+        "ime": "MCDONALD'S RESTAVRACIJA EUROPARK",
         "kraj": "MARIBOR"
     },
     {
@@ -2025,8 +2025,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "MCDONALD&#180;S RESTAVRACIJA PTUJSKA",
+        "doplacilo": 2.07,
+        "ime": "MCDONALD'S RESTAVRACIJA PTUJSKA",
         "kraj": "MARIBOR"
     },
     {
@@ -2035,8 +2035,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "MCDONALD&#180;S RESTAVRACIJA VELENJE",
+        "doplacilo": 2.07,
+        "ime": "MCDONALD'S RESTAVRACIJA VELENJE",
         "kraj": "VELENJE"
     },
     {
@@ -2045,8 +2045,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "MCDONALD&#39;S MCDRIVE DOMŽALE",
+        "doplacilo": 2.07,
+        "ime": "MCDONALD'S MCDRIVE DOMŽALE",
         "kraj": "DOMŽALE"
     },
     {
@@ -2055,8 +2055,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "MCDONALD&#39;S RESTAVRACIJA - CELJE DRIVE",
+        "doplacilo": 2.07,
+        "ime": "MCDONALD'S RESTAVRACIJA - CELJE DRIVE",
         "kraj": "CELJE"
     },
     {
@@ -2065,8 +2065,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "MCDONALD&#39;S RESTAVRACIJA - CELOVŠKA",
+        "doplacilo": 2.07,
+        "ime": "MCDONALD'S RESTAVRACIJA - CELOVŠKA",
         "kraj": "LJUBLJANA"
     },
     {
@@ -2075,8 +2075,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "MCDONALD&#39;S RESTAVRACIJA - KRANJ DRIVE",
+        "doplacilo": 2.07,
+        "ime": "MCDONALD'S RESTAVRACIJA - KRANJ DRIVE",
         "kraj": "KRANJ"
     },
     {
@@ -2085,8 +2085,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "MCDONALD&#39;S RESTAVRACIJA KOPER",
+        "doplacilo": 2.07,
+        "ime": "MCDONALD'S RESTAVRACIJA KOPER",
         "kraj": "KOPER/CAPODISTRIA"
     },
     {
@@ -2095,8 +2095,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "MCDONALD&#39;S RESTAVRACIJA NOVA GORICA",
+        "doplacilo": 2.07,
+        "ime": "MCDONALD'S RESTAVRACIJA NOVA GORICA",
         "kraj": "NOVA GORICA"
     },
     {
@@ -2105,7 +2105,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "ME GUSTA",
         "kraj": "MARIBOR"
     },
@@ -2115,7 +2115,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "MEDITERRANEO",
         "kraj": "LJUBLJANA"
     },
@@ -2125,7 +2125,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.40€",
+        "doplacilo": 2.4,
         "ime": "MEHIŠKA RESTAVRACIJA CANTINA MARIA",
         "kraj": "KRANJ"
     },
@@ -2135,7 +2135,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "MEHIŠKA RESTAVRACIJA IMPERIO - DOSTAVA",
         "kraj": "LJUBLJANA"
     },
@@ -2145,7 +2145,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.67€",
+        "doplacilo": 3.67,
         "ime": "MEHIŠKA RESTAVRACIJA IMPERIO MEXICANO",
         "kraj": "LJUBLJANA"
     },
@@ -2155,7 +2155,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.37€",
+        "doplacilo": 2.37,
         "ime": "MENZA",
         "kraj": "LJUBLJANA"
     },
@@ -2165,7 +2165,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.57€",
+        "doplacilo": 2.57,
         "ime": "MENZA FS",
         "kraj": "LJUBLJANA"
     },
@@ -2175,7 +2175,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.97€",
+        "doplacilo": 3.97,
         "ime": "META IN BAZILIKA",
         "kraj": "LJUBLJANA"
     },
@@ -2185,7 +2185,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.27€",
+        "doplacilo": 2.27,
         "ime": "MLEČNA RESTAVRACIJA",
         "kraj": "KRANJ"
     },
@@ -2195,7 +2195,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.27€",
+        "doplacilo": 3.27,
         "ime": "MLEČNA RESTAVRACIJA - DOSTAVA",
         "kraj": "KRANJ"
     },
@@ -2205,7 +2205,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "MORNARČEK RIBJA KANTINA - RESTAVRACIJA",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -2215,7 +2215,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.30€",
+        "doplacilo": 3.3,
         "ime": "NAMASTE INDIAN EXPRESS",
         "kraj": "LJUBLJANA"
     },
@@ -2225,7 +2225,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.50€",
+        "doplacilo": 3.5,
         "ime": "NEWS CAFE",
         "kraj": "PORTOROŽ/PORTOROSE"
     },
@@ -2235,7 +2235,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.90€",
+        "doplacilo": 2.9,
         "ime": "NOOMM",
         "kraj": "MARIBOR"
     },
@@ -2245,7 +2245,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.37€",
+        "doplacilo": 2.37,
         "ime": "OKREPČEVALNICA - BISTRO TANJA",
         "kraj": "MURSKA SOBOTA"
     },
@@ -2255,7 +2255,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.10€",
+        "doplacilo": 3.1,
         "ime": "OKREPČEVALNICA - DINER KINO GLEDALIŠČE BEŽIGRAD",
         "kraj": "LJUBLJANA"
     },
@@ -2265,7 +2265,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.97€",
+        "doplacilo": 2.97,
         "ime": "OKREPČEVALNICA - PIZZERIJA MAKS",
         "kraj": "LJUBLJANA"
     },
@@ -2275,7 +2275,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "1.20€",
+        "doplacilo": 1.2,
         "ime": "OKREPČEVALNICA \"BUREK 1\"",
         "kraj": "LJUBLJANA"
     },
@@ -2285,7 +2285,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "1.20€",
+        "doplacilo": 1.2,
         "ime": "OKREPČEVALNICA \"BUREK\"",
         "kraj": "LJUBLJANA"
     },
@@ -2295,7 +2295,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.60€",
+        "doplacilo": 2.6,
         "ime": "OKREPČEVALNICA \"RIVIERA\"",
         "kraj": "LJUBLJANA"
     },
@@ -2305,7 +2305,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.70€",
+        "doplacilo": 2.7,
         "ime": "OKREPČEVALNICA AJDA",
         "kraj": "LJUBLJANA"
     },
@@ -2315,7 +2315,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "OKREPČEVALNICA AZZURRO",
         "kraj": "LJUBLJANA"
     },
@@ -2325,7 +2325,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.20€",
+        "doplacilo": 1.2,
         "ime": "OKREPČEVALNICA BADOVINAC",
         "kraj": "LJUBLJANA"
     },
@@ -2335,7 +2335,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.00€",
+        "doplacilo": 2.0,
         "ime": "OKREPČEVALNICA BOBER (PARIŠKE KOMUNE)",
         "kraj": "MARIBOR"
     },
@@ -2345,7 +2345,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.00€",
+        "doplacilo": 2.0,
         "ime": "OKREPČEVALNICA BOBER (PARTIZANSKA)",
         "kraj": "MARIBOR"
     },
@@ -2355,7 +2355,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.60€",
+        "doplacilo": 3.6,
         "ime": "OKREPČEVALNICA ĆEVABDŽINICA MALI GAZDA",
         "kraj": "PORTOROŽ/PORTOROSE"
     },
@@ -2365,7 +2365,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.77€",
+        "doplacilo": 3.77,
         "ime": "OKREPČEVALNICA FRESH (PRODAJNO MESTO PETROL)",
         "kraj": "TREBNJE"
     },
@@ -2375,7 +2375,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.77€",
+        "doplacilo": 3.77,
         "ime": "OKREPČEVALNICA FRESH (PRODAJNO MESTO PETROL)",
         "kraj": "TRZIN"
     },
@@ -2385,7 +2385,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.77€",
+        "doplacilo": 3.77,
         "ime": "OKREPČEVALNICA FRESH (PRODAJNO MESTO PETROL)",
         "kraj": "SEŽANA"
     },
@@ -2395,7 +2395,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.37€",
+        "doplacilo": 1.37,
         "ime": "OKREPČEVALNICA HAMBURGER HILL ZAGREBŠKA",
         "kraj": "MARIBOR"
     },
@@ -2405,7 +2405,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.87€",
+        "doplacilo": 2.87,
         "ime": "OKREPČEVALNICA IZUM",
         "kraj": "MARIBOR"
     },
@@ -2415,7 +2415,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.97€",
+        "doplacilo": 2.97,
         "ime": "OKREPČEVALNICA KEMIJSKI INŠTITUT",
         "kraj": "LJUBLJANA"
     },
@@ -2425,7 +2425,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.80€",
+        "doplacilo": 1.8,
         "ime": "OKREPČEVALNICA LAGUNA",
         "kraj": "MURSKA SOBOTA"
     },
@@ -2435,7 +2435,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "1.80€",
+        "doplacilo": 1.8,
         "ime": "OKREPČEVALNICA LAGUNA - DOSTAVA",
         "kraj": "MURSKA SOBOTA"
     },
@@ -2445,7 +2445,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.00€",
+        "doplacilo": 2.0,
         "ime": "OKREPČEVALNICA MAJ",
         "kraj": "HOČE"
     },
@@ -2455,7 +2455,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.17€",
+        "doplacilo": 2.17,
         "ime": "OKREPČEVALNICA MINUTKA",
         "kraj": "SLOVENJ GRADEC"
     },
@@ -2465,7 +2465,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.00€",
+        "doplacilo": 2.0,
         "ime": "OKREPČEVALNICA MM PANDA",
         "kraj": "MARIBOR"
     },
@@ -2475,7 +2475,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "OKREPČEVALNICA NOVAK",
         "kraj": "NOVO MESTO"
     },
@@ -2485,7 +2485,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.00€",
+        "doplacilo": 1.0,
         "ime": "OKREPČEVALNICA PEKARNA DOBROT",
         "kraj": "LJUBLJANA"
     },
@@ -2495,7 +2495,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.80€",
+        "doplacilo": 2.8,
         "ime": "OKREPČEVALNICA PIVNICA ALF",
         "kraj": "MARIBOR"
     },
@@ -2505,7 +2505,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.30€",
+        "doplacilo": 3.3,
         "ime": "OKREPČEVALNICA PIVNICA ALF - DOSTAVA",
         "kraj": "MARIBOR"
     },
@@ -2515,7 +2515,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "1.20€",
+        "doplacilo": 1.2,
         "ime": "OKREPČEVALNICA PODHOD",
         "kraj": "LJUBLJANA"
     },
@@ -2525,7 +2525,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.17€",
+        "doplacilo": 3.17,
         "ime": "OKREPČEVALNICA PUB LEGENDE",
         "kraj": "LJUBLJANA"
     },
@@ -2535,7 +2535,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.77€",
+        "doplacilo": 3.77,
         "ime": "OKREPČEVALNICA RIBCA",
         "kraj": "LJUBLJANA"
     },
@@ -2545,7 +2545,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.77€",
+        "doplacilo": 2.77,
         "ime": "OKREPČEVALNICA SARAJEVO",
         "kraj": "MARIBOR"
     },
@@ -2555,7 +2555,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.80€",
+        "doplacilo": 2.8,
         "ime": "OKREPČEVALNICA STARI GRIL",
         "kraj": "MARIBOR"
     },
@@ -2565,7 +2565,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.99€",
+        "doplacilo": 2.99,
         "ime": "OKREPČEVALNICA ŠIŠ",
         "kraj": "MARIBOR"
     },
@@ -2575,7 +2575,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "OKREPČEVALNICA ŠUMI",
         "kraj": "LJUBLJANA"
     },
@@ -2585,7 +2585,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "OKREPČEVALNICA VIDA",
         "kraj": "RAVNE NA KOROŠKEM"
     },
@@ -2595,7 +2595,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.67€",
+        "doplacilo": 2.67,
         "ime": "OKREPČEVALNICA VILLA MONDE",
         "kraj": "PTUJ"
     },
@@ -2605,7 +2605,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.77€",
+        "doplacilo": 3.77,
         "ime": "OKREPČEVANICA FRESH (PRODAJNO MESTO PETROL)",
         "kraj": "SEŽANA"
     },
@@ -2615,7 +2615,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.99€",
+        "doplacilo": 2.99,
         "ime": "OŠTARIJA PIZZERIA DA NOI",
         "kraj": "MARIBOR"
     },
@@ -2625,7 +2625,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "OŠTARIJA PIZZERIA DA NOI - DOSTAVA",
         "kraj": "MARIBOR"
     },
@@ -2635,7 +2635,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.27€",
+        "doplacilo": 3.27,
         "ime": "OŠTARIJA PRI OLJKI",
         "kraj": "LJUBLJANA"
     },
@@ -2645,7 +2645,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.40€",
+        "doplacilo": 2.4,
         "ime": "P.E. FAKULTETA ZA GRADBENIŠTVO IN GEODEZIJO",
         "kraj": "LJUBLJANA"
     },
@@ -2655,7 +2655,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "PAPAGAYO",
         "kraj": "MARIBOR"
     },
@@ -2665,7 +2665,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.50€",
+        "doplacilo": 2.5,
         "ime": "PE DIJAŠKI DOM CELJE",
         "kraj": "CELJE"
     },
@@ -2675,7 +2675,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.17€",
+        "doplacilo": 3.17,
         "ime": "PE KAVA BAR IN OKREPČEVALNICA FANTOM",
         "kraj": "SLOVENJ GRADEC"
     },
@@ -2685,7 +2685,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
+        "doplacilo": 2.07,
         "ime": "PE MARJETICA",
         "kraj": "LJUBLJANA"
     },
@@ -2695,7 +2695,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.97€",
+        "doplacilo": 2.97,
         "ime": "PE OŠTARIJA CITY CENTER",
         "kraj": "CELJE"
     },
@@ -2705,7 +2705,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "PEK MATJAŽ TOMŠIČEVA",
         "kraj": "VELENJE"
     },
@@ -2715,7 +2715,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "PERLA",
         "kraj": "LJUBLJANA"
     },
@@ -2725,7 +2725,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.77€",
+        "doplacilo": 3.77,
         "ime": "PETROL OKREPČEVALNICA FRESH",
         "kraj": "LJUBLJANA"
     },
@@ -2735,7 +2735,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.77€",
+        "doplacilo": 3.77,
         "ime": "PETROL OKREPČEVALNICA FRESH",
         "kraj": "LJUBLJANA"
     },
@@ -2745,7 +2745,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.77€",
+        "doplacilo": 3.77,
         "ime": "PETROL OKREPČEVANICA FRESH",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -2755,7 +2755,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "PIAZZA DEL PAPA",
         "kraj": "LJUBLJANA"
     },
@@ -2765,7 +2765,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.07€",
+        "doplacilo": 3.07,
         "ime": "PICERIJA ALAN FORD",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -2775,7 +2775,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.50€",
+        "doplacilo": 3.5,
         "ime": "PICERIJA BARJAN",
         "kraj": "LJUBLJANA"
     },
@@ -2785,7 +2785,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.27€",
+        "doplacilo": 3.27,
         "ime": "PICERIJA BONITAS",
         "kraj": "ŽALEC"
     },
@@ -2795,7 +2795,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.27€",
+        "doplacilo": 4.27,
         "ime": "PICERIJA BONITAS - DOSTAVA",
         "kraj": "ŽALEC"
     },
@@ -2805,7 +2805,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.17€",
+        "doplacilo": 3.17,
         "ime": "PICERIJA ERA",
         "kraj": "NOVO MESTO"
     },
@@ -2815,7 +2815,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "PICERIJA IN RESTAVRACIJA TONAČ",
         "kraj": "KRANJ"
     },
@@ -2825,7 +2825,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "PICERIJA NA PLACU",
         "kraj": "VIPAVA"
     },
@@ -2835,7 +2835,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.37€",
+        "doplacilo": 2.37,
         "ime": "PICERIJA SILVESTER",
         "kraj": "KRANJ"
     },
@@ -2845,7 +2845,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.57€",
+        "doplacilo": 2.57,
         "ime": "PICERIJA ŠTANGELJ",
         "kraj": "NOVO MESTO"
     },
@@ -2855,7 +2855,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "PICERIJA TONAČ - DOSTAVA",
         "kraj": "KRANJ"
     },
@@ -2865,7 +2865,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.86€",
+        "doplacilo": 2.86,
         "ime": "PICERIJA VERONA",
         "kraj": "CELJE"
     },
@@ -2875,7 +2875,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.86€",
+        "doplacilo": 3.86,
         "ime": "PICERIJA VERONA - DOSTAVA",
         "kraj": "CELJE"
     },
@@ -2885,7 +2885,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.17€",
+        "doplacilo": 4.17,
         "ime": "PICESTAVRACIJA BOCCACCIO",
         "kraj": "LJUBLJANA"
     },
@@ -2895,7 +2895,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.77€",
+        "doplacilo": 3.77,
         "ime": "PIVNICA ADAM RAVBAR",
         "kraj": "DOMŽALE"
     },
@@ -2905,7 +2905,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "PIVNICA EMONEC",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -2915,7 +2915,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "PIVOVARNA IN PIVNICA KRATOCHWILL",
         "kraj": "LJUBLJANA"
     },
@@ -2925,7 +2925,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "PIZZERIA BRIKSEN",
         "kraj": "BLED"
     },
@@ -2935,7 +2935,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "PIZZERIA CHIANTI",
         "kraj": "NOVO MESTO"
     },
@@ -2945,7 +2945,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.60€",
+        "doplacilo": 0.6,
         "ime": "PIZZERIA DA NOI FAST FOOD",
         "kraj": "MARIBOR"
     },
@@ -2955,7 +2955,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
+        "doplacilo": 2.07,
         "ime": "PIZZERIA DI ANTONIO",
         "kraj": "SLOVENJ GRADEC"
     },
@@ -2965,7 +2965,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.67€",
+        "doplacilo": 2.67,
         "ime": "PIZZERIA DI ANTONIO - DOSTAVA",
         "kraj": "SLOVENJ GRADEC"
     },
@@ -2975,7 +2975,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "PIZZERIA FOCULUS",
         "kraj": "LJUBLJANA"
     },
@@ -2985,7 +2985,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "PIZZERIA FONTANA",
         "kraj": "KRŠKO"
     },
@@ -2995,7 +2995,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.70€",
+        "doplacilo": 3.7,
         "ime": "PIZZERIA GALLUS",
         "kraj": "BLED"
     },
@@ -3005,7 +3005,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.80€",
+        "doplacilo": 3.8,
         "ime": "PIZZERIA GREGORINO",
         "kraj": "LJUBLJANA"
     },
@@ -3015,7 +3015,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.90€",
+        "doplacilo": 3.9,
         "ime": "PIZZERIA HITRI GONZALES",
         "kraj": "MARIBOR"
     },
@@ -3025,7 +3025,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "PIZZERIA HITRI GONZALES - DOSTAVA",
         "kraj": "MARIBOR"
     },
@@ -3035,7 +3035,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "PIZZERIA IN ŠPAGETARIJA OLIVA",
         "kraj": "LJUBLJANA"
     },
@@ -3045,7 +3045,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.19€",
+        "doplacilo": 3.19,
         "ime": "PIZZERIA IN ŠPAGETERIA AL CAPONE",
         "kraj": "MARIBOR"
     },
@@ -3055,7 +3055,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.17€",
+        "doplacilo": 3.17,
         "ime": "PIZZERIA IN ŠPAGETERIJA AL CAPONE",
         "kraj": "LJUBLJANA"
     },
@@ -3065,7 +3065,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.90€",
+        "doplacilo": 2.9,
         "ime": "PIZZERIA IN ŠPAGETTERIA CUBUS",
         "kraj": "NOVO MESTO"
     },
@@ -3075,7 +3075,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "0.87€",
+        "doplacilo": 0.87,
         "ime": "PIZZERIA KUKUCA",
         "kraj": "TRBOVLJE"
     },
@@ -3085,7 +3085,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.40€",
+        "doplacilo": 3.4,
         "ime": "PIZZERIA LATERNA",
         "kraj": "LJUBLJANA"
     },
@@ -3095,7 +3095,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.07€",
+        "doplacilo": 3.07,
         "ime": "PIZZERIA MIA FORTUNA",
         "kraj": "NOVO MESTO"
     },
@@ -3105,7 +3105,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.90€",
+        "doplacilo": 2.9,
         "ime": "PIZZERIA OLIVA",
         "kraj": "CELJE"
     },
@@ -3115,7 +3115,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.90€",
+        "doplacilo": 3.9,
         "ime": "PIZZERIA OLIVA - DOSTAVA",
         "kraj": "CELJE"
     },
@@ -3125,7 +3125,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.90€",
+        "doplacilo": 2.9,
         "ime": "PIZZERIA OSMICA",
         "kraj": "LJUBLJANA"
     },
@@ -3135,7 +3135,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.30€",
+        "doplacilo": 3.3,
         "ime": "PIZZERIA PARMA",
         "kraj": "LJUBLJANA"
     },
@@ -3145,7 +3145,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.20€",
+        "doplacilo": 2.2,
         "ime": "PIZZERIA PRONTO",
         "kraj": "MARIBOR"
     },
@@ -3155,7 +3155,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.50€",
+        "doplacilo": 2.5,
         "ime": "PIZZERIA PRONTO - DOSTAVA",
         "kraj": "MARIBOR"
     },
@@ -3165,7 +3165,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "PIZZERIA ŠESTINKA",
         "kraj": "LJUBLJANA"
     },
@@ -3175,7 +3175,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "PIZZERIA TOTALKA",
         "kraj": "NOVO MESTO"
     },
@@ -3185,7 +3185,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "PIZZERIA TOTTAPIZZA",
         "kraj": "MARIBOR"
     },
@@ -3195,7 +3195,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.90€",
+        "doplacilo": 3.9,
         "ime": "PIZZERIA TUNNEL",
         "kraj": "LJUBLJANA"
     },
@@ -3205,7 +3205,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.17€",
+        "doplacilo": 3.17,
         "ime": "PIZZERIA VILA RAINERI",
         "kraj": "IZOLA/ISOLA"
     },
@@ -3215,7 +3215,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "PIZZERIJA AŠIČ",
         "kraj": "ZAGORJE OB SAVI"
     },
@@ -3225,7 +3225,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "PIZZERIJA AŠIČ - DOSTAVA",
         "kraj": "ZAGORJE OB SAVI"
     },
@@ -3235,7 +3235,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.17€",
+        "doplacilo": 3.17,
         "ime": "PIZZERIJA ATRIJ",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -3245,7 +3245,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "PIZZERIJA DIMNIK",
         "kraj": "TRBOVLJE"
     },
@@ -3255,7 +3255,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "PIZZERIJA DIMNIK - DOSTAVA",
         "kraj": "TRBOVLJE"
     },
@@ -3265,7 +3265,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "PIZZERIJA ETNA - ITALIJANSKA KUHINJA",
         "kraj": "LJUBLJANA"
     },
@@ -3275,7 +3275,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.77€",
+        "doplacilo": 2.77,
         "ime": "PIZZERIJA GORENC",
         "kraj": "KRANJ"
     },
@@ -3285,7 +3285,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "PIZZERIJA IN OKREPČEVALNICA KONDOR",
         "kraj": "LJUBLJANA"
     },
@@ -3295,7 +3295,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.87€",
+        "doplacilo": 2.87,
         "ime": "PIZZERIJA PIRAMIDA",
         "kraj": "LJUBLJANA"
     },
@@ -3305,7 +3305,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.90€",
+        "doplacilo": 3.9,
         "ime": "PIZZERIJA VELUN",
         "kraj": "VELENJE"
     },
@@ -3315,7 +3315,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "1.37€",
+        "doplacilo": 1.37,
         "ime": "PIZZERIJA VERDI",
         "kraj": "MARIBOR"
     },
@@ -3325,7 +3325,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "PIZZERIJA VIVALDI",
         "kraj": "MARIBOR"
     },
@@ -3335,7 +3335,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "PIZZERIJA VIVALDI - DOSTAVA",
         "kraj": "MARIBOR"
     },
@@ -3345,7 +3345,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.30€",
+        "doplacilo": 4.3,
         "ime": "POBREŠKI HRAM - DOSTAVA",
         "kraj": "MARIBOR"
     },
@@ -3355,7 +3355,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.60€",
+        "doplacilo": 2.6,
         "ime": "PODMORNICA",
         "kraj": "LJUBLJANA"
     },
@@ -3365,7 +3365,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.90€",
+        "doplacilo": 1.9,
         "ime": "POMORŠČAK",
         "kraj": "PORTOROŽ/PORTOROSE"
     },
@@ -3375,7 +3375,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "PORTOFINO",
         "kraj": "MARIBOR"
     },
@@ -3385,7 +3385,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "PORTOFINO - DOSTAVA",
         "kraj": "MARIBOR"
     },
@@ -3395,7 +3395,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.57€",
+        "doplacilo": 2.57,
         "ime": "PRAVNA FAKULTETA",
         "kraj": "LJUBLJANA"
     },
@@ -3405,7 +3405,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.47€",
+        "doplacilo": 3.47,
         "ime": "PREHRANA PALAČA SMELT",
         "kraj": "LJUBLJANA"
     },
@@ -3415,7 +3415,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "PRIMAVERA IZOLA",
         "kraj": "IZOLA/ISOLA"
     },
@@ -3425,7 +3425,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "PRIMAVERA IZOLA-DOSTAVA",
         "kraj": "IZOLA/ISOLA"
     },
@@ -3435,7 +3435,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.00€",
+        "doplacilo": 2.0,
         "ime": "PROMETNA ŠOLA MARIBOR",
         "kraj": "MARIBOR"
     },
@@ -3445,7 +3445,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.17€",
+        "doplacilo": 4.17,
         "ime": "PUCCINI ŠPAGETERIJA IN PIZZERIJA",
         "kraj": "LJUBLJANA"
     },
@@ -3455,7 +3455,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.77€",
+        "doplacilo": 3.77,
         "ime": "Q SLOVENSKA",
         "kraj": "MARIBOR"
     },
@@ -3465,7 +3465,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.77€",
+        "doplacilo": 3.77,
         "ime": "Q TABOR",
         "kraj": "MARIBOR"
     },
@@ -3475,8 +3475,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.57€",
-        "ime": "R&amp;B - ROASTERY &amp; BACERY",
+        "doplacilo": 1.57,
+        "ime": "R&B - ROASTERY & BACERY",
         "kraj": "LJUBLJANA"
     },
     {
@@ -3485,7 +3485,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.77€",
+        "doplacilo": 2.77,
         "ime": "RESTAVRACIJA  \"BAŠČARŠIJA\"",
         "kraj": "MARIBOR"
     },
@@ -3495,7 +3495,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "0.60€",
+        "doplacilo": 0.6,
         "ime": "RESTAVRACIJA \"BERI 2\"",
         "kraj": "LJUBLJANA"
     },
@@ -3505,7 +3505,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "RESTAVRACIJA 123 DELO",
         "kraj": "LJUBLJANA"
     },
@@ -3515,7 +3515,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "RESTAVRACIJA 123 DSU",
         "kraj": "LJUBLJANA"
     },
@@ -3525,7 +3525,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.86€",
+        "doplacilo": 1.86,
         "ime": "RESTAVRACIJA 123 FRI IN FKKT",
         "kraj": "LJUBLJANA"
     },
@@ -3535,7 +3535,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "RESTAVRACIJA 123 MC LJUBJANA",
         "kraj": "LJUBLJANA"
     },
@@ -3545,7 +3545,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "RESTAVRACIJA 123 MC MARIBOR",
         "kraj": "MARIBOR"
     },
@@ -3555,7 +3555,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "RESTAVRACIJA 123 MC NOVA GORICA",
         "kraj": "NOVA GORICA"
     },
@@ -3565,7 +3565,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "RESTAVRACIJA 123 MEGA CENTER 2",
         "kraj": "LJUBLJANA"
     },
@@ -3575,7 +3575,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "RESTAVRACIJA 123 MERCATOR DUNAJSKA",
         "kraj": "LJUBLJANA"
     },
@@ -3585,7 +3585,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.30€",
+        "doplacilo": 2.3,
         "ime": "RESTAVRACIJA 123 PEDAGOŠKA",
         "kraj": "LJUBLJANA"
     },
@@ -3595,7 +3595,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "RESTAVRACIJA 123 PRISTAN",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -3605,7 +3605,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.97€",
+        "doplacilo": 2.97,
         "ime": "RESTAVRACIJA 2000",
         "kraj": "LJUBLJANA"
     },
@@ -3615,7 +3615,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.30€",
+        "doplacilo": 4.3,
         "ime": "RESTAVRACIJA ALLEGRIA",
         "kraj": "LJUBLJANA"
     },
@@ -3625,7 +3625,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.47€",
+        "doplacilo": 3.47,
         "ime": "RESTAVRACIJA ANCORA",
         "kraj": "MARIBOR"
     },
@@ -3635,7 +3635,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.70€",
+        "doplacilo": 2.7,
         "ime": "RESTAVRACIJA BAR AMFORA",
         "kraj": "PTUJ"
     },
@@ -3645,7 +3645,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.80€",
+        "doplacilo": 3.8,
         "ime": "RESTAVRACIJA BREJK",
         "kraj": "LJUBLJANA"
     },
@@ -3655,7 +3655,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.37€",
+        "doplacilo": 1.37,
         "ime": "RESTAVRACIJA BURGER KING",
         "kraj": "LJUBLJANA"
     },
@@ -3665,7 +3665,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.77€",
+        "doplacilo": 3.77,
         "ime": "RESTAVRACIJA CITY",
         "kraj": "KRŠKO"
     },
@@ -3675,8 +3675,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.17€",
-        "ime": "RESTAVRACIJA FANY &amp; MARY",
+        "doplacilo": 4.17,
+        "ime": "RESTAVRACIJA FANY & MARY",
         "kraj": "LJUBLJANA"
     },
     {
@@ -3685,7 +3685,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.70€",
+        "doplacilo": 3.7,
         "ime": "RESTAVRACIJA FRESCO",
         "kraj": "LJUBLJANA"
     },
@@ -3695,8 +3695,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
-        "ime": "RESTAVRACIJA FRIDA&#39;S MEXICO",
+        "doplacilo": 3.37,
+        "ime": "RESTAVRACIJA FRIDA'S MEXICO",
         "kraj": "NAKLO"
     },
     {
@@ -3705,7 +3705,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.60€",
+        "doplacilo": 2.6,
         "ime": "RESTAVRACIJA GIG",
         "kraj": "LJUBLJANA"
     },
@@ -3715,7 +3715,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.17€",
+        "doplacilo": 4.17,
         "ime": "RESTAVRACIJA GLAŽUTA",
         "kraj": "LJUBLJANA"
     },
@@ -3725,7 +3725,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.07€",
+        "doplacilo": 3.07,
         "ime": "RESTAVRACIJA IN KAVA BAR PARADIŽ",
         "kraj": "LJUBLJANA"
     },
@@ -3735,7 +3735,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.99€",
+        "doplacilo": 1.99,
         "ime": "RESTAVRACIJA IN KAVARNA FOODIE",
         "kraj": "LJUBLJANA"
     },
@@ -3745,7 +3745,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.47€",
+        "doplacilo": 2.47,
         "ime": "RESTAVRACIJA IN PIVNICA ZVEZDA",
         "kraj": "MURSKA SOBOTA"
     },
@@ -3755,7 +3755,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.30€",
+        "doplacilo": 3.3,
         "ime": "RESTAVRACIJA IN PIZZERIJA PEPERONČINO",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -3765,7 +3765,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.99€",
+        "doplacilo": 2.99,
         "ime": "RESTAVRACIJA INTERSPAR CELJE",
         "kraj": "CELJE"
     },
@@ -3775,7 +3775,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.99€",
+        "doplacilo": 2.99,
         "ime": "RESTAVRACIJA INTERSPAR CITYPARK",
         "kraj": "LJUBLJANA"
     },
@@ -3785,7 +3785,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.99€",
+        "doplacilo": 2.99,
         "ime": "RESTAVRACIJA INTERSPAR KOPER",
         "kraj": "KOPER/CAPODISTRIA"
     },
@@ -3795,7 +3795,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.99€",
+        "doplacilo": 2.99,
         "ime": "RESTAVRACIJA INTERSPAR KRANJ",
         "kraj": "KRANJ"
     },
@@ -3805,7 +3805,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.99€",
+        "doplacilo": 2.99,
         "ime": "RESTAVRACIJA INTERSPAR MARIBOR EUROPARK",
         "kraj": "MARIBOR"
     },
@@ -3815,7 +3815,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.99€",
+        "doplacilo": 2.99,
         "ime": "RESTAVRACIJA INTERSPAR MARIBOR QLANDIA",
         "kraj": "MARIBOR"
     },
@@ -3825,7 +3825,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.99€",
+        "doplacilo": 2.99,
         "ime": "RESTAVRACIJA INTERSPAR MURSKA SOBOTA",
         "kraj": "MURSKA SOBOTA"
     },
@@ -3835,7 +3835,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.99€",
+        "doplacilo": 2.99,
         "ime": "RESTAVRACIJA INTERSPAR NOVA GORICA",
         "kraj": "NOVA GORICA"
     },
@@ -3845,7 +3845,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.99€",
+        "doplacilo": 2.99,
         "ime": "RESTAVRACIJA INTERSPAR VIČ",
         "kraj": "LJUBLJANA"
     },
@@ -3855,7 +3855,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.70€",
+        "doplacilo": 3.7,
         "ime": "RESTAVRACIJA KAVARNA PIZZERIA HOMBRE",
         "kraj": "LJUBLJANA"
     },
@@ -3865,7 +3865,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "RESTAVRACIJA KAZINA",
         "kraj": "JESENICE"
     },
@@ -3875,7 +3875,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "RESTAVRACIJA KAZINA - DOSTAVA",
         "kraj": "JESENICE"
     },
@@ -3885,7 +3885,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.40€",
+        "doplacilo": 2.4,
         "ime": "RESTAVRACIJA KITAJSKA PALAČA",
         "kraj": "MARIBOR"
     },
@@ -3895,7 +3895,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.30€",
+        "doplacilo": 3.3,
         "ime": "RESTAVRACIJA KITAJSKA ZVEZDA",
         "kraj": "LJUBLJANA"
     },
@@ -3905,7 +3905,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.87€",
+        "doplacilo": 2.87,
         "ime": "RESTAVRACIJA KITAJSKI VRT",
         "kraj": "PTUJ"
     },
@@ -3915,7 +3915,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.57€",
+        "doplacilo": 3.57,
         "ime": "RESTAVRACIJA KLUB CANKARJEVEGA DOMA",
         "kraj": "LJUBLJANA"
     },
@@ -3925,7 +3925,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "RESTAVRACIJA KOLODVORSKA",
         "kraj": "VELENJE"
     },
@@ -3935,7 +3935,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "RESTAVRACIJA KOMPLIMENT",
         "kraj": "ŠKOFJA LOKA"
     },
@@ -3945,7 +3945,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.50€",
+        "doplacilo": 2.5,
         "ime": "RESTAVRACIJA KOTNIKOVA",
         "kraj": "LJUBLJANA"
     },
@@ -3955,7 +3955,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.40€",
+        "doplacilo": 3.4,
         "ime": "RESTAVRACIJA MANGO",
         "kraj": "MARIBOR"
     },
@@ -3965,7 +3965,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
+        "doplacilo": 2.07,
         "ime": "RESTAVRACIJA MCDONALDS - CITYCENTER",
         "kraj": "CELJE"
     },
@@ -3975,7 +3975,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
+        "doplacilo": 2.07,
         "ime": "RESTAVRACIJA MCDONALDS - PTUJ",
         "kraj": "PTUJ"
     },
@@ -3985,8 +3985,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "RESTAVRACIJA MCDONALD&#39;S ČOPOVA",
+        "doplacilo": 2.07,
+        "ime": "RESTAVRACIJA MCDONALD'S ČOPOVA",
         "kraj": "LJUBLJANA"
     },
     {
@@ -3995,8 +3995,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "RESTAVRACIJA MCDONALD&#39;S KOLOSEJ",
+        "doplacilo": 2.07,
+        "ime": "RESTAVRACIJA MCDONALD'S KOLOSEJ",
         "kraj": "LJUBLJANA"
     },
     {
@@ -4005,8 +4005,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "RESTAVRACIJA MCDONALD&#39;S NOVO MESTO",
+        "doplacilo": 2.07,
+        "ime": "RESTAVRACIJA MCDONALD'S NOVO MESTO",
         "kraj": "NOVO MESTO"
     },
     {
@@ -4015,8 +4015,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "RESTAVRACIJA MCDONALD&#39;S RUDNIK",
+        "doplacilo": 2.07,
+        "ime": "RESTAVRACIJA MCDONALD'S RUDNIK",
         "kraj": "LJUBLJANA"
     },
     {
@@ -4025,8 +4025,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "RESTAVRACIJA MCDONALD&#39;S -ŽELEZNIŠKA",
+        "doplacilo": 2.07,
+        "ime": "RESTAVRACIJA MCDONALD'S -ŽELEZNIŠKA",
         "kraj": "LJUBLJANA"
     },
     {
@@ -4035,8 +4035,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.07€",
-        "ime": "RESTAVRACIJA MCDONALD&#39;S ŽITO",
+        "doplacilo": 2.07,
+        "ime": "RESTAVRACIJA MCDONALD'S ŽITO",
         "kraj": "LJUBLJANA"
     },
     {
@@ -4045,7 +4045,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "RESTAVRACIJA MODRI KVADRAT",
         "kraj": "LJUBLJANA"
     },
@@ -4055,7 +4055,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "RESTAVRACIJA MOZART",
         "kraj": "LJUBLJANA"
     },
@@ -4065,7 +4065,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.50€",
+        "doplacilo": 3.5,
         "ime": "RESTAVRACIJA MR. FALAFEL",
         "kraj": "MARIBOR"
     },
@@ -4075,7 +4075,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.87€",
+        "doplacilo": 2.87,
         "ime": "RESTAVRACIJA NA KLANCU",
         "kraj": "SLOVENJ GRADEC"
     },
@@ -4085,7 +4085,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.90€",
+        "doplacilo": 2.9,
         "ime": "RESTAVRACIJA ORIENT",
         "kraj": "MARIBOR"
     },
@@ -4095,7 +4095,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.96€",
+        "doplacilo": 2.96,
         "ime": "RESTAVRACIJA PIANO",
         "kraj": "MARIBOR"
     },
@@ -4105,7 +4105,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.27€",
+        "doplacilo": 3.27,
         "ime": "RESTAVRACIJA PIZZERIA SAN MARTINO",
         "kraj": "LJUBLJANA"
     },
@@ -4115,7 +4115,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.27€",
+        "doplacilo": 3.27,
         "ime": "RESTAVRACIJA PLEČNIKOV HRAM",
         "kraj": "LJUBLJANA"
     },
@@ -4125,7 +4125,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.97€",
+        "doplacilo": 2.97,
         "ime": "RESTAVRACIJA PRESTIGE CATERING, GZS",
         "kraj": "LJUBLJANA"
     },
@@ -4135,7 +4135,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "RESTAVRACIJA PRI STAREM MOSTU (HOTEL LENT)",
         "kraj": "MARIBOR"
     },
@@ -4145,7 +4145,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.20€",
+        "doplacilo": 3.2,
         "ime": "RESTAVRACIJA RDEČE JABOLKO",
         "kraj": "LJUBLJANA"
     },
@@ -4155,8 +4155,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.97€",
-        "ime": "RESTAVRACIJA RODIŠKA KUH&#39;NA",
+        "doplacilo": 2.97,
+        "ime": "RESTAVRACIJA RODIŠKA KUH'NA",
         "kraj": "DOMŽALE"
     },
     {
@@ -4165,7 +4165,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.30€",
+        "doplacilo": 2.3,
         "ime": "RESTAVRACIJA SARAJEVSKIH JEDI VALTER - ŠKOFJA LOKA",
         "kraj": "ŠKOFJA LOKA"
     },
@@ -4175,7 +4175,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.30€",
+        "doplacilo": 2.3,
         "ime": "RESTAVRACIJA SARAJEVSKIH JEDI VALTER JESENICE",
         "kraj": "JESENICE"
     },
@@ -4185,7 +4185,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.30€",
+        "doplacilo": 2.3,
         "ime": "RESTAVRACIJA SARAJEVSKIH JEDI VALTER KRANJ",
         "kraj": "KRANJ"
     },
@@ -4195,7 +4195,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.30€",
+        "doplacilo": 2.3,
         "ime": "RESTAVRACIJA SARAJEVSKIH JEDI VALTER LJUBLJANA",
         "kraj": "LJUBLJANA"
     },
@@ -4205,7 +4205,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.30€",
+        "doplacilo": 2.3,
         "ime": "RESTAVRACIJA SARAJEVSKIJ JEDI VALTER RADOVLJICA",
         "kraj": "RADOVLJICA"
     },
@@ -4215,7 +4215,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "RESTAVRACIJA SHAOLIN",
         "kraj": "LJUBLJANA"
     },
@@ -4225,7 +4225,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.70€",
+        "doplacilo": 3.7,
         "ime": "RESTAVRACIJA SKRITI KOT",
         "kraj": "LJUBLJANA"
     },
@@ -4235,7 +4235,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.50€",
+        "doplacilo": 1.5,
         "ime": "RESTAVRACIJA SLOREST VIČAVA",
         "kraj": "PTUJ"
     },
@@ -4245,7 +4245,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.17€",
+        "doplacilo": 3.17,
         "ime": "RESTAVRACIJA SPLOŠNE BOLNIŠNICE NOVO MESTO",
         "kraj": "NOVO MESTO"
     },
@@ -4255,7 +4255,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.50€",
+        "doplacilo": 2.5,
         "ime": "RESTAVRACIJA ŠEF LA",
         "kraj": "LJUBLJANA"
     },
@@ -4265,7 +4265,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "RESTAVRACIJA ŠEF LA - DOSTAVA",
         "kraj": "LJUBLJANA"
     },
@@ -4275,7 +4275,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.00€",
+        "doplacilo": 2.0,
         "ime": "RESTAVRACIJA ŠOLSKI CENTER AŠKERČEVA",
         "kraj": "LJUBLJANA"
     },
@@ -4285,7 +4285,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.70€",
+        "doplacilo": 3.7,
         "ime": "RESTAVRACIJA TARTUF \"CENTER\"",
         "kraj": "LJUBLJANA"
     },
@@ -4295,7 +4295,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.97€",
+        "doplacilo": 2.97,
         "ime": "RESTAVRACIJA TOMI",
         "kraj": "MARIBOR"
     },
@@ -4305,7 +4305,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.37€",
+        "doplacilo": 2.37,
         "ime": "RESTAVRACIJA TUŠ CELJE (PLANET TUŠ)",
         "kraj": "CELJE"
     },
@@ -4315,7 +4315,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.37€",
+        "doplacilo": 2.37,
         "ime": "RESTAVRACIJA TUŠ KRANJ",
         "kraj": "KRANJ"
     },
@@ -4325,7 +4325,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.50€",
+        "doplacilo": 2.5,
         "ime": "RESTAVRACIJA ZLATA SREČA",
         "kraj": "MARIBOR"
     },
@@ -4335,7 +4335,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.70€",
+        "doplacilo": 3.7,
         "ime": "RESTAVRACIJA,PICERIJA, ŠPAGETERIJA ADRENALINA",
         "kraj": "KRŠKO"
     },
@@ -4345,7 +4345,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "RESTAVRACIJA,PICERIJA, ŠPAGETERIJA ADRENALINA - DOSTAVA",
         "kraj": "KRŠKO"
     },
@@ -4355,7 +4355,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.50€",
+        "doplacilo": 3.5,
         "ime": "RESTORANTE BELLA ITALIA",
         "kraj": "MARIBOR"
     },
@@ -4365,7 +4365,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.57€",
+        "doplacilo": 2.57,
         "ime": "ROŠTILJ",
         "kraj": "LJUBLJANA"
     },
@@ -4375,7 +4375,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.90€",
+        "doplacilo": 2.9,
         "ime": "ROZA SLON",
         "kraj": "LJUBLJANA"
     },
@@ -4385,7 +4385,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.90€",
+        "doplacilo": 2.9,
         "ime": "ROZA SLON BEŽIGRAD",
         "kraj": "LJUBLJANA"
     },
@@ -4395,8 +4395,8 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
-        "ime": "RUNNING SUSHI &amp; WOK",
+        "doplacilo": 3.87,
+        "ime": "RUNNING SUSHI & WOK",
         "kraj": "LJUBLJANA"
     },
     {
@@ -4405,7 +4405,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "SALAMON - DOSTAVA",
         "kraj": "LJUBLJANA"
     },
@@ -4415,7 +4415,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "SAMOPOSTREŽNA RESTAVRACIJA DOBRA HIŠA",
         "kraj": "LJUBLJANA"
     },
@@ -4425,7 +4425,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "SKUHNA - SVETOVNA KUHINJA PO SLOVENSKO",
         "kraj": "LJUBLJANA"
     },
@@ -4435,7 +4435,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "SLAŠČIČARNA IN KAVARNA LEONARD",
         "kraj": "LJUBLJANA"
     },
@@ -4445,7 +4445,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.57€",
+        "doplacilo": 1.57,
         "ime": "SLAŠČIČARNA IN OKREPČEVALNICA \"JAGODA\"",
         "kraj": "LJUBLJANA"
     },
@@ -4455,7 +4455,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "SLAŠČIČARNA IN PICERIJA AJDOVŠČINA",
         "kraj": "AJDOVŠČINA"
     },
@@ -4465,7 +4465,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "SLAŠČIČARNA IN PICERIJA AJDOVŠČINA - HALO ERIK-DOSTAVA",
         "kraj": "AJDOVŠČINA"
     },
@@ -4475,7 +4475,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.37€",
+        "doplacilo": 2.37,
         "ime": "SPLOŠNA BOLNIŠNICA IZOLA",
         "kraj": "IZOLA/ISOLA"
     },
@@ -4485,7 +4485,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "1.97€",
+        "doplacilo": 1.97,
         "ime": "SREDNJA GOZDARSKA IN LESARSKA ŠOLA POSTOJNA",
         "kraj": "POSTOJNA"
     },
@@ -4495,7 +4495,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.00€",
+        "doplacilo": 2.0,
         "ime": "SREDNJA ŠOLA IZOLA - SCUOLA MEDIA ISOLA",
         "kraj": "IZOLA/ISOLA"
     },
@@ -4505,7 +4505,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.37€",
+        "doplacilo": 3.37,
         "ime": "STARA KRŠKA PIZZERIJA",
         "kraj": "KRŠKO"
     },
@@ -4515,7 +4515,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.57€",
+        "doplacilo": 3.57,
         "ime": "STARA KRŠKA PIZZERIJA - DOSTAVA",
         "kraj": "KRŠKO"
     },
@@ -4525,7 +4525,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "1.37€",
+        "doplacilo": 1.37,
         "ime": "SUBWAY",
         "kraj": "LJUBLJANA"
     },
@@ -4535,7 +4535,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "1.37€",
+        "doplacilo": 1.37,
         "ime": "SUBWAY",
         "kraj": "LJUBLJANA"
     },
@@ -4545,7 +4545,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "1.37€",
+        "doplacilo": 1.37,
         "ime": "ŠEHEREZADA",
         "kraj": "LJUBLJANA"
     },
@@ -4555,7 +4555,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.87€",
+        "doplacilo": 0.87,
         "ime": "ŠOLSKI CENTER ŠENTJUR",
         "kraj": "ŠENTJUR"
     },
@@ -4565,7 +4565,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.60€",
+        "doplacilo": 2.6,
         "ime": "ŠTUDENTSKI DOM LJUBLJANA - RESTAVRACIJA",
         "kraj": "LJUBLJANA"
     },
@@ -4575,7 +4575,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "TAJ MAHAL",
         "kraj": "LJUBLJANA"
     },
@@ -4585,7 +4585,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "TAJ MAHAL - DOSTAVA",
         "kraj": "LJUBLJANA"
     },
@@ -4595,7 +4595,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.67€",
+        "doplacilo": 3.67,
         "ime": "TAJSKA RESTAVRACIJA BANGKOK STREET",
         "kraj": "LJUBLJANA"
     },
@@ -4605,7 +4605,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "TAKOS DOS",
         "kraj": "MARIBOR"
     },
@@ -4615,7 +4615,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "TAKOS LENT",
         "kraj": "MARIBOR"
     },
@@ -4625,7 +4625,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.30€",
+        "doplacilo": 3.3,
         "ime": "TANDOORI CAFE",
         "kraj": "LJUBLJANA"
     },
@@ -4635,7 +4635,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.70€",
+        "doplacilo": 3.7,
         "ime": "TANDOORI CAFE - DOSTAVA",
         "kraj": "LJUBLJANA"
     },
@@ -4645,7 +4645,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "TASTY SNACKS",
         "kraj": "MARIBOR"
     },
@@ -4655,7 +4655,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.97€",
+        "doplacilo": 2.97,
         "ime": "TAVERNA HUBER, RESTAVRACIJA IN SLASČIČARNA",
         "kraj": "MURSKA SOBOTA"
     },
@@ -4665,7 +4665,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.57€",
+        "doplacilo": 3.57,
         "ime": "TAVERNA SICILIA",
         "kraj": "MARIBOR"
     },
@@ -4675,7 +4675,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.57€",
+        "doplacilo": 3.57,
         "ime": "TAVERNA SICILIA - DOSTAVA",
         "kraj": "MARIBOR"
     },
@@ -4685,7 +4685,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.57€",
+        "doplacilo": 2.57,
         "ime": "THE WOK",
         "kraj": "LJUBLJANA"
     },
@@ -4695,7 +4695,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.00€",
+        "doplacilo": 3.0,
         "ime": "TRATTORIA PADRINO",
         "kraj": "MARIBOR"
     },
@@ -4705,7 +4705,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "TRNOVSKI ZVON",
         "kraj": "LJUBLJANA"
     },
@@ -4715,7 +4715,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.37€",
+        "doplacilo": 2.37,
         "ime": "TUŠ RESTAVRACIJA MARIBOR STUDENCI (PLANET TUŠ)",
         "kraj": "MARIBOR"
     },
@@ -4725,7 +4725,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "2.98€",
+        "doplacilo": 2.98,
         "ime": "UFO",
         "kraj": "LJUBLJANA"
     },
@@ -4735,7 +4735,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.60€",
+        "doplacilo": 0.6,
         "ime": "UN MOMENTO-PIZZA TIME",
         "kraj": "MARIBOR"
     },
@@ -4745,7 +4745,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "UTRIP - BAR, BISTRO IN KAVARNA",
         "kraj": "LJUBLJANA"
     },
@@ -4755,7 +4755,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "V PARKU",
         "kraj": "LJUBLJANA"
     },
@@ -4765,7 +4765,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "0.00€",
+        "doplacilo": 0.0,
         "ime": "VEGETARIJANSKA OKREPČEVALNICA HOLYFOOD",
         "kraj": "LJUBLJANA"
     },
@@ -4775,7 +4775,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.20€",
+        "doplacilo": 3.2,
         "ime": "VEGETARIJANSKA RESTAVRACIJA RADHA GOVINDA",
         "kraj": "LJUBLJANA"
     },
@@ -4785,7 +4785,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "VIVO D125",
         "kraj": "LJUBLJANA"
     },
@@ -4795,7 +4795,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.37€",
+        "doplacilo": 4.37,
         "ime": "VODNIKOV HRAM",
         "kraj": "LJUBLJANA"
     },
@@ -4805,7 +4805,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.90€",
+        "doplacilo": 2.9,
         "ime": "VOLTA",
         "kraj": "LJUBLJANA"
     },
@@ -4815,7 +4815,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "VOZI MIŠKO (MC ŠIŠKA)",
         "kraj": "LJUBLJANA"
     },
@@ -4825,7 +4825,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "3.87€",
+        "doplacilo": 3.87,
         "ime": "VOZI MIŠKO (SUPERNOVA RUDNIK)",
         "kraj": "LJUBLJANA"
     },
@@ -4835,7 +4835,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "NE",
         "nov_lokal": "NE",
-        "doplacilo": "2.70€",
+        "doplacilo": 2.7,
         "ime": "WOK MIX OKREPČEVALNICA",
         "kraj": "MARIBOR"
     },
@@ -4845,7 +4845,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "3.50€",
+        "doplacilo": 3.5,
         "ime": "ZLATI KROŽNIK",
         "kraj": "DOMŽALE"
     },
@@ -4855,7 +4855,7 @@
         "dostava": "DA",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "4.00€",
+        "doplacilo": 4.0,
         "ime": "ZLATI KROŽNIK - DOSTAVA",
         "kraj": "DOMŽALE"
     },
@@ -4865,7 +4865,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "0.60€",
+        "doplacilo": 0.6,
         "ime": "ŽITO LJUBLANA ŽELEZNIŠKA (KOLODVOR)",
         "kraj": "LJUBLJANA"
     },
@@ -4875,7 +4875,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "0.60€",
+        "doplacilo": 0.6,
         "ime": "ŽITO LJUBLJANA BAVARSKI DVOR",
         "kraj": "LJUBLJANA"
     },
@@ -4885,7 +4885,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "0.60€",
+        "doplacilo": 0.6,
         "ime": "ŽITO LJUBLJANA VODNIK",
         "kraj": "LJUBLJANA"
     },
@@ -4895,7 +4895,7 @@
         "dostava": "NE",
         "odprto_ob_vikendih": "DA",
         "nov_lokal": "NE",
-        "doplacilo": "0.60€",
+        "doplacilo": 0.6,
         "ime": "ŽITO TRŽNICA KOPER",
         "kraj": "KOPER/CAPODISTRIA"
     }
