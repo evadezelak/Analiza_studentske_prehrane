@@ -32,3 +32,8 @@ Podatke bom zajela iz spletne strani https://www.studentska-prehrana.si/sl/resta
 - v katerem mestu je največ novih restavracij v ponudbi študentsek prehrane
 - kako je cena obroka povezana s tem, da je restavracija nova v ponudbi študentsek prehrane
 - kako je ocena restavracije povezana s tem, da je restavracija nova v ponudbi študentsek prehrane
+&nbsp;
+
+&nbsp;
+
+Podatke imam zbrane v mapi `obdelani-podatki`, v datoteki `vse-restavracije.csv`. Vsaka datoteka vsebuje po vrsticah podatke o restavraciji, po stoplcih pa kategorije, ki sem jih navedla zgoraj. 
