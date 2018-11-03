@@ -61,62 +61,63 @@ def zapisi_json(objekt, ime_datoteke):
 
 
 vzorec = re.compile(
-    r'<div class="row restaurant-row (?P<vegetarijansko>service-1)? ?(?P<dostop_za_invalide>service-3)? ?(?P<dostava>service-5)? ?(?P<odprto_ob_vikendih>service-20)? ?(?P<nov_lokal>service-69)?.*?"(?:\s|\n)*data.*?'
-    #r'<div class="row restaurant-row .*?(?P<nov_lokal>service-69)?"(?:\s|\n)*data.*?'
-    r'.*? data-doplacilo="(?P<doplacilo>.*?)".*?'
-    #r'<input checked="checked".*?value="(?P<ocena>\d+)?".*?></label>.*?' #Kaj pa če ocene ni?
-    r'data-lokal="(?P<ime>.*?)".*?'
-    r'data-city="(?P<kraj>.*?)"',
-    #r'<small><i>(?P<naslov>.*?)</i>.*?',
-    re.DOTALL
+    r'<div class="row restaurant-row.*?".*?'
+    r'<img src=.*? />',
+    flags = re.DOTALL
 )
-    
 
-def izloci_podatke(ujemanje):
-    podatki_restavracije = ujemanje.groupdict()
-    if podatki_restavracije['vegetarijansko'] is not None:
-        podatki_restavracije['vegetarijansko'] = 'DA'
-    else:
-        podatki_restavracije['vegetarijansko'] = 'NE'
+restavracija = re.compile(
+    r'<div class="row restaurant-row (?P<vegetarijansko>service-1)? ?(?P<dostop_za_invalide>service-3)? ?(?P<dostava>service-5)? ?(?P<odprto_ob_vikendih>service-20)?.*?(?P<nov_lokal>service-69)?"(?:\s|\n)*data.*?'
+    r'.*? data-doplacilo="(?P<doplacilo>.*?)".*?'
+    r'data-lokal="(?P<ime>.*?)".*?'
+    r'data-city="(?P<kraj>.*?)".*?'
+    r'<div class="acidjs-rating-stars acidjs-rating-disabled">(?:\s|\n)*(?P<ocena>.*?)</div>.*?'
+    r'<small><i>(?P<naslov>.*?)</i>.*?',
+    flags = re.DOTALL
+)
 
-    if podatki_restavracije['dostop_za_invalide'] is not None:
-        podatki_restavracije['dostop_za_invalide'] = 'DA'
-    else:
-        podatki_restavracije['dostop_za_invalide'] = 'NE'
+ocena = re.compile(
+    r'<input checked="checked".*?value="(?P<ocena>\d+)?".*?></label>.*?',
+    flags = re.DOTALL
+)
 
-    if podatki_restavracije['dostava'] is not None:
-        podatki_restavracije['dostava'] = 'DA'
-    else:
-        podatki_restavracije['dostava'] = 'NE'
 
-    if podatki_restavracije['odprto_ob_vikendih'] is not None:
-        podatki_restavracije['odprto_ob_vikendih'] = 'DA'
-    else:
-        podatki_restavracije['odprto_ob_vikendih'] = 'NE'
 
-    if podatki_restavracije['nov_lokal'] is not None:
-        podatki_restavracije['nov_lokal'] = 'DA'
+def izloci_podatke(vzorec):
+    podatki_restavracije = restavracija.search(vzorec).groupdict()
+
+    txt = podatki_restavracije['ocena']
+    ocena1 = ocena.search(txt)
+    if ocena1 is None:
+        ocena1 = '/'
     else:
-        podatki_restavracije['nov_lokal'] = 'NE'
-        
+        ocena1 = ocena.search(txt).groupdict()
+        ocena1 = ocena1['ocena']
+    podatki_restavracije['ocena'] = ocena1
+
+    for polje in ['vegetarijansko', 'dostop_za_invalide', 'dostava', 'odprto_ob_vikendih', 'nov_lokal']:
+        if podatki_restavracije[polje] is not None:
+            podatki_restavracije[polje] = 'DA'
+        else:
+            podatki_restavracije[polje] = 'NE'
+
     podatki_restavracije['doplacilo'] = (podatki_restavracije['doplacilo']).replace(',', '.')
     podatki_restavracije['doplacilo'] = float(podatki_restavracije['doplacilo'])
-    #podatki_restavracije['ocena'] = int(podatki_restavracije['ocena'])
     podatki_restavracije['ime'] = podatki_restavracije['ime'].strip()
     podatki_restavracije['ime'] = podatki_restavracije['ime'].replace('&quot;', '"')
     podatki_restavracije['ime'] = podatki_restavracije['ime'].replace('&amp;', '&')
     podatki_restavracije['ime'] = podatki_restavracije['ime'].replace('&#39;', "'")
     podatki_restavracije['ime'] = podatki_restavracije['ime'].replace('&#180;', "'")
-    #podatki_restavracije['naslov'] = podatki_restavracije['naslov'].strip()
+    podatki_restavracije['naslov'] = podatki_restavracije['naslov'].strip()
     podatki_restavracije['kraj'] = podatki_restavracije['kraj'].strip()
     return podatki_restavracije
 
 podatki_restavracije = []
 vsebina = vsebina_datoteke('imenik_restavracij/frontpage.html')
-for ujemanje in vzorec.finditer(vsebina):
+for ujemanje in restavracija.finditer(vsebina):
     print('Računam')
-    podatki_restavracije.append(izloci_podatke(ujemanje))
+    podatki_restavracije.append(izloci_podatke(ujemanje.group(0)))
 zapisi_json(podatki_restavracije, 'obdelani-podatki/vse-restavracije.json')
-zapisi_csv(podatki_restavracije, ["ime", "kraj", "doplacilo", "vegetarijansko", "dostava", "dostop_za_invalide", "odprto_ob_vikendih", "nov_lokal"], 'obdelani-podatki/vse-restavracije.csv')
+zapisi_csv(podatki_restavracije, ["ime", "naslov", "kraj", "ocena", "doplacilo", "vegetarijansko", "dostop_za_invalide", "dostava", "odprto_ob_vikendih", "nov_lokal"], 'obdelani-podatki/vse-restavracije.csv')
 
 print(len(podatki_restavracije))
