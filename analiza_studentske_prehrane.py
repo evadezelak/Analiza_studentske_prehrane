@@ -108,6 +108,7 @@ def izloci_podatke(vzorec):
     podatki_restavracije['ime'] = podatki_restavracije['ime'].replace('&amp;', '&')
     podatki_restavracije['ime'] = podatki_restavracije['ime'].replace('&#39;', "'")
     podatki_restavracije['ime'] = podatki_restavracije['ime'].replace('&#180;', "'")
+    podatki_restavracije['naslov'] = podatki_restavracije['naslov'].replace('-1', '1000')
     podatki_restavracije['naslov'] = podatki_restavracije['naslov'].strip()
     podatki_restavracije['kraj'] = podatki_restavracije['kraj'].strip()
     return podatki_restavracije
