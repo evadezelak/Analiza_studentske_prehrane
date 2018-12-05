@@ -44,7 +44,7 @@
         "doplacilo": 2.7,
         "ime": "AMBIENT",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Topniška 29a, 1000 Ljubljana"
     },
     {
@@ -56,7 +56,7 @@
         "doplacilo": 3.37,
         "ime": "ANTARO",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Leskoškova 9e, 1000 Ljubljana"
     },
     {
@@ -236,7 +236,7 @@
         "doplacilo": 2.67,
         "ime": "BIOTEHNIŠKI IZOBRAŽEVALNI CENTER LJUBLJANA",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Cesta v Mestni log 47, 1000 Ljubljana"
     },
     {
@@ -248,7 +248,7 @@
         "doplacilo": 3.97,
         "ime": "BISTRO ARTY+",
         "kraj": "MARIBOR",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Slovenska ulica 20, 2000 Maribor"
     },
     {
@@ -272,7 +272,7 @@
         "doplacilo": 3.37,
         "ime": "BISTRO TANJA- DOSTAVA",
         "kraj": "MURSKA SOBOTA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Cankarjeva ulica 58, 9000 Murska Sobota"
     },
     {
@@ -512,7 +512,7 @@
         "doplacilo": 3.87,
         "ime": "ČEVABDŽINICA SARAJEVO 84",
         "kraj": "KOPER/CAPODISTRIA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Gramšijev trg 8, 6000 Koper/Capodistria"
     },
     {
@@ -572,7 +572,7 @@
         "doplacilo": 2.07,
         "ime": "DIJAŠKI DOM LIZIKE JANČAR",
         "kraj": "MARIBOR",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Titova cesta 24a, 2000 Maribor"
     },
     {
@@ -596,7 +596,7 @@
         "doplacilo": 2.2,
         "ime": "DIJAŠKI DOM POLJANE",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Potočnikova ulica 3, 1000 Ljubljana"
     },
     {
@@ -608,7 +608,7 @@
         "doplacilo": 3.0,
         "ime": "DIJAŠKI DOM PORTOROŽ",
         "kraj": "PORTOROŽ/PORTOROSE",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Sončna pot 20, 6320 Portorož/Portorose"
     },
     {
@@ -668,7 +668,7 @@
         "doplacilo": 2.5,
         "ime": "DIJAŠKI IN ŠTUDENTSKI DOM NOVO MESTO",
         "kraj": "NOVO MESTO",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Šegova ulica 115, 8000 Novo mesto"
     },
     {
@@ -896,7 +896,7 @@
         "doplacilo": 2.6,
         "ime": "FUŽINSKI MERAK",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Nove fužine 45, 1000 Ljubljana"
     },
     {
@@ -908,7 +908,7 @@
         "doplacilo": 3.4,
         "ime": "FUŽINSKI MERAK - DOSTAVA",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Nove fužine 45, 1000 Ljubljana"
     },
     {
@@ -956,7 +956,7 @@
         "doplacilo": 3.27,
         "ime": "GOSTILNA ČAS",
         "kraj": "ŽALEC",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Savinjska cesta 72, 3310 Žalec"
     },
     {
@@ -992,7 +992,7 @@
         "doplacilo": 4.37,
         "ime": "GOSTILNA IN PICERIJA PAVON",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Njegoševa 6 K, 1000 Ljubljana"
     },
     {
@@ -1028,7 +1028,7 @@
         "doplacilo": 4.17,
         "ime": "GOSTILNA IN PIZZERIJA BREZA",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Letališka cesta 27, 1000 Ljubljana"
     },
     {
@@ -1052,7 +1052,7 @@
         "doplacilo": 3.5,
         "ime": "GOSTILNA JELEN",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Celovška cesta 462, 1000 Ljubljana"
     },
     {
@@ -1136,7 +1136,7 @@
         "doplacilo": 3.17,
         "ime": "GOSTILNA PRI POŠTI",
         "kraj": "PTUJ",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Ulica Heroja Lacka 6, 2250 Ptuj"
     },
     {
@@ -1160,7 +1160,7 @@
         "doplacilo": 2.97,
         "ime": "GOSTILNA RACMAN",
         "kraj": "BREŽICE",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Brezina 19/b, 8250 Brežice"
     },
     {
@@ -1304,7 +1304,7 @@
         "doplacilo": 3.17,
         "ime": "GOSTIŠČE KUM",
         "kraj": "ZAGORJE OB SAVI",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Prešernova cesta 1, 1410 Zagorje ob Savi"
     },
     {
@@ -1328,7 +1328,7 @@
         "doplacilo": 2.77,
         "ime": "GOSTIŠČE NA TRGU - HIŠA KULINARIKE",
         "kraj": "NOVO MESTO",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Glavni trg 30, 8000 Novo mesto"
     },
     {
@@ -1364,7 +1364,7 @@
         "doplacilo": 2.07,
         "ime": "GURMANSKI HRAM",
         "kraj": "MARIBOR",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Zagrebška cesta 92, 2000 Maribor"
     },
     {
@@ -1568,7 +1568,7 @@
         "doplacilo": 3.5,
         "ime": "HOTEL CELEIA",
         "kraj": "CELJE",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Mariborska cesta 3, 3000 Celje"
     },
     {
@@ -1580,7 +1580,7 @@
         "doplacilo": 3.5,
         "ime": "HOTEL OPARA",
         "kraj": "TREBNJE",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Goliev trg 13, 8210 Trebnje"
     },
     {
@@ -1592,7 +1592,7 @@
         "doplacilo": 3.87,
         "ime": "HOTEL PAKA",
         "kraj": "VELENJE",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Rudarska cesta 1, 3320 Velenje"
     },
     {
@@ -1640,7 +1640,7 @@
         "doplacilo": 4.17,
         "ime": "HUANG'S KITAJSKA RESTAVRACIJA",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Kolodvorska ulica 20, 1000 Ljubljana"
     },
     {
@@ -1748,7 +1748,7 @@
         "doplacilo": 2.4,
         "ime": "KARANTANIJA",
         "kraj": "KRANJ",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Drulovka 40, 4000 Kranj"
     },
     {
@@ -1772,7 +1772,7 @@
         "doplacilo": 3.87,
         "ime": "KAVARNA IN RESTAVRACIJA NOVA GORICA",
         "kraj": "NOVA GORICA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Delpinova 16, 5000 Nova Gorica"
     },
     {
@@ -1796,7 +1796,7 @@
         "doplacilo": 2.27,
         "ime": "KAVARNA IN SLAŠČIČARNA CARNIOLA",
         "kraj": "KRANJ",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Gregorčičeva 2, 4000 Kranj"
     },
     {
@@ -1808,7 +1808,7 @@
         "doplacilo": 2.27,
         "ime": "KAVARNA IN SLAŠČIČARNA RENDEZ - VOUS",
         "kraj": "KRANJ",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Oprešnikova 28, 4000 Kranj"
     },
     {
@@ -1916,7 +1916,7 @@
         "doplacilo": 3.2,
         "ime": "KITAJSKA RESTAVRACIJA CESARSKA HIŠA",
         "kraj": "KOPER/CAPODISTRIA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Ankaranska cesta 5B, 6000 Koper/Capodistria"
     },
     {
@@ -1964,7 +1964,7 @@
         "doplacilo": 3.3,
         "ime": "KITAJSKA RESTAVRACIJA KITAJSKI ZMAJ",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Ižanska cesta 282, 1000 Ljubljana"
     },
     {
@@ -2180,7 +2180,7 @@
         "doplacilo": 2.57,
         "ime": "KLOPČIČ - DOM LITOSTROJ",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Litostrojska cesta 55, 1000 Ljubljana"
     },
     {
@@ -2252,7 +2252,7 @@
         "doplacilo": 3.0,
         "ime": "LETEČA ZVEZDA",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Kvedrova cesta 5a, 1000 Ljubljana"
     },
     {
@@ -2396,7 +2396,7 @@
         "doplacilo": 1.0,
         "ime": "MC PATRIOT",
         "kraj": "SLOVENSKE KONJICE",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Žička cesta 4a, 3210 Slovenske Konjice"
     },
     {
@@ -2516,7 +2516,7 @@
         "doplacilo": 2.07,
         "ime": "MCDONALD'S RESTAVRACIJA NOVA GORICA",
         "kraj": "NOVA GORICA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Vojkova cesta 111, 5000 Nova Gorica"
     },
     {
@@ -2636,7 +2636,7 @@
         "doplacilo": 3.27,
         "ime": "MLEČNA RESTAVRACIJA - DOSTAVA",
         "kraj": "KRANJ",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Maistrov trg 13, 4000 Kranj"
     },
     {
@@ -2696,7 +2696,7 @@
         "doplacilo": 2.37,
         "ime": "OKREPČEVALNICA - BISTRO TANJA",
         "kraj": "MURSKA SOBOTA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Cankarjeva ulica 58, 9000 Murska Sobota"
     },
     {
@@ -2780,7 +2780,7 @@
         "doplacilo": 3.0,
         "ime": "OKREPČEVALNICA AZZURRO",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Nove Fužine 43, 1000 Ljubljana"
     },
     {
@@ -2804,7 +2804,7 @@
         "doplacilo": 2.0,
         "ime": "OKREPČEVALNICA BOBER (PARIŠKE KOMUNE)",
         "kraj": "MARIBOR",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Ulica Pariške komune 47, 2000 Maribor"
     },
     {
@@ -2840,7 +2840,7 @@
         "doplacilo": 3.77,
         "ime": "OKREPČEVALNICA FRESH (PRODAJNO MESTO PETROL)",
         "kraj": "TREBNJE",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Dol. Podboršt pri Trebnjem 50, 8210 Trebnje"
     },
     {
@@ -2852,7 +2852,7 @@
         "doplacilo": 3.77,
         "ime": "OKREPČEVALNICA FRESH (PRODAJNO MESTO PETROL)",
         "kraj": "TRZIN",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Ljubljanska cesta 50, 1236 Trzin"
     },
     {
@@ -2864,7 +2864,7 @@
         "doplacilo": 3.77,
         "ime": "OKREPČEVALNICA FRESH (PRODAJNO MESTO PETROL)",
         "kraj": "SEŽANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Povir 95, 6210 Sežana"
     },
     {
@@ -2900,7 +2900,7 @@
         "doplacilo": 2.97,
         "ime": "OKREPČEVALNICA KEMIJSKI INŠTITUT",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Hajdrihova 19, 1000 Ljubljana"
     },
     {
@@ -2948,7 +2948,7 @@
         "doplacilo": 2.17,
         "ime": "OKREPČEVALNICA MINUTKA",
         "kraj": "SLOVENJ GRADEC",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Celjska cesta 48 b, 2380 Slovenj Gradec"
     },
     {
@@ -2972,7 +2972,7 @@
         "doplacilo": 3.37,
         "ime": "OKREPČEVALNICA NOVAK",
         "kraj": "NOVO MESTO",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Koštialova 1, 8000 Novo mesto"
     },
     {
@@ -3104,7 +3104,7 @@
         "doplacilo": 3.37,
         "ime": "OKREPČEVALNICA VIDA",
         "kraj": "RAVNE NA KOROŠKEM",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Prežihova ulica 5, 2390 Ravne na Koroškem"
     },
     {
@@ -3128,7 +3128,7 @@
         "doplacilo": 3.77,
         "ime": "OKREPČEVANICA FRESH (PRODAJNO MESTO PETROL)",
         "kraj": "SEŽANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Povir 96, 6210 Sežana"
     },
     {
@@ -3200,7 +3200,7 @@
         "doplacilo": 2.5,
         "ime": "PE DIJAŠKI DOM CELJE",
         "kraj": "CELJE",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Ljubljanska cesta 21, 3000 Celje"
     },
     {
@@ -3260,7 +3260,7 @@
         "doplacilo": 3.37,
         "ime": "PERLA",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Leskoškova 11, 1000 Ljubljana"
     },
     {
@@ -3272,7 +3272,7 @@
         "doplacilo": 3.77,
         "ime": "PETROL OKREPČEVALNICA FRESH",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Tržaška cesta 130, 1000 Ljubljana"
     },
     {
@@ -3284,7 +3284,7 @@
         "doplacilo": 3.77,
         "ime": "PETROL OKREPČEVALNICA FRESH",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Celovška cesta 226, 1000 Ljubljana"
     },
     {
@@ -3296,7 +3296,7 @@
         "doplacilo": 3.77,
         "ime": "PETROL OKREPČEVANICA FRESH",
         "kraj": "KOPER/CAPODISTRIA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Kolodvorska cesta 3A, 6000 Koper/Capodistria"
     },
     {
@@ -3356,7 +3356,7 @@
         "doplacilo": 4.27,
         "ime": "PICERIJA BONITAS - DOSTAVA",
         "kraj": "ŽALEC",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Celjska cesta 7, 3310 Žalec"
     },
     {
@@ -3368,7 +3368,7 @@
         "doplacilo": 3.17,
         "ime": "PICERIJA ERA",
         "kraj": "NOVO MESTO",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Pod Trško goro 83, 8000 Novo mesto"
     },
     {
@@ -3392,7 +3392,7 @@
         "doplacilo": 4.37,
         "ime": "PICERIJA NA PLACU",
         "kraj": "VIPAVA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Goriška cesta 13, 5271 Vipava"
     },
     {
@@ -3416,7 +3416,7 @@
         "doplacilo": 2.57,
         "ime": "PICERIJA ŠTANGELJ",
         "kraj": "NOVO MESTO",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "UlicaIvana Roba 56, 8000 Novo mesto"
     },
     {
@@ -3488,7 +3488,7 @@
         "doplacilo": 3.87,
         "ime": "PIVNICA EMONEC",
         "kraj": "KOPER/CAPODISTRIA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Vanganelska cesta 20, 6000 Koper/Capodistria"
     },
     {
@@ -3548,7 +3548,7 @@
         "doplacilo": 2.07,
         "ime": "PIZZERIA DI ANTONIO",
         "kraj": "SLOVENJ GRADEC",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Gradišče 8a, 2380 Slovenj Gradec"
     },
     {
@@ -3560,7 +3560,7 @@
         "doplacilo": 2.67,
         "ime": "PIZZERIA DI ANTONIO - DOSTAVA",
         "kraj": "SLOVENJ GRADEC",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Gradišče 8a, 2380 Slovenj Gradec"
     },
     {
@@ -3596,7 +3596,7 @@
         "doplacilo": 3.7,
         "ime": "PIZZERIA GALLUS",
         "kraj": "BLED",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Ljubljanska cesta 4, 4260 Bled"
     },
     {
@@ -3680,7 +3680,7 @@
         "doplacilo": 2.9,
         "ime": "PIZZERIA IN ŠPAGETTERIA CUBUS",
         "kraj": "NOVO MESTO",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Podbevškova ulica 11, 8000 Novo mesto"
     },
     {
@@ -3692,7 +3692,7 @@
         "doplacilo": 0.87,
         "ime": "PIZZERIA KUKUCA",
         "kraj": "TRBOVLJE",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Tra Franca Fakina 1, 1420 Trbovlje"
     },
     {
@@ -4040,7 +4040,7 @@
         "doplacilo": 1.9,
         "ime": "POMORŠČAK",
         "kraj": "PORTOROŽ/PORTOROSE",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Pot pomorščakov 4, 6320 Portorož/Portorose"
     },
     {
@@ -4052,7 +4052,7 @@
         "doplacilo": 3.0,
         "ime": "PORTOFINO",
         "kraj": "MARIBOR",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Tržaška cesta 65, 2000 Maribor"
     },
     {
@@ -4088,7 +4088,7 @@
         "doplacilo": 3.47,
         "ime": "PREHRANA PALAČA SMELT",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Dunajska 160, 1000 Ljubljana"
     },
     {
@@ -4112,7 +4112,7 @@
         "doplacilo": 4.37,
         "ime": "PRIMAVERA IZOLA-DOSTAVA",
         "kraj": "IZOLA/ISOLA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Prešernova cesta 55 , 6310 Izola/Isola"
     },
     {
@@ -4124,7 +4124,7 @@
         "doplacilo": 2.0,
         "ime": "PROMETNA ŠOLA MARIBOR",
         "kraj": "MARIBOR",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Preradovičeva ulica 33, 2000 Maribor"
     },
     {
@@ -4172,7 +4172,7 @@
         "doplacilo": 1.57,
         "ime": "R&B - ROASTERY & BACERY",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Slovenska cesta 47, 1000 Ljubljana"
     },
     {
@@ -4208,7 +4208,7 @@
         "doplacilo": 3.0,
         "ime": "RESTAVRACIJA 123 DELO",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Dunajska 5, 1000 Ljubljana"
     },
     {
@@ -4220,7 +4220,7 @@
         "doplacilo": 3.0,
         "ime": "RESTAVRACIJA 123 DSU",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Litostrojska 54, 1000 Ljubljana"
     },
     {
@@ -4268,7 +4268,7 @@
         "doplacilo": 3.0,
         "ime": "RESTAVRACIJA 123 MC NOVA GORICA",
         "kraj": "NOVA GORICA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Industrijska cesta 6, 5000 Nova Gorica"
     },
     {
@@ -4280,7 +4280,7 @@
         "doplacilo": 3.0,
         "ime": "RESTAVRACIJA 123 MEGA CENTER 2",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Verovškova ulica 55a, 1000 Ljubljana"
     },
     {
@@ -4316,7 +4316,7 @@
         "doplacilo": 3.0,
         "ime": "RESTAVRACIJA 123 PRISTAN",
         "kraj": "KOPER/CAPODISTRIA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Vojkovo nabrežje 32, 6000 Koper/Capodistria"
     },
     {
@@ -4400,7 +4400,7 @@
         "doplacilo": 3.77,
         "ime": "RESTAVRACIJA CITY",
         "kraj": "KRŠKO",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Trg Matije Gubca 3, 8270 Krško"
     },
     {
@@ -4436,7 +4436,7 @@
         "doplacilo": 3.37,
         "ime": "RESTAVRACIJA FRIDA'S MEXICO",
         "kraj": "NAKLO",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Gorenjska cesta 38, 4202 Naklo"
     },
     {
@@ -4460,7 +4460,7 @@
         "doplacilo": 4.17,
         "ime": "RESTAVRACIJA GLAŽUTA",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Dunajska 119, 1000 Ljubljana"
     },
     {
@@ -4472,7 +4472,7 @@
         "doplacilo": 3.07,
         "ime": "RESTAVRACIJA IN KAVA BAR PARADIŽ",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Podutiška cesta 30, 1000 Ljubljana"
     },
     {
@@ -4496,7 +4496,7 @@
         "doplacilo": 2.47,
         "ime": "RESTAVRACIJA IN PIVNICA ZVEZDA",
         "kraj": "MURSKA SOBOTA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Trg zmage 8, 9000 Murska Sobota"
     },
     {
@@ -4640,7 +4640,7 @@
         "doplacilo": 4.0,
         "ime": "RESTAVRACIJA KAZINA",
         "kraj": "JESENICE",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Cesta železarjev 9, 4270 Jesenice"
     },
     {
@@ -4652,7 +4652,7 @@
         "doplacilo": 4.0,
         "ime": "RESTAVRACIJA KAZINA - DOSTAVA",
         "kraj": "JESENICE",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Cesta železarjev 9, 4270 Jesenice"
     },
     {
@@ -4712,7 +4712,7 @@
         "doplacilo": 3.37,
         "ime": "RESTAVRACIJA KOLODVORSKA",
         "kraj": "VELENJE",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Cesta talcev 37a, 3320 Velenje"
     },
     {
@@ -4724,7 +4724,7 @@
         "doplacilo": 3.0,
         "ime": "RESTAVRACIJA KOMPLIMENT",
         "kraj": "ŠKOFJA LOKA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Kidričeva cesta 75, 4220 Škofja Loka"
     },
     {
@@ -4736,7 +4736,7 @@
         "doplacilo": 2.5,
         "ime": "RESTAVRACIJA KOTNIKOVA",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Kotnikova 28, 1000 Ljubljana"
     },
     {
@@ -4856,7 +4856,7 @@
         "doplacilo": 3.37,
         "ime": "RESTAVRACIJA MODRI KVADRAT",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Davčna ulica 1, 1000 Ljubljana"
     },
     {
@@ -4868,7 +4868,7 @@
         "doplacilo": 3.37,
         "ime": "RESTAVRACIJA MOZART",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Stegne 7, 1000 Ljubljana"
     },
     {
@@ -4952,7 +4952,7 @@
         "doplacilo": 2.97,
         "ime": "RESTAVRACIJA PRESTIGE CATERING, GZS",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Dimičeva ulica 13, 1000 Ljubljana"
     },
     {
@@ -4988,7 +4988,7 @@
         "doplacilo": 2.97,
         "ime": "RESTAVRACIJA RODIŠKA KUH'NA",
         "kraj": "DOMŽALE",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Groblje 3, 1230 Domžale"
     },
     {
@@ -5012,7 +5012,7 @@
         "doplacilo": 2.3,
         "ime": "RESTAVRACIJA SARAJEVSKIH JEDI VALTER JESENICE",
         "kraj": "JESENICE",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Cesta Maršala Tita 106, 4270 Jesenice"
     },
     {
@@ -5048,7 +5048,7 @@
         "doplacilo": 2.3,
         "ime": "RESTAVRACIJA SARAJEVSKIJ JEDI VALTER RADOVLJICA",
         "kraj": "RADOVLJICA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Cankarjeva 66, 4240 Radovljica"
     },
     {
@@ -5084,7 +5084,7 @@
         "doplacilo": 1.5,
         "ime": "RESTAVRACIJA SLOREST VIČAVA",
         "kraj": "PTUJ",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Vičava 1, 2250 Ptuj"
     },
     {
@@ -5096,7 +5096,7 @@
         "doplacilo": 3.17,
         "ime": "RESTAVRACIJA SPLOŠNE BOLNIŠNICE NOVO MESTO",
         "kraj": "NOVO MESTO",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Šmihelska cesta 1, 8000 Novo mesto"
     },
     {
@@ -5120,7 +5120,7 @@
         "doplacilo": 4.0,
         "ime": "RESTAVRACIJA ŠEF LA - DOSTAVA",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Vojkova 58, 1000 Ljubljana"
     },
     {
@@ -5132,7 +5132,7 @@
         "doplacilo": 2.0,
         "ime": "RESTAVRACIJA ŠOLSKI CENTER AŠKERČEVA",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Aškerčeva 1, 1000 Ljubljana"
     },
     {
@@ -5192,7 +5192,7 @@
         "doplacilo": 2.5,
         "ime": "RESTAVRACIJA ZLATA SREČA",
         "kraj": "MARIBOR",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Metelkova ulica 29, 2000 Maribor"
     },
     {
@@ -5204,7 +5204,7 @@
         "doplacilo": 3.7,
         "ime": "RESTAVRACIJA,PICERIJA, ŠPAGETERIJA ADRENALINA",
         "kraj": "KRŠKO",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Pesje 30, 8270 Krško"
     },
     {
@@ -5216,7 +5216,7 @@
         "doplacilo": 4.0,
         "ime": "RESTAVRACIJA,PICERIJA, ŠPAGETERIJA ADRENALINA - DOSTAVA",
         "kraj": "KRŠKO",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Pesje 30, 8270 Krško"
     },
     {
@@ -5276,7 +5276,7 @@
         "doplacilo": 3.87,
         "ime": "RUNNING SUSHI & WOK",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Jurčkova cesta 223, 1000 Ljubljana"
     },
     {
@@ -5300,7 +5300,7 @@
         "doplacilo": 3.87,
         "ime": "SAMOPOSTREŽNA RESTAVRACIJA DOBRA HIŠA",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Stegne 11a, 1000 Ljubljana"
     },
     {
@@ -5336,7 +5336,7 @@
         "doplacilo": 1.57,
         "ime": "SLAŠČIČARNA IN OKREPČEVALNICA \"JAGODA\"",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Celovška cesta 75, 1000 Ljubljana"
     },
     {
@@ -5348,7 +5348,7 @@
         "doplacilo": 3.37,
         "ime": "SLAŠČIČARNA IN PICERIJA AJDOVŠČINA",
         "kraj": "AJDOVŠČINA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Goriška cesta 11, 5270 Ajdovščina"
     },
     {
@@ -5360,7 +5360,7 @@
         "doplacilo": 3.37,
         "ime": "SLAŠČIČARNA IN PICERIJA AJDOVŠČINA - HALO ERIK-DOSTAVA",
         "kraj": "AJDOVŠČINA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Goriška cesta 11, 5270 Ajdovščina"
     },
     {
@@ -5384,7 +5384,7 @@
         "doplacilo": 1.97,
         "ime": "SREDNJA GOZDARSKA IN LESARSKA ŠOLA POSTOJNA",
         "kraj": "POSTOJNA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Tržaška cesta 36, 6230 Postojna"
     },
     {
@@ -5396,7 +5396,7 @@
         "doplacilo": 2.0,
         "ime": "SREDNJA ŠOLA IZOLA - SCUOLA MEDIA ISOLA",
         "kraj": "IZOLA/ISOLA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Prekomorskih brigad 7, 6310 Izola/Isola"
     },
     {
@@ -5420,7 +5420,7 @@
         "doplacilo": 3.57,
         "ime": "STARA KRŠKA PIZZERIJA - DOSTAVA",
         "kraj": "KRŠKO",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Cesta krških žrtev 59, 8270 Krško"
     },
     {
@@ -5468,7 +5468,7 @@
         "doplacilo": 0.87,
         "ime": "ŠOLSKI CENTER ŠENTJUR",
         "kraj": "ŠENTJUR",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Cesta na Kmetijsko šolo 9, 3230 Šentjur"
     },
     {
@@ -5588,7 +5588,7 @@
         "doplacilo": 2.97,
         "ime": "TAVERNA HUBER, RESTAVRACIJA IN SLASČIČARNA",
         "kraj": "MURSKA SOBOTA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Cankarjeva ulica 56, 9000 Murska Sobota"
     },
     {
@@ -5696,7 +5696,7 @@
         "doplacilo": 4.37,
         "ime": "UTRIP - BAR, BISTRO IN KAVARNA",
         "kraj": "LJUBLJANA",
-        "ocena": "/",
+        "ocena": 0,
         "naslov": "Šmartinska cesta 3, 1000 Ljubljana"
     },
     {

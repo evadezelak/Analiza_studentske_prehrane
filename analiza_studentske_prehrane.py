@@ -89,7 +89,7 @@ def izloci_podatke(vzorec):
     txt = podatki_restavracije['ocena']
     ocena1 = ocena.search(txt)
     if ocena1 is None:
-        ocena1 = '/'
+        ocena1 = 0
     else:
         ocena1 = ocena.search(txt).groupdict()
         ocena1 = ocena1['ocena']
