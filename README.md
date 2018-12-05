@@ -29,9 +29,9 @@ Podatke bom zajela iz spletne strani https://www.studentska-prehrana.si/sl/resta
 - je kakšna povezava med ceno obroka in tem, da je restavracija odprta tudi ob vikendih
 - povezava med ceno obroka in možnostjo dostave
 - v katerem mestu je največ restavracij z možnostjo dostave
-- v katerem mestu je največ novih restavracij v ponudbi študentsek prehrane
-- kako je cena obroka povezana s tem, da je restavracija nova v ponudbi študentsek prehrane
-- kako je ocena restavracije povezana s tem, da je restavracija nova v ponudbi študentsek prehrane
+- v katerem mestu je največ novih restavracij v ponudbi študentske prehrane
+- kako je cena obroka povezana s tem, da je restavracija nova v ponudbi študentske prehrane
+- kako je ocena restavracije povezana s tem, da je restavracija nova v ponudbi študentske prehrane
 &nbsp;
 
 &nbsp;
