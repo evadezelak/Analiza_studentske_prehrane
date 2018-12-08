@@ -1,7 +1,7 @@
 # Analiza_studentske_prehrane
 
 Ta repozitorij vsebuje projekt pri predmetu Programiranje 1 - zajem in analiza podakov.
-Podatke bom zajela iz spletne strani https://www.studentska-prehrana.si/sl/restaurant 
+Podatke sem zajela s spletne strani https://www.studentska-prehrana.si/sl/restaurant 
 &nbsp;
 
 &nbsp;
@@ -36,4 +36,4 @@ Podatke bom zajela iz spletne strani https://www.studentska-prehrana.si/sl/resta
 
 &nbsp;
 
-Podatke imam zbrane v mapi `obdelani-podatki`, v datoteki `vse-restavracije.csv`. Vsaka datoteka vsebuje po vrsticah podatke o restavraciji, po stoplcih pa kategorije, ki sem jih navedla zgoraj. 
+Podatke imam zbrane v mapi `obdelani-podatki`, v datoteki `vse-restavracije.csv`. Vsaka datoteka vsebuje po vrsticah podatke o restavraciji, po stoplcih pa kategorije, ki sem jih navedla zgoraj. V mapi `analiza` pa je sama analiza podatkov. In sicer sem se najprej osredotočila na restavracije po celotni Sloveniji, kjer sem upoštevala tako absolutne, kot tudi relativne vrednosti, da lahko dobimo nek širši vpogled celotne slike. Na koncu pa sem še podrobneje pogledala stanje študentske prehrane posebej za Ljubljano, saj je bila le-ta vodilna pri večini komponent, ki sem jih analizirala.
